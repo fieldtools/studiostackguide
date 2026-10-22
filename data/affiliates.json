@@ -1,0 +1,38 @@
+{
+ "_note": "Plain links for now. After approval, replace url with affiliate link and set status live.",
+ "martialytics": {
+  "url": "https://www.martialytics.com/",
+  "program": "Rewardful, 40% for 12 months",
+  "status": "plain"
+ },
+ "gymdesk": {
+  "url": "https://gymdesk.com/",
+  "program": "100% of first 3 payments",
+  "status": "plain"
+ },
+ "zenplanner": {
+  "url": "https://zenplanner.com/",
+  "program": "15% then 20% for 12 months",
+  "status": "plain"
+ },
+ "kicksite": {
+  "url": "https://www.kicksite.com/",
+  "program": "Customer referral: $20 + free month",
+  "status": "plain"
+ },
+ "sparkmembership": {
+  "url": "https://sparkmembership.com/",
+  "program": "Ambassador (unverified)",
+  "status": "plain"
+ },
+ "mass": {
+  "url": "https://www.mass-system.com/",
+  "program": "Federation revenue share only",
+  "status": "plain"
+ },
+ "mindbody": {
+  "url": "https://www.mindbodyonline.com/business",
+  "program": "Customer credit only",
+  "status": "plain"
+ }
+}

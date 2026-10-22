@@ -1,0 +1,366 @@
+[
+ {
+  "slug": "martialytics",
+  "name": "Martialytics",
+  "website": "https://www.martialytics.com/",
+  "trades": [
+   "martial",
+   "bjj"
+  ],
+  "free_trial": "30 days, no credit card",
+  "contract": "No lock-in contracts",
+  "plans": [
+   {
+    "name": "0-50 students",
+    "users": "Unlimited users",
+    "monthly_no_commit": "$69/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "51-100 students",
+    "users": "Unlimited users",
+    "monthly_no_commit": "$99/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "101-200 students",
+    "users": "Unlimited users",
+    "monthly_no_commit": "$129/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "200+ students",
+    "users": "Unlimited users",
+    "monthly_no_commit": "$199/mo",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Priced by active students; leads and inactive students free; unlimited users and locations",
+  "card_fee": "Standard Stripe rates, no markup or revenue % (per vendor)",
+  "belt_tracking": "unknown (not stated on pricing page)",
+  "attendance": "unknown (not stated on pricing page)",
+  "online_booking": "unknown",
+  "rating": "unknown",
+  "sources": [
+   "https://www.martialytics.com/pricing"
+  ],
+  "best_for": "Martial arts schools wanting every feature at a flat student-count price",
+  "starting_price": "$69/mo (0-50 students)",
+  "pros": [
+   "30-day free trial, no credit card",
+   "Every plan includes every feature",
+   "Unlimited users, locations and emails"
+  ],
+  "cons": [
+   "Price steps up with active student count",
+   "Belt tracking not described on pricing page"
+  ],
+  "last_verified": "2026-10-22"
+ },
+ {
+  "slug": "gymdesk",
+  "name": "Gymdesk",
+  "website": "https://gymdesk.com/",
+  "trades": [
+   "martial",
+   "bjj",
+   "dance",
+   "yoga"
+  ],
+  "free_trial": "30 days, no credit card",
+  "contract": "Month to month, no setup or cancellation fee",
+  "plans": [
+   {
+    "name": "Micro Gym (\u226450 active)",
+    "users": "Unlimited staff",
+    "monthly_no_commit": "$100/mo own processor; $75/mo with Gymdesk Payments",
+    "annual": "unknown"
+   },
+   {
+    "name": "Small Gym (51-100)",
+    "users": "Unlimited staff",
+    "monthly_no_commit": "$125/mo; $100/mo with Gymdesk Payments",
+    "annual": "unknown"
+   },
+   {
+    "name": "Medium Gym (101-150)",
+    "users": "Unlimited staff",
+    "monthly_no_commit": "$175/mo; $150/mo with Gymdesk Payments",
+    "annual": "unknown"
+   },
+   {
+    "name": "Large Gym (151-250)",
+    "users": "Unlimited staff",
+    "monthly_no_commit": "$240/mo; $200/mo with Gymdesk Payments",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Priced by active members; extra location $50/mo (Gymdesk Payments) or $100/mo (own processor)",
+  "card_fee": "Gymdesk Payments (US/Canada) rate: unknown",
+  "belt_tracking": "unknown (not stated on pricing page)",
+  "attendance": "Attendance history export mentioned",
+  "online_booking": "unknown",
+  "rating": "unknown",
+  "sources": [
+   "https://gymdesk.com/pricing"
+  ],
+  "best_for": "Gyms and dojos that want a website included and can use Gymdesk Payments",
+  "starting_price": "$75/mo with Gymdesk Payments (\u226450 members); $100/mo otherwise",
+  "pros": [
+   "30-day trial, no credit card",
+   "Unlimited staff and a gym website included",
+   "No contract, setup or exit fee"
+  ],
+  "cons": [
+   "$25/mo more without Gymdesk Payments",
+   "Door access ($100/mo) and branded app ($100/mo) are add-ons"
+  ],
+  "last_verified": "2026-10-22"
+ },
+ {
+  "slug": "kicksite",
+  "name": "Kicksite",
+  "website": "https://www.kicksite.com/",
+  "trades": [
+   "martial",
+   "bjj"
+  ],
+  "free_trial": "Free trial offered (length unknown)",
+  "contract": "unknown; discounted annual pricing on request",
+  "plans": [
+   {
+    "name": "0-25 students",
+    "users": "unknown",
+    "monthly_no_commit": "$49/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "26-50 students",
+    "users": "unknown",
+    "monthly_no_commit": "$99/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "51-100 students",
+    "users": "unknown",
+    "monthly_no_commit": "$149/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "101+ students",
+    "users": "unknown",
+    "monthly_no_commit": "$199/mo",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Priced by active students; all features at every tier",
+  "card_fee": "Preferred processor Basys, flat rate (amount unknown)",
+  "belt_tracking": "Yes: attendance and belt tracking, promote with one click",
+  "attendance": "Yes",
+  "online_booking": "unknown",
+  "rating": "unknown",
+  "sources": [
+   "https://www.kicksite.com/pricing"
+  ],
+  "best_for": "Small martial arts schools under 25 students",
+  "starting_price": "$49/mo (0-25 students)",
+  "pros": [
+   "Lowest published entry tier here ($49/mo)",
+   "Belt rank and attendance tracking listed",
+   "Free unlimited one-way texting"
+  ],
+  "cons": [
+   "Annual pricing not published",
+   "Processing rates not published"
+  ],
+  "last_verified": "2026-10-22"
+ },
+ {
+  "slug": "zen-planner",
+  "name": "Zen Planner",
+  "website": "https://zenplanner.com/",
+  "trades": [
+   "martial",
+   "bjj",
+   "yoga",
+   "dance"
+  ],
+  "free_trial": "unknown",
+  "contract": "Month-to-month; annual contract on request",
+  "plans": [
+   {
+    "name": "Studio",
+    "users": "Staff not charged",
+    "monthly_no_commit": "From $99/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "Essentials (Studio + website)",
+    "users": "Staff not charged",
+    "monthly_no_commit": "$198/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "Ultimate (Studio + Engage marketing)",
+    "users": "Staff not charged",
+    "monthly_no_commit": "$348/mo",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Priced by active members (prospects and staff not counted)",
+  "card_fee": "Daxko Payments or preferred processors; rates unknown",
+  "belt_tracking": "Yes: belt and skill tracking listed",
+  "attendance": "Yes",
+  "online_booking": "Yes: online scheduling",
+  "rating": "unknown",
+  "sources": [
+   "https://zenplanner.com/pricing/"
+  ],
+  "best_for": "Gyms and studios wanting belt tracking plus payroll and member app",
+  "starting_price": "From $99/mo (Studio)",
+  "pros": [
+   "Belt and skill tracking listed",
+   "Month-to-month by default",
+   "Staff and member mobile apps included"
+  ],
+  "cons": [
+   "Final price depends on active member count (not published)",
+   "Branded app and card readers $39/mo each"
+  ],
+  "last_verified": "2026-10-22"
+ },
+ {
+  "slug": "spark-membership",
+  "name": "Spark Membership",
+  "website": "https://sparkmembership.com/",
+  "trades": [
+   "martial",
+   "bjj"
+  ],
+  "free_trial": "8 weeks",
+  "contract": "unknown",
+  "plans": [
+   {
+    "name": "Spark (promo)",
+    "users": "unknown",
+    "monthly_no_commit": "$199/mo after trial",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Full access to every feature; setup by account rep; free data migration",
+  "card_fee": "Spark Payments (rates unknown)",
+  "belt_tracking": "Yes: belt history in student profiles",
+  "attendance": "Yes: attendance trends",
+  "online_booking": "unknown",
+  "rating": "unknown",
+  "sources": [
+   "https://sparkmembership.com/pricing/"
+  ],
+  "best_for": "Martial arts schools wanting done-for-you setup and automations",
+  "starting_price": "$199/mo after 8-week trial",
+  "pros": [
+   "8-week free trial",
+   "Free student data migration",
+   "Belt history and family accounts"
+  ],
+  "cons": [
+   "Single published price, no small-school tier",
+   "Contract terms not published"
+  ],
+  "last_verified": "2026-10-22"
+ },
+ {
+  "slug": "mass",
+  "name": "MASS",
+  "website": "https://www.mass-system.com/",
+  "trades": [
+   "martial",
+   "bjj"
+  ],
+  "free_trial": "14 days, no credit card (homepage); terms say payment method required",
+  "contract": "No contracts, monthly or annual",
+  "plans": [
+   {
+    "name": "Starter / Growth / Pro",
+    "users": "unknown",
+    "monthly_no_commit": "unknown (pricing page requires sign-in)",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Priced by active students",
+  "card_fee": "2% platform fee on student payments processed through MASS (Terms 3.7), plus Stripe",
+  "belt_tracking": "unknown",
+  "attendance": "Yes: attendance tracking (Terms)",
+  "online_booking": "Class scheduling (Terms)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.mass-system.com/",
+   "https://www.mass-system.com/TermsOfService"
+  ],
+  "best_for": "AI-assisted admin for small martial arts clubs (Australia-based)",
+  "starting_price": "unknown",
+  "pros": [
+   "14-day free trial",
+   "No contracts",
+   "Free club directory listing"
+  ],
+  "cons": [
+   "Prices not public",
+   "2% platform fee on processed payments"
+  ],
+  "last_verified": "2026-10-22"
+ },
+ {
+  "slug": "mindbody",
+  "name": "Mindbody",
+  "website": "https://www.mindbodyonline.com/business",
+  "trades": [
+   "yoga",
+   "dance",
+   "martial"
+  ],
+  "free_trial": "unknown",
+  "contract": "Depends on plan and promotion",
+  "plans": [
+   {
+    "name": "Starter",
+    "users": "Unlimited users per location",
+    "monthly_no_commit": "From $79/mo per location",
+    "annual": "unknown"
+   },
+   {
+    "name": "Accelerate",
+    "users": "Unlimited users",
+    "monthly_no_commit": "unknown",
+    "annual": "unknown"
+   },
+   {
+    "name": "Ultimate",
+    "users": "Unlimited users",
+    "monthly_no_commit": "unknown",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Per location; unlimited users",
+  "card_fee": "Mindbody Payments: rate + $0.10-$0.30 per transaction; marketplace fee 20% (cap $30) on first purchase of new clients from app",
+  "belt_tracking": "unknown",
+  "attendance": "unknown",
+  "online_booking": "Yes: self-serve booking, Pick-a-Spot (Accelerate+)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.mindbodyonline.com/business/pricing"
+  ],
+  "best_for": "Yoga, dance and fitness studios wanting a consumer marketplace",
+  "starting_price": "From $79/mo per location (Starter)",
+  "pros": [
+   "Unlimited users per location",
+   "Listing on Mindbody app",
+   "No onboarding fee"
+  ],
+  "cons": [
+   "Only the entry price is published",
+   "App bookings from new clients carry a 20% fee (capped $30)"
+  ],
+  "last_verified": "2026-10-22"
+ }
+]

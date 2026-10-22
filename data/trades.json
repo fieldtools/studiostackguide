@@ -1,0 +1,26 @@
+[
+ {
+  "slug": "martial-arts",
+  "key": "martial",
+  "name": "Martial Arts / Karate",
+  "intro": "Dojos need recurring billing, attendance, and belt and rank tracking tied to promotion. These are the tools we track."
+ },
+ {
+  "slug": "bjj",
+  "key": "bjj",
+  "name": "BJJ & MMA",
+  "intro": "BJJ and MMA gyms need stripe and belt tracking, class check-in and simple memberships."
+ },
+ {
+  "slug": "dance",
+  "key": "dance",
+  "name": "Dance Studio",
+  "intro": "Dance studios need class registration, family accounts, recurring tuition and booking."
+ },
+ {
+  "slug": "yoga",
+  "key": "yoga",
+  "name": "Yoga Studio",
+  "intro": "Yoga studios need class booking, class packs and memberships, and drop-in payments."
+ }
+]
