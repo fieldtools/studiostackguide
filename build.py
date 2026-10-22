@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build Studio Software Hub static site from data/*.json into dist/. No dependencies."""
+"""Build StudioStackGuide static site from data/*.json into dist/. No dependencies."""
 import json, re, shutil, html
 from pathlib import Path
 R = Path(__file__).parent; D = R/"data"; OUT = R/"dist"
@@ -90,7 +90,7 @@ def build():
         f"<section class='hero'><h1>Find the right software for your dojo or studio</h1><p class='lead'>{site['tagline']}. Every price links to its source. If a number isn't public, we say unknown.</p><ul class='grid trades-g' id='trades' aria-label='Choose your studio type'>{cards}</ul>{trustbar()}</section><h2>Tools we track</h2><div class='grid tools-g'>{tcards}</div><h2>Guides and comparisons</h2><ul class='grid guides-g'>{arts}</ul>",
         [{"@context":"https://schema.org","@type":"WebSite","name":site["name"],"url":BASE+"/"}]))
     # about
-    write("/about/", layout("/about/", f"About & Methodology | {site['name']}", "How Studio Software Hub collects pricing and feature data, how often it's checked, and how we make money (affiliate disclosure).",
+    write("/about/", layout("/about/", f"About & Methodology | {site['name']}", "How StudioStackGuide collects pricing and feature data, how often it's checked, and how we make money (affiliate disclosure).",
         f"""<h1>About and methodology</h1><h2>How we collect data</h2><p>We only use information published on each vendor's own public pricing and feature pages. Each tool entry lists its source URLs and a last-checked date (currently {LC}). We don't invent ratings, review scores or prices. Anything a vendor doesn't publish is marked <em>unknown</em>.</p>
 <h2>How often we update</h2><p>We re-check prices on a rolling basis and at least quarterly. Promotions change often, so always confirm on the vendor's site.</p>
 <h2 id="disclosure">Affiliate disclosure</h2><p>Some links on this site are affiliate or referral links. If you sign up through them, we may earn a commission at no extra cost to you. Commissions never affect the data we publish, and we list tools whether or not they have an affiliate program.</p>"""))
