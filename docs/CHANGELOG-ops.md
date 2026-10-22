@@ -20,3 +20,4 @@
 - 2026-10-22 12:52: created the public repo fieldtools/studiostackguide and pushed main. Pages enabled (workflow); cname set to studiostackguide.com. Run 39826403225 succeeded.
 - 2026-10-22 12:53: set the Cloudflare analytics token, pushed. Run 39826593352 succeeded.
 - 2026-10-22 ~12:58: DNS resolves publicly (Cloudflare NS). HTTP 200 from GitHub Pages for studiostackguide.com. HTTPS cert not yet issued (GitHub serves *.github.io); HTTPS not enforced.
+- 2026-10-22 ~13:20: filled belt/attendance/booking fields for Martialytics (martialytics.com/features), Gymdesk (gymdesk.com homepage FAQ) and MASS belt tracking (mass-system.com homepage). Other unknowns left as unknown (not stated on vendor pages).

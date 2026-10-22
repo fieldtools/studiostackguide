@@ -37,12 +37,13 @@
   ],
   "extra_user": "Priced by active students; leads and inactive students free; unlimited users and locations",
   "card_fee": "Standard Stripe rates, no markup or revenue % (per vendor)",
-  "belt_tracking": "unknown (not stated on pricing page)",
-  "attendance": "unknown (not stated on pricing page)",
-  "online_booking": "unknown",
+  "belt_tracking": "Yes: grading-readiness tracking; student app lessons sectioned by rank (features page)",
+  "attendance": "Yes: engagement tracking and automatic absence follow-up (features page)",
+  "online_booking": "Yes: bookings & events, calendar, capacity (features page)",
   "rating": "unknown",
   "sources": [
-   "https://www.martialytics.com/pricing"
+   "https://www.martialytics.com/pricing",
+   "https://www.martialytics.com/features"
   ],
   "best_for": "Martial arts schools wanting every feature at a flat student-count price",
   "starting_price": "$69/mo (0-50 students)",
@@ -53,7 +54,7 @@
   ],
   "cons": [
    "Price steps up with active student count",
-   "Belt tracking not described on pricing page"
+   "Annual pricing not published"
   ],
   "last_verified": "2026-10-22"
  },
@@ -71,7 +72,7 @@
   "contract": "Month to month, no setup or cancellation fee",
   "plans": [
    {
-    "name": "Micro Gym (\u226450 active)",
+    "name": "Micro Gym (≤50 active)",
     "users": "Unlimited staff",
     "monthly_no_commit": "$100/mo own processor; $75/mo with Gymdesk Payments",
     "annual": "unknown"
@@ -97,15 +98,16 @@
   ],
   "extra_user": "Priced by active members; extra location $50/mo (Gymdesk Payments) or $100/mo (own processor)",
   "card_fee": "Gymdesk Payments (US/Canada) rate: unknown",
-  "belt_tracking": "unknown (not stated on pricing page)",
-  "attendance": "Attendance history export mentioned",
-  "online_booking": "unknown",
+  "belt_tracking": "Yes: per-program rank progression; flags who's ready to promote (homepage FAQ)",
+  "attendance": "Yes: check-in by kiosk, name search, barcode or phone",
+  "online_booking": "Yes: members book classes from their phone",
   "rating": "unknown",
   "sources": [
-   "https://gymdesk.com/pricing"
+   "https://gymdesk.com/pricing",
+   "https://gymdesk.com/"
   ],
   "best_for": "Gyms and dojos that want a website included and can use Gymdesk Payments",
-  "starting_price": "$75/mo with Gymdesk Payments (\u226450 members); $100/mo otherwise",
+  "starting_price": "$75/mo with Gymdesk Payments (≤50 members); $100/mo otherwise",
   "pros": [
    "30-day trial, no credit card",
    "Unlimited staff and a gym website included",
@@ -289,7 +291,7 @@
   ],
   "extra_user": "Priced by active students",
   "card_fee": "2% platform fee on student payments processed through MASS (Terms 3.7), plus Stripe",
-  "belt_tracking": "unknown",
+  "belt_tracking": "Yes: grading readiness score per student; one-click grading certificates (homepage)",
   "attendance": "Yes: attendance tracking (Terms)",
   "online_booking": "Class scheduling (Terms)",
   "rating": "unknown",
