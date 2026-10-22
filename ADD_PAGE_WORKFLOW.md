@@ -20,4 +20,4 @@ Templates (build.py `layout`, `toolcard`, `trustbar`, `table`) render tool cards
 
 Affiliate links: edit only data/affiliates.json (`url`, set `status` to `live`). Templates add `rel="sponsored nofollow"` automatically.
 
-Note: the Cloudflare beacon token in build.py is the placeholder CF_BEACON_TOKEN_TODO. Set it after the site is added in Cloudflare Web Analytics. Not deployed yet; there is no git remote or hosting.
+Note: the Cloudflare beacon token in build.py is the placeholder 65de38c8090f4a059cfa398886fcd1dd. Set it after the site is added in Cloudflare Web Analytics. Not deployed yet; there is no git remote or hosting.
