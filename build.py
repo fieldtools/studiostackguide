@@ -50,7 +50,7 @@ def layout(path, title, desc, body, schema=None):
 <link rel="stylesheet" href="/style.css">{ld}</head><body><a class="skip" href="#main">Skip to content</a>
 <header class="top"><div class="wrap hd"><a class="logo" href="/"><svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><rect width="32" height="32" rx="7" fill="#0f5e4f"/><path d="M8 11h16M8 16h11M8 21h7" stroke="#fff" stroke-width="3" stroke-linecap="round"/></svg>{site['name']}</a>
 <nav class="quick" aria-label="Quick"><a class="pill pri" href="/#trades">Best for my studio</a>{cmp_link}</nav></div>
-<nav class="trades wrap" aria-label="Studio types">{nav}<a href="/about/">Methodology</a></nav></header>
+<nav class="trades wrap" aria-label="Studio types">{nav}<a href="/membership-revenue-calculator/">Calculator</a><a href="/software-buying-checklist/">Checklist</a><a href="/about/">Methodology</a></nav></header>
 <main id="main" class="wrap">{body}</main><footer><div class="wrap"><p><strong>{site['name']}</strong>: {e(site['tagline'])}.</p><p>Last checked: {LC}. Some links may be affiliate links; see our <a href="/about/#disclosure">disclosure</a>. Prices come from vendor pages and can change. <a href="/about/">Methodology</a></p><p>Contact: <a href="mailto:jacob@studiostackguide.com">jacob@studiostackguide.com</a></p><p>Run a home or field service business? See <a href="https://tradestackguide.com/">TradeStackGuide</a>.</p></div></footer><!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{{"token": "65de38c8090f4a059cfa398886fcd1dd"}}'></script><!-- End Cloudflare Web Analytics --></body></html>"""
 
 def write(path, content):

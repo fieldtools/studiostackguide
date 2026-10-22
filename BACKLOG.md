@@ -5,10 +5,10 @@
 | 2 | best-bjj-gym-software | best | done (2026-10-22) |
 | 3 | best-dance-studio-software (dance + yoga) | best | done (2026-10-22) |
 | 4 | martialytics-vs-kicksite | vs | todo |
-| 5 | gymdesk-vs-zen-planner | vs | todo |
+| 5 | gymdesk-vs-zen-planner | vs | done (2026-10-22) |
 | 6 | spark-membership-vs-kicksite | vs | todo |
-| 7 | martialytics-vs-gymdesk | vs | todo |
-| 8 | zen-planner-vs-mindbody | vs | todo |
+| 7 | martialytics-vs-gymdesk | vs | done (2026-10-22) |
+| 8 | zen-planner-vs-mindbody | vs | done (2026-10-22) |
 | 9 | best-karate-school-software | best | todo |
 | 10 | best-taekwondo-software | best | todo |
 | 11 | best-yoga-studio-software (standalone) | best | todo |
@@ -20,7 +20,7 @@
 | 17 | martial-arts-billing-software (processing fees compared) | feature | todo |
 | 18 | class-booking-software-for-studios | feature | todo |
 | 19 | free-martial-arts-software (free tiers/trials) | best | todo |
-| 20 | martial-arts-software-pricing (cost by student count) | guide | todo |
+| 20 | martial-arts-software-pricing (cost by student count) | guide | done (2026-10-22) |
 | 21 | mindbody-alternatives-for-studios | alternatives | todo |
 | 22 | zen-planner-alternatives | alternatives | todo |
 | 23 | kicksite-alternatives | alternatives | todo |
