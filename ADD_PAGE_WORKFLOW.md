@@ -21,3 +21,7 @@ Templates (build.py `layout`, `toolcard`, `trustbar`, `table`) render tool cards
 Affiliate links: edit only data/affiliates.json (`url`, set `status` to `live`). Templates add `rel="sponsored nofollow"` automatically.
 
 Note: the Cloudflare beacon token in build.py is the placeholder 65de38c8090f4a059cfa398886fcd1dd. Set it after the site is added in Cloudflare Web Analytics. Not deployed yet; there is no git remote or hosting.
+
+
+## Header photo
+New pages get a topical header photo automatically (see docs/PAGE-IMAGES.md). Optionally set `"image": "<IMG key>"` in the page JSON to pick one.
