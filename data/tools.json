@@ -38,7 +38,7 @@
   "extra_user": "Priced by active students; leads and inactive students free; unlimited users and locations",
   "card_fee": "Standard Stripe rates, no markup or revenue % (per vendor)",
   "belt_tracking": "Yes: grading-readiness tracking; student app lessons sectioned by rank (features page)",
-  "attendance": "Yes: engagement tracking and automatic absence follow-up (features page)",
+  "attendance": "Yes: engagement tracking, automatic absence follow-up, Kiosk Mode check-in app (features page, site nav)",
   "online_booking": "Yes: bookings & events, calendar, capacity (features page)",
   "rating": "unknown",
   "sources": [
@@ -56,7 +56,7 @@
    "Price steps up with active student count",
    "Annual pricing not published"
   ],
-  "last_verified": "2026-10-22"
+  "last_verified": "2026-10-23"
  },
  {
   "slug": "gymdesk",
@@ -127,7 +127,7 @@
    "martial",
    "bjj"
   ],
-  "free_trial": "Free trial offered (length unknown)",
+  "free_trial": "First 30 days free (pricing and switch pages)",
   "contract": "unknown; discounted annual pricing on request",
   "plans": [
    {
@@ -156,26 +156,30 @@
    }
   ],
   "extra_user": "Priced by active students; all features at every tier",
-  "card_fee": "Preferred processor Basys, flat rate (amount unknown)",
+  "card_fee": "US: preferred partner Basys, flat rate $29/mo + 2.9% + $0.25 per card transaction (card + ACH option: $35 setup, $49/mo, 2.9% + $0.25 card, $0.30 ACH); international: Stripe (payment-processing page)",
   "belt_tracking": "Yes: attendance and belt tracking, promote with one click",
-  "attendance": "Yes",
-  "online_booking": "unknown",
+  "attendance": "Yes: kiosk check-in by name, PIN or member-portal barcode; check-in restrictions for past-due balances (FAQ, attendance page)",
+  "online_booking": "Yes: students register for classes and events in the Member Portal mobile web app (FAQ)",
   "rating": "unknown",
   "sources": [
-   "https://www.kicksite.com/pricing"
+   "https://www.kicksite.com/pricing",
+   "https://kicksite.com/payment-processing/",
+   "https://kicksite.com/faq/",
+   "https://kicksite.com/martial-arts-attendance-tracking-software/",
+   "https://kicksite.com/switch/"
   ],
   "best_for": "Small martial arts schools under 25 students",
   "starting_price": "$49/mo (0-25 students)",
   "pros": [
-   "Lowest published entry tier here ($49/mo)",
-   "Belt rank and attendance tracking listed",
+   "Lowest published entry tier here ($49/mo, 0-25 students)",
+   "First 30 days free, free data import and 60 days of onboarding",
    "Free unlimited one-way texting"
   ],
   "cons": [
-   "Annual pricing not published",
-   "Processing rates not published"
+   "Annual pricing not published (ask for discount at demo)",
+   "Basys flat rate adds $29/mo on top of per-transaction fees"
   ],
-  "last_verified": "2026-10-22"
+  "last_verified": "2026-10-23"
  },
  {
   "slug": "zen-planner",

@@ -4,7 +4,7 @@
 | 1 | best-martial-arts-school-software | compare | done (2026-10-22) |
 | 2 | best-bjj-gym-software | best | done (2026-10-22) |
 | 3 | best-dance-studio-software (dance + yoga) | best | done (2026-10-22) |
-| 4 | martialytics-vs-kicksite | vs | todo |
+| 4 | martialytics-vs-kicksite | vs | done (2026-10-23) |
 | 5 | gymdesk-vs-zen-planner | vs | done (2026-10-22) |
 | 6 | spark-membership-vs-kicksite | vs | todo |
 | 7 | martialytics-vs-gymdesk | vs | done (2026-10-22) |
