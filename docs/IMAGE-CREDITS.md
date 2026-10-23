@@ -28,7 +28,7 @@ Assigned automatically by `page_img()` in build.py (see docs/PAGE-IMAGES.md). "U
 | `mma-group-training.webp` (1200x400) | topic pool (bjj) + fallback; was /membership-revenue-calculator/ until 2026-10-23 | Group mixed martial arts class training on gym mats | Josué Rodríguez | https://www.pexels.com/photo/35029375/ |
 | `boxing-ring-sparring.webp` (1200x400) | /tools/gymdesk/ | Two fighters sparring in a boxing ring with heavy bags behind | RDNE Stock project | https://www.pexels.com/photo/8611372/ |
 | `dance-class.webp` (1200x400) | /best-dance-studio-software/ | Instructor leading a dance class in a bright mirrored studio | David Awokoya | https://www.pexels.com/photo/5935969/ |
-| `yoga-class.webp` (1200x400) | /gymdesk-vs-zen-planner/, /tools/zen-planner/ | Adults exercising on red mats in a wood-paneled studio | Pavel Danilyuk | https://www.pexels.com/photo/6339356/ |
+| `yoga-class.webp` (1200x400) | /gymdesk-vs-zen-planner/ | Adults exercising on red mats in a wood-paneled studio | Pavel Danilyuk | https://www.pexels.com/photo/6339356/ |
 | `karate-kids-class.webp` (1200x400) | /best-martial-arts-school-software/, /tools/spark-membership/ | Children in karate uniforms lined up in a dojo with their instructor | RDNE Stock project | https://www.pexels.com/photo/7045734/ |
 | `karate-instructor.webp` (1200x400) | /martialytics-vs-gymdesk/ | Karate instructor in a white gi and black belt in a brick-walled dojo | RDNE Stock project | https://www.pexels.com/photo/7045583/ |
 | `dojo-focus-pad.webp` (1200x400) | /martialytics-vs-kicksite/ | Student striking a focus pad during dojo training | RDNE Stock project | https://www.pexels.com/photo/7045618/ |
@@ -36,5 +36,6 @@ Assigned automatically by `page_img()` in build.py (see docs/PAGE-IMAGES.md). "U
 | `martial-artist-kneeling.webp` (1200x400) | /tools/martialytics/ | Martial artist in a black uniform kneeling on a dojo mat | RDNE Stock project | https://www.pexels.com/photo/8611366/ |
 | `gym-member-front-desk.webp` (1200x400) | /membership-revenue-calculator/ | Smiling member in workout clothes at a fitness studio front desk | Andrea Piacquadio | https://www.pexels.com/photo/content-athletic-female-at-reception-desk-in-sports-center-3757950/ |
 | `coach-clipboard-checklist.webp` (1200x400) | /software-buying-checklist/ | Coach writing notes on a clipboard while a young student looks up at him | cottonbro studio | https://www.pexels.com/photo/a-male-coach-talking-to-his-student-7207364/ |
+| `gym-coach-tablet.webp` (1200x400) | /tools/zen-planner/ | Coach checking workout stats on a tablet while members train on heavy bags | ThisIsEngineering | https://www.pexels.com/photo/person-holding-black-tablet-3912956/ |
 
 Checked 2026-10-23: each source page was live and marked Free. Images were reviewed for visible logos/brand names and SFW content.

@@ -38,6 +38,7 @@ IMG = {  # header photos (Pexels license: free commercial use, no attribution re
  "martial4": ("dojo-focus-pad.webp", 1200, 400, "Student striking a focus pad during dojo training", "RDNE Stock project", "https://www.pexels.com/photo/7045618/"),
  "martial5": ("taekwondo-black-uniform.webp", 1200, 400, "Martial artist in a black embroidered uniform in a dojo", "RDNE Stock project", "https://www.pexels.com/photo/8611376/"),
  "martial6": ("martial-artist-kneeling.webp", 1200, 400, "Martial artist in a black uniform kneeling on a dojo mat", "RDNE Stock project", "https://www.pexels.com/photo/8611366/"),
+ "tool-zenplanner": ("gym-coach-tablet.webp", 1200, 400, "Coach checking workout stats on a tablet while members train on heavy bags", "ThisIsEngineering", "https://www.pexels.com/photo/person-holding-black-tablet-3912956/"),
  "calc-frontdesk": ("gym-member-front-desk.webp", 1200, 400, "Smiling member in workout clothes at a fitness studio front desk", "Andrea Piacquadio", "https://www.pexels.com/photo/content-athletic-female-at-reception-desk-in-sports-center-3757950/"),
  "checklist-coach": ("coach-clipboard-checklist.webp", 1200, 400, "Coach writing notes on a clipboard while a young student looks up at him", "cottonbro studio", "https://www.pexels.com/photo/a-male-coach-talking-to-his-student-7207364/"),
 }
@@ -46,7 +47,7 @@ PAGE_IMG = {  # explicit picks for existing pages (slug -> IMG key)
  "gymdesk-vs-zen-planner": "yoga2", "martial-arts-software-pricing": "martial5", "martialytics-vs-gymdesk": "martial3",
  "martialytics-vs-kicksite": "martial4", "membership-revenue-calculator": "calc-frontdesk", "software-buying-checklist": "checklist-coach",
  "zen-planner-vs-mindbody": "yoga",
- "tools/martialytics": "martial6", "tools/kicksite": "martial", "tools/gymdesk": "bjj5", "tools/zen-planner": "yoga2",
+ "tools/martialytics": "martial6", "tools/kicksite": "martial", "tools/gymdesk": "bjj5", "tools/zen-planner": "tool-zenplanner",
  "tools/spark-membership": "martial2", "tools/mass": "bjj", "tools/mindbody": "dance"}
 TOPIC_WORDS = [("bjj", r"bjj|jiu.?jitsu|grappl|mma|wrestl|judo|boxing|muay"), ("dance", r"dance|ballet|tap|hip.?hop|cheer"),
  ("yoga", r"yoga|pilates|barre|meditat"), ("martial", r"martial|karate|dojo|taekwondo|kung.?fu|krav|kicksite|martialytics|belt")]
