@@ -33,3 +33,4 @@
 | 30 | switching-martial-arts-software (data export/migration) | guide | todo |
 | 31 | best-pilates-studio-software | best | todo |
 | 32 | martial-arts-software-multi-location | best | todo |
+| 33 | tools/momence (review + pricing) | tool | todo (affiliate: Momence $500 one-time via PartnerStack, needs Jacob to sign up) |
