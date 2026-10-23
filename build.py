@@ -19,6 +19,22 @@ ICONS = {  # simple original inline SVG paths (24x24, stroke)
  "dance": '<circle cx="13" cy="4" r="2"/><path d="M13 6l-2 6 4 3-1 6M11 12l-5 2M13 8l5-2"/>',
  "yoga": '<circle cx="12" cy="4" r="2"/><path d="M12 6v8M12 9l-6 3M12 9l6 3M5 20l7-6 7 6"/>',
 }
+IMG = {  # header photos (Pexels license: free commercial use, no attribution required); credits in docs/IMAGE-CREDITS.md
+ "hero": ("hero-bjj-gym.webp", 1600, 640, "Two jiu-jitsu students grappling on mats in a bright training gym", "RDNE Stock project", "https://www.pexels.com/photo/8611429/"),
+ "bjj": ("bjj.webp", 1200, 400, "Jiu-jitsu partners drilling a guard pass on black mats", "RDNE Stock project", "https://www.pexels.com/photo/8611380/"),
+ "martial": ("martial-arts.webp", 1200, 400, "Young karate student bowing to an instructor in a dojo", "cottonbro studio", "https://www.pexels.com/photo/a-girl-bowing-in-front-of-a-karate-teacher-7991206/"),
+ "dance": ("dance.webp", 1200, 400, "Dancers holding a synchronized pose in a studio", "Pavel Danilyuk", "https://www.pexels.com/photo/dancers-dancing-in-a-studio-6926540/"),
+ "yoga": ("yoga.webp", 1200, 400, "Yoga class stretching on red mats in a wood-paneled studio", "Pavel Danilyuk", "https://www.pexels.com/photo/group-of-people-stretching-in-yoga-studio-6339344/"),
+ "studio": ("studio-generic.webp", 1200, 400, "Two martial artists training in a dimly lit dojo", "Alireza Heidarpour", "https://www.pexels.com/photo/martial-arts-training-in-dimly-lit-dojo-29393397/"),
+}
+def pic(key, cls="ph-img", lazy=True):
+    if key not in IMG: return ""
+    f, w, h, alt, _, _ = IMG[key]
+    att = 'loading="lazy" decoding="async"' if lazy else 'fetchpriority="high" decoding="async"'
+    ss = f' srcset="/img/{f[:-5]}-800.webp 800w, /img/{f} {w}w" sizes="(max-width: 820px) 100vw, 1100px"' if key == "hero" else ""
+    return f'<img class="{cls}" src="/img/{f}"{ss} width="{w}" height="{h}" alt="{e(alt)}" {att}>'
+def credits_html():
+    return "<ul>" + "".join(f'<li>{e(v[3])}: photo by {e(v[4])} on <a href="{e(v[5])}" rel="nofollow noopener">Pexels</a></li>' for v in IMG.values()) + "</ul>"
 def icon(key, cls="ic"):
     return f'<svg class="{cls}" viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">{ICONS.get(key,"")}</svg>'
 CHECK = '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M5 12l5 5 9-10" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>'
@@ -51,7 +67,7 @@ def layout(path, title, desc, body, schema=None):
 <header class="top"><div class="wrap hd"><a class="logo" href="/"><svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><rect width="32" height="32" rx="7" fill="#0f5e4f"/><path d="M8 11h16M8 16h11M8 21h7" stroke="#fff" stroke-width="3" stroke-linecap="round"/></svg>{site['name']}</a>
 <nav class="quick" aria-label="Quick"><a class="pill pri" href="/#trades">Best for my studio</a>{cmp_link}</nav></div>
 <nav class="trades wrap" aria-label="Studio types">{nav}<a href="/membership-revenue-calculator/">Calculator</a><a href="/software-buying-checklist/">Checklist</a><a href="/about/">Methodology</a></nav></header>
-<main id="main" class="wrap">{body}</main><footer><div class="wrap"><p><strong>{site['name']}</strong>: {e(site['tagline'])}.</p><p>Last checked: {LC}. Some links may be affiliate links; see our <a href="/about/#disclosure">disclosure</a>. Prices come from vendor pages and can change. <a href="/about/">Methodology</a></p><p>Contact: <a href="mailto:jacob@studiostackguide.com">jacob@studiostackguide.com</a></p><p>Run a home or field service business? See <a href="https://tradestackguide.com/">TradeStackGuide</a>.</p></div></footer><!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{{"token": "65de38c8090f4a059cfa398886fcd1dd"}}'></script><!-- End Cloudflare Web Analytics --></body></html>"""
+<main id="main" class="wrap">{body}</main><footer><div class="wrap"><p><strong>{site['name']}</strong>: {e(site['tagline'])}.</p><p>Last checked: {LC}. Some links may be affiliate links; see our <a href="/about/#disclosure">disclosure</a>. Prices come from vendor pages and can change. <a href="/about/">Methodology</a></p><p class="credits">Photos from <a href="https://www.pexels.com/" rel="nofollow noopener">Pexels</a> (free license). <a href="/about/#photo-credits">Photo credits</a></p><p>Contact: <a href="mailto:jacob@studiostackguide.com">jacob@studiostackguide.com</a></p><p>Run a home or field service business? See <a href="https://tradestackguide.com/">TradeStackGuide</a>.</p></div></footer><!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{{"token": "65de38c8090f4a059cfa398886fcd1dd"}}'></script><!-- End Cloudflare Web Analytics --></body></html>"""
 
 def write(path, content):
     f = OUT/path.strip("/")/"index.html" if path != "/" else OUT/"index.html"
@@ -80,7 +96,7 @@ def crumbs(items):
 
 def build():
     if OUT.exists(): shutil.rmtree(OUT)
-    OUT.mkdir(); shutil.copy(R/"static/style.css", OUT/"style.css"); shutil.copy(R/"static/favicon.svg", OUT/"favicon.svg")
+    OUT.mkdir(); shutil.copy(R/"static/style.css", OUT/"style.css"); shutil.copy(R/"static/favicon.svg", OUT/"favicon.svg"); shutil.copytree(R/"static/img", OUT/"img")
     _k=(R/"static/indexnow-key.txt").read_text().strip(); (OUT/f"{_k}.txt").write_text(_k)
     # home
     cards = "".join(f'<li><a class="card trade" href="/studios/{t["slug"]}/">{icon(t["key"])}<span>{t["name"]} software</span></a></li>' for t in trades)
@@ -88,14 +104,14 @@ def build():
     tcards = "".join(toolcard(x) for x in tools.values())
     write("/", layout("/", f"{site['name']}: Martial Arts & Studio Software Compared",
         "Sourced comparisons of billing, attendance, belt tracking and booking software for dojos, BJJ gyms, karate, dance and yoga studios.",
-        f"<section class='hero'><h1>Find the right software for your dojo or studio</h1><p class='lead'>{site['tagline']}. Every price links to its source. If a number isn't public, we say unknown.</p><ul class='grid trades-g' id='trades' aria-label='Choose your studio type'>{cards}</ul>{trustbar()}</section><h2>Tools we track</h2><div class='grid tools-g'>{tcards}</div><h2>Guides and comparisons</h2><ul class='grid guides-g'>{arts}</ul>",
+        f"<section class='hero'><div class='banner'>{pic('hero','banner-img',lazy=False)}<div class='banner-txt'><h1>Find the right software for your dojo or studio</h1><p class='lead'>{site['tagline']}. Every price links to its source. If a number isn't public, we say unknown.</p></div></div><ul class='grid trades-g' id='trades' aria-label='Choose your studio type'>{cards}</ul>{trustbar()}</section><h2>Tools we track</h2><div class='grid tools-g'>{tcards}</div><h2>Guides and comparisons</h2><ul class='grid guides-g'>{arts}</ul>",
         [{"@context":"https://schema.org","@type":"WebSite","name":site["name"],"url":BASE+"/"}]))
     # about
     write("/about/", layout("/about/", f"About & Methodology | {site['name']}", "How StudioStackGuide collects pricing and feature data, how often it's checked, and how we make money (affiliate disclosure).",
         f"""<h1>About and methodology</h1><h2>How we collect data</h2><p>We only use information published on each vendor's own public pricing and feature pages. Each tool entry lists its source URLs and a last-checked date (currently {LC}). We don't invent ratings, review scores or prices. Anything a vendor doesn't publish is marked <em>unknown</em>.</p>
 <h2>How often we update</h2><p>We re-check prices on a rolling basis and at least quarterly. Promotions change often, so always confirm on the vendor's site.</p>
 <h2 id="disclosure">Affiliate disclosure</h2><p>Some links on this site are affiliate or referral links. If you sign up through them, we may earn a commission at no extra cost to you. Commissions never affect the data we publish, and we list tools whether or not they have an affiliate program.</p>
-<h2 id="contact">Contact</h2><p>Questions, corrections or pricing updates: email <a href="mailto:jacob@studiostackguide.com">jacob@studiostackguide.com</a>.</p>"""))
+<h2 id="contact">Contact</h2><p>Questions, corrections or pricing updates: email <a href="mailto:jacob@studiostackguide.com">jacob@studiostackguide.com</a>.</p><h2 id="photo-credits">Photo credits</h2><p>Photos are from Pexels under the Pexels license (free for commercial use, attribution not required). We credit the photographers anyway:</p>"""+credits_html()+""""""))
     # trades
     for t in trades:
         ts = [x for x in tools.values() if t["key"] in x["trades"]]
@@ -104,7 +120,7 @@ def build():
         path = f"/studios/{t['slug']}/"
         write(path, layout(path, f"{t['name']} Software: Tools, Prices & Comparisons ({LC[:4]})",
             f"{t['name']} software compared: {', '.join(x['name'] for x in ts)}. Published prices, trials and features with sources, last checked {LC}.",
-            f"<div class='ph'>{icon(t['key'],'ic big')}<h1>{t['name']} software</h1></div><p class='lead'>{t['intro']}</p>{trustbar()}<h2>Tools</h2><div class='grid tools-g'>{''.join(toolcard(x) for x in ts)}</div><h2>Side-by-side comparison</h2>{table([x['slug'] for x in ts])}<ul class='sr'>{li}</ul>" + (f"<h2>Guides</h2><ul>{rel}</ul>" if rel else ""),
+            f"{pic(t['key'])}<div class='ph'>{icon(t['key'],'ic big')}<h1>{t['name']} software</h1></div><p class='lead'>{t['intro']}</p>{trustbar()}<h2>Tools</h2><div class='grid tools-g'>{''.join(toolcard(x) for x in ts)}</div><h2>Side-by-side comparison</h2>{table([x['slug'] for x in ts])}<ul class='sr'>{li}</ul>" + (f"<h2>Guides</h2><ul>{rel}</ul>" if rel else ""),
             [crumbs([("Home","/"),(t["name"],path)])]))
     # tools
     for x in tools.values():
@@ -121,7 +137,7 @@ def build():
         faq = "".join(f"<h3>{e(q)}</h3><p>{e(a)}</p>" for q,a in p.get("faq",[]))
         sch = [crumbs([("Home","/"),(p["h1"],path)]),{"@context":"https://schema.org","@type":"Article","headline":p["h1"],"dateModified":LC,"author":{"@type":"Organization","name":site["name"]}}]
         if p.get("faq"): sch.append({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for q,a in p["faq"]]})
-        write(path, layout(path, p["title"], p["description"], f"<h1>{e(p['h1'])}</h1>{trustbar()}{render(p['body'])}" + (f"<h2>FAQ</h2>{faq}" if faq else ""), sch))
+        write(path, layout(path, p["title"], p["description"], f"{pic('studio')}<h1>{e(p['h1'])}</h1>{trustbar()}{render(p['body'])}" + (f"<h2>FAQ</h2>{faq}" if faq else ""), sch))
     (OUT/"sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + "".join(f"<url><loc>{BASE}{u}</loc><lastmod>{LC}</lastmod></url>" for u in urls) + "</urlset>\n")
     (OUT/"CNAME").write_text(urlparse(BASE).netloc + "\n")
     (OUT/"robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n")
