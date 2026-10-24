@@ -128,7 +128,7 @@
    "bjj"
   ],
   "free_trial": "First 30 days free (pricing and switch pages)",
-  "contract": "unknown; discounted annual pricing on request",
+  "contract": "Recurring charges until you cancel; annual plans auto-renew every 12 months and aren't refunded if cancelled early (terms of use); discounted annual pricing on request",
   "plans": [
    {
     "name": "0-25 students",
@@ -166,7 +166,8 @@
    "https://kicksite.com/payment-processing/",
    "https://kicksite.com/faq/",
    "https://kicksite.com/martial-arts-attendance-tracking-software/",
-   "https://kicksite.com/switch/"
+   "https://kicksite.com/switch/",
+   "https://kicksite.com/terms/"
   ],
   "best_for": "Small martial arts schools under 25 students",
   "starting_price": "$49/mo (0-25 students)",
@@ -179,7 +180,7 @@
    "Annual pricing not published (ask for discount at demo)",
    "Basys flat rate adds $29/mo on top of per-transaction fees"
   ],
-  "last_verified": "2026-10-23"
+  "last_verified": "2026-10-24"
  },
  {
   "slug": "zen-planner",
@@ -244,7 +245,7 @@
    "bjj"
   ],
   "free_trial": "8 weeks",
-  "contract": "unknown",
+  "contract": "Service term set in your Order Form; auto-renews for the same term or 1 year (whichever is shorter) unless you give 30 days' notice; no termination for convenience mid-term (Terms & Conditions 9.1-9.2)",
   "plans": [
    {
     "name": "Spark (promo)",
@@ -254,13 +255,17 @@
    }
   ],
   "extra_user": "Full access to every feature; setup by account rep; free data migration",
-  "card_fee": "Spark Payments (rates unknown)",
-  "belt_tracking": "Yes: belt history in student profiles",
+  "card_fee": "Spark Payments (rates not published); supports automatic credit-card surcharging capped at your actual rate, or dual pricing, where legal",
+  "belt_tracking": "Yes: rank history, per-rank requirements, test-eligibility from attendance, mass rank promote, certificates",
   "attendance": "Yes: attendance trends",
-  "online_booking": "unknown",
+  "online_booking": "Yes: members book and pay in the free Spark Member App (iOS/Android)",
   "rating": "unknown",
   "sources": [
-   "https://sparkmembership.com/pricing/"
+   "https://sparkmembership.com/pricing/",
+   "https://sparkmembership.com/terms-and-conditions",
+   "https://sparkmembership.com/platform/spark-payments",
+   "https://sparkmembership.com/app",
+   "https://sparkmembership.com/martial-arts-belt-tracking-software"
   ],
   "best_for": "Martial arts schools wanting done-for-you setup and automations",
   "starting_price": "$199/mo after 8-week trial",
@@ -271,9 +276,10 @@
   ],
   "cons": [
    "Single published price, no small-school tier",
-   "Contract terms not published"
+   "No cancelling for convenience mid-term; auto-renews unless 30 days' notice",
+   "Spark Payments rates not published"
   ],
-  "last_verified": "2026-10-22"
+  "last_verified": "2026-10-24"
  },
  {
   "slug": "mass",
