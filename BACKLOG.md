@@ -34,3 +34,4 @@
 | 31 | best-pilates-studio-software | best | todo |
 | 32 | martial-arts-software-multi-location | best | todo |
 | 33 | tools/momence (review + pricing) | tool | todo (affiliate: Momence $500 one-time via PartnerStack, needs Jacob to sign up) |
+| 34 | tools/simplybook (review + pricing; class booking for yoga/dance studios) | tool | todo (affiliate: SimplyBook.me 25% first payment + 15% for 24 months, own panel signup with password, needs Jacob) |
