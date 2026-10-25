@@ -59,5 +59,15 @@
     "url": "https://www.teachngo.com/",
     "program": "40% of first year per scout; not applied, no approved link; plain",
     "status": "plain"
+  },
+  "wellnessliving": {
+    "url": "https://www.wellnessliving.com/",
+    "program": "WellnessLiving Partner Program (Brand Ambassador), $1,500 per signed business paid in 3x$500 via Wise; applied Oct 25, 2026, pending; plain URL until approved",
+    "status": "applied"
+  },
+  "marianatek": {
+    "url": "https://marianatek.com/",
+    "program": "Mariana Tek affiliate (Referral Rock), up to $800 per studio via PayPal; registered Oct 25, 2026 (dashboard tsgfitness.referralrock.com/v2/5), referral link not yet pulled; plain URL",
+    "status": "applied"
   }
 }
