@@ -39,3 +39,5 @@ Assigned automatically by `page_img()` in build.py (see docs/PAGE-IMAGES.md). "U
 | `gym-coach-tablet.webp` (1200x400) | /tools/zen-planner/ | Coach checking workout stats on a tablet while members train on heavy bags | ThisIsEngineering | https://www.pexels.com/photo/person-holding-black-tablet-3912956/ |
 
 Checked 2026-10-23: each source page was live and marked Free. Images were reviewed for visible logos/brand names and SFW content.
+| `music-piano-lesson.webp` (1200x400) | Category page (music) /studios/music-lessons/ | Piano teacher holding sheet music while a student plays a keyboard by the window | Boris Pavlikovsky | https://www.pexels.com/photo/teacher-watching-her-student-playing-piano-7714182/ |
+| `music-guitar-lesson.webp` (1200x400) | /best-music-lesson-studio-software/ | Guitar teacher helping a boy with written notes, acoustic guitars on either side | Pavel Danilyuk | https://www.pexels.com/photo/man-giving-a-guitar-lesson-to-a-boy-7521049/ |
