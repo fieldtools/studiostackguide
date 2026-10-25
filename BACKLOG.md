@@ -9,7 +9,7 @@
 | 6 | spark-membership-vs-kicksite | vs | done (2026-10-24) |
 | 7 | martialytics-vs-gymdesk | vs | done (2026-10-22) |
 | 8 | zen-planner-vs-mindbody | vs | done (2026-10-22) |
-| 9 | best-karate-school-software | best | todo |
+| 9 | best-karate-school-software | best | done (2026-10-25) |
 | 10 | best-taekwondo-software | best | todo |
 | 11 | best-yoga-studio-software (standalone) | best | todo |
 | 12 | best-mma-gym-software | best | todo |
