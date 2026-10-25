@@ -34,5 +34,30 @@
     "url": "https://www.mindbodyonline.com/business",
     "program": "Customer credit only",
     "status": "plain"
+  },
+  "mymusicstaff": {
+    "url": "https://www.mymusicstaff.com/",
+    "program": "No affiliate program (non-affiliate)",
+    "status": "plain"
+  },
+  "fons": {
+    "url": "https://www.fons.com/",
+    "program": "No affiliate program (non-affiliate)",
+    "status": "plain"
+  },
+  "duet": {
+    "url": "https://www.duetpartner.com/",
+    "program": "20% recurring per scout (terms https://www.musicteachershelper.com/affiliate-terms); not applied, no approved link; plain until Jacob has one",
+    "status": "plain"
+  },
+  "mysymphony": {
+    "url": "https://www.mysymphony.net/",
+    "program": "25% recurring per scout; not applied, no approved link; plain",
+    "status": "plain"
+  },
+  "teachngo": {
+    "url": "https://www.teachngo.com/",
+    "program": "40% of first year per scout; not applied, no approved link; plain",
+    "status": "plain"
   }
 }

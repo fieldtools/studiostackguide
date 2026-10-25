@@ -18,6 +18,7 @@ ICONS = {  # simple original inline SVG paths (24x24, stroke)
  "bjj": '<path d="M6 3h12l2 6-4 2v10H8V11L4 9z"/><path d="M8 14h8"/>',
  "dance": '<circle cx="13" cy="4" r="2"/><path d="M13 6l-2 6 4 3-1 6M11 12l-5 2M13 8l5-2"/>',
  "yoga": '<circle cx="12" cy="4" r="2"/><path d="M12 6v8M12 9l-6 3M12 9l6 3M5 20l7-6 7 6"/>',
+ "music": '<path d="M9 18V5l11-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="17" cy="16" r="3"/>',
 }
 IMG = {  # header photos (Pexels license: free commercial use, no attribution required); credits in docs/IMAGE-CREDITS.md
  "hero": ("hero-bjj-gym.webp", 1600, 640, "Two jiu-jitsu students grappling on mats in a bright training gym", "RDNE Stock project", "https://www.pexels.com/photo/8611429/"),
@@ -59,7 +60,9 @@ def page_img(slug, text="", topics=(), explicit=None):
     slug/title -> first listed trade/studio type -> DEFAULT_POOL. Pools rotate by a stable slug hash."""
     if explicit in IMG: return explicit
     if slug in PAGE_IMG: return PAGE_IMG[slug]
-    hay = f"{slug} {text}".lower(); topic = next((k for k, rx in TOPIC_WORDS if re.search(rx, hay)), None)
+    hay = f"{slug} {text}".lower()
+    if "music" in topics or re.search(r"music|piano|voice teacher", hay): return "none"  # no music photo yet: render without header image
+    topic = next((k for k, rx in TOPIC_WORDS if re.search(rx, hay)), None)
     topic = topic or next((t for t in topics if t in TOPIC_POOL), None)
     pool = TOPIC_POOL.get(topic, DEFAULT_POOL)
     return pool[zlib.crc32(slug.encode()) % len(pool)]
@@ -125,8 +128,9 @@ def table(slugs):
     ts = [tools[s] for s in slugs]
     rows = [("Starting price", lambda t: t["starting_price"]), ("Pricing basis", lambda t: t["extra_user"]), ("Free trial", lambda t: t["free_trial"]),
             ("Contract", lambda t: t["contract"]), ("Belt / rank tracking", lambda t: t["belt_tracking"]), ("Attendance", lambda t: t["attendance"]),
-            ("Booking", lambda t: t["online_booking"]), ("Payments / fees", lambda t: t["card_fee"]), ("Rating", lambda t: t["rating"]),
+            ("Booking", lambda t: t["online_booking"]), ("Invoicing / autopay", lambda t: t.get("autopay")), ("Parent / student portal", lambda t: t.get("parent_portal")), ("Payments / fees", lambda t: t["card_fee"]), ("Rating", lambda t: t["rating"]),
             ("Source", lambda t: " ".join(f'<a href="{s}" rel="nofollow">vendor page</a>' for s in t["sources"]))]
+    rows = [(n, f) for n, f in rows if not all(f(t) in (None, "Not applicable (music lessons)") for t in ts)]  # drop rows that don't apply to any tool shown
     h = "<tr><th></th>" + "".join(f'<th><a href="/tools/{t["slug"]}/">{t["name"]}</a></th>' for t in ts) + "</tr>"
     b = "".join("<tr><th>"+n+"</th>"+"".join(f"<td>{f(t)}</td>" for t in ts)+"</tr>" for n, f in rows)
     return f'<div class="tw" tabindex="0" role="region" aria-label="Comparison table (scroll sideways)"><table class="cmp">{h}{b}</table></div><p class="hint">Swipe sideways to see every tool →</p><p class="note">Prices as published (monthly no-commitment / annual where shown). "unknown" = not published. Checked {LC}.</p>'

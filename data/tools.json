@@ -374,5 +374,229 @@
    "App bookings from new clients carry a 20% fee (capped $30)"
   ],
   "last_verified": "2026-10-22"
+ },
+ {
+  "slug": "my-music-staff",
+  "name": "My Music Staff",
+  "website": "https://www.mymusicstaff.com/",
+  "trades": [
+   "music"
+  ],
+  "free_trial": "30 days, full access, no credit card; 90-day money-back guarantee",
+  "contract": "No contracts; cancel anytime",
+  "plans": [
+   {
+    "name": "All features",
+    "users": "1 teacher (you); +$4.95/mo per additional teacher or staff member",
+    "monthly_no_commit": "$16.95/mo",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Flat price, unlimited students; +$4.95/mo per additional teacher or staff member",
+  "card_fee": "Payments via Stripe or PayPal integrations; processing rates unknown",
+  "belt_tracking": "Not applicable (music lessons)",
+  "attendance": "Yes: attendance tracking, lesson reminders, rescheduling, cancellations (pricing page)",
+  "online_booking": "Yes: optional student self-service scheduling and online registration (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.mymusicstaff.com/pricing/"
+  ],
+  "best_for": "Solo teachers and multi-teacher studios wanting an all-in-one tool with a website builder",
+  "starting_price": "$16.95/mo",
+  "pros": [
+   "30-day free trial, no credit card, plus 90-day money-back guarantee",
+   "Unlimited students and SMS reminders included",
+   "Website builder with free hosting"
+  ],
+  "cons": [
+   "Each extra teacher or staff member adds $4.95/mo",
+   "Annual price not published"
+  ],
+  "last_verified": "2026-10-25",
+  "autopay": "Yes: automatic invoicing, online payments, late fee automation (pricing page)",
+  "parent_portal": "Yes: student portal with self-service scheduling, lesson notes, payment history (pricing page)"
+ },
+ {
+  "slug": "fons",
+  "name": "Fons",
+  "website": "https://www.fons.com/",
+  "trades": [
+   "music"
+  ],
+  "free_trial": "unknown (pricing FAQ mentions a trial; length not published)",
+  "contract": "No minimum term or contract; cancel anytime",
+  "plans": [
+   {
+    "name": "Fons",
+    "users": "Price adjusts as staff members are added (amounts not published)",
+    "monthly_no_commit": "$19.95/mo",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Same price regardless of clients or appointments; plan adjusts with staff count (amounts not published)",
+  "card_fee": "2.9% + $0.30 per card charge (+1% international); 1.8% per ACH charge; 0.4% of subscription volume",
+  "belt_tracking": "Not applicable (music lessons)",
+  "attendance": "Yes: tracking cancellations (pricing page); attendance details unknown",
+  "online_booking": "Yes: booking and re-booking (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.fons.com/pricing"
+  ],
+  "best_for": "Teachers who want automatic payments instead of manual invoicing",
+  "starting_price": "$19.95/mo",
+  "pros": [
+   "Automatic payments with flexible billing options",
+   "No client or appointment limits",
+   "Card, ACH and subscription fees published"
+  ],
+  "cons": [
+   "Price for added staff members not published",
+   "Trial length and parent portal details not published"
+  ],
+  "last_verified": "2026-10-25",
+  "autopay": "Yes: automatic payments with flexible billing (pricing page)",
+  "parent_portal": "unknown"
+ },
+ {
+  "slug": "duet",
+  "name": "Duet",
+  "website": "https://www.duetpartner.com/",
+  "trades": [
+   "music"
+  ],
+  "free_trial": "30 days (Duet blog)",
+  "contract": "Monthly or annual; cancellation terms unknown",
+  "plans": [
+   {
+    "name": "Monthly",
+    "users": "All features, any studio size",
+    "monthly_no_commit": "$9/mo",
+    "annual": "$99/yr"
+   }
+  ],
+  "extra_user": "Flat rate regardless of studio size; families pay a 1% transaction fee on digital payments",
+  "card_fee": "Families pay 1% Duet fee on statements; card payments also pay 2.9% processing (Stripe), ACH has no card fee (Duet blog)",
+  "belt_tracking": "Not applicable (music lessons)",
+  "attendance": "Yes: attendance records on the Daily Dashboard (pricing page)",
+  "online_booking": "Yes: students schedule or reschedule their own lessons by phone; Smart Scheduler builds season schedules (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.duetpartner.com/pricing",
+   "https://www.duetpartner.com/blog/more-details-about-how-duet-is-keeping-money-in-your-pocket"
+  ],
+  "best_for": "Independent teachers who want the lowest flat subscription",
+  "starting_price": "$9/mo ($99/yr)",
+  "pros": [
+   "Lowest flat subscription we found: $9/mo or $99/yr",
+   "Card, Apple Pay, Google Pay and ACH payments",
+   "Smart Scheduler builds a season schedule from parent availability"
+  ],
+  "cons": [
+   "Families pay a 1% transaction fee on digital payments",
+   "Card payments also carry 2.9% processing"
+  ],
+  "last_verified": "2026-10-25",
+  "autopay": "Yes: tracks what families owe; statements sent by text link; direct deposit (pricing page)",
+  "parent_portal": "No login needed: statements by text link; students self-schedule from their phones (pricing page). Full portal unknown"
+ },
+ {
+  "slug": "mysymphony",
+  "name": "mySymphony",
+  "website": "https://www.mysymphony.net/",
+  "trades": [
+   "music"
+  ],
+  "free_trial": "30 days, all features, no credit card",
+  "contract": "No subscription; pay per booked lesson",
+  "plans": [
+   {
+    "name": "Solo Plan",
+    "users": "Up to 100 active students; unlimited emails + 50 SMS/mo",
+    "monthly_no_commit": "$0.25 per booked lesson",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "$0.25 per booked lesson, no monthly subscription; up to 100 active students",
+  "card_fee": "Integrated payment processing; rates unknown",
+  "belt_tracking": "Not applicable (music lessons)",
+  "attendance": "unknown",
+  "online_booking": "Yes: student self-rescheduling and self-booking (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.mysymphony.net/pricing"
+  ],
+  "best_for": "Part-time teachers who want to pay only when they teach",
+  "starting_price": "$0.25 per booked lesson",
+  "pros": [
+   "No monthly subscription: $0.25 per booked lesson",
+   "30-day free trial, no credit card",
+   "Account pauses (data saved) if you don't upgrade after trial"
+  ],
+  "cons": [
+   "Solo Plan capped at 100 active students",
+   "Only 50 SMS messages per month"
+  ],
+  "last_verified": "2026-10-25",
+  "autopay": "Yes: automated invoicing and billing (pricing page)",
+  "parent_portal": "Yes: basic student dashboard (pricing page)"
+ },
+ {
+  "slug": "teach-n-go",
+  "name": "Teach 'n Go",
+  "website": "https://www.teachngo.com/",
+  "trades": [
+   "music"
+  ],
+  "free_trial": "14 days, no credit card; 30-day money-back guarantee",
+  "contract": "Cancel anytime; annual billing gets two months free",
+  "plans": [
+   {
+    "name": "Teach 'n Go, up to 100 live students",
+    "users": "3 admin users, unlimited teachers, 1 location",
+    "monthly_no_commit": "$79/mo",
+    "annual": "Two months free"
+   },
+   {
+    "name": "Teach 'n Go Pro, up to 100 live students",
+    "users": "Unlimited admins and locations",
+    "monthly_no_commit": "$109/mo",
+    "annual": "Two months free"
+   },
+   {
+    "name": "Teach 'n Go, up to 200 live students",
+    "users": "3 admin users, unlimited teachers",
+    "monthly_no_commit": "$99/mo",
+    "annual": "Two months free"
+   },
+   {
+    "name": "Teach 'n Go, up to 300 live students",
+    "users": "3 admin users, unlimited teachers",
+    "monthly_no_commit": "$129/mo",
+    "annual": "Two months free"
+   }
+  ],
+  "extra_user": "Priced by live students (bands up to 2,000); USD list prices",
+  "card_fee": "unknown",
+  "belt_tracking": "Not applicable (music lessons)",
+  "attendance": "Yes: scheduling, attendance and invoicing (pricing page)",
+  "online_booking": "Yes: online booking (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.teachngo.com/pricing"
+  ],
+  "best_for": "Multi-teacher music schools with group classes and several staff",
+  "starting_price": "$79/mo (up to 100 live students)",
+  "pros": [
+   "Student, parent and teacher portals on every plan",
+   "Unlimited teachers and classes",
+   "14-day free trial, no credit card"
+  ],
+  "cons": [
+   "Highest starting price of the tools we compared",
+   "Payment processing fees not published"
+  ],
+  "last_verified": "2026-10-25",
+  "autopay": "Invoicing and fee tracking (pricing page); automatic recurring card payments unknown",
+  "parent_portal": "Yes: student, parent and teacher portals (pricing page)"
  }
 ]

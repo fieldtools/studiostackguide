@@ -22,5 +22,11 @@
   "key": "yoga",
   "name": "Yoga Studio",
   "intro": "Yoga studios need class booking, class packs and memberships, and drop-in payments."
+ },
+ {
+  "slug": "music-lessons",
+  "key": "music",
+  "name": "Music Lesson Studios",
+  "intro": "Private piano, voice and instrument teachers and small music schools need recurring lesson scheduling, make-ups, automatic invoicing or autopay, and a way for parents to see schedules and pay."
  }
 ]

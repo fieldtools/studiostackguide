@@ -35,3 +35,10 @@
 | 32 | martial-arts-software-multi-location | best | todo |
 | 33 | tools/momence (review + pricing) | tool | todo (affiliate: Momence $500 one-time via PartnerStack, needs Jacob to sign up) |
 | 34 | tools/simplybook (review + pricing; class booking for yoga/dance studios) | tool | todo (affiliate: SimplyBook.me 25% first payment + 15% for 24 months, own panel signup with password, needs Jacob) |
+| 35 | best-music-lesson-studio-software (music lesson studios section hub /studios/music-lessons/) | best | done (2026-10-25) |
+| 36 | duet-vs-mysymphony (flat $9/mo vs $0.25 per booked lesson) | vs | todo |
+| 37 | my-music-staff-alternatives | alternatives | todo |
+| 38 | free-music-teacher-software (free plans/trials for music teachers) | best | todo |
+| 39 | best-piano-teacher-software | best | todo |
+| 40 | best-voice-teacher-software (private voice/instrument teachers) | best | todo |
+| 41 | my-music-staff-vs-fons | vs | todo |
