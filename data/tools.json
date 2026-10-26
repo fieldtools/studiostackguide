@@ -43,7 +43,8 @@
   "rating": "unknown",
   "sources": [
    "https://www.martialytics.com/pricing",
-   "https://www.martialytics.com/features"
+   "https://www.martialytics.com/features",
+   "https://www.martialytics.com/best-software-for-martial-arts/taekwondo-dojangs"
   ],
   "best_for": "Martial arts schools wanting every feature at a flat student-count price",
   "starting_price": "$69/mo (0-50 students)",
@@ -56,7 +57,7 @@
    "Price steps up with active student count",
    "Annual pricing not published"
   ],
-  "last_verified": "2026-10-23"
+  "last_verified": "2026-10-26"
  },
  {
   "slug": "gymdesk",
@@ -104,7 +105,8 @@
   "rating": "unknown",
   "sources": [
    "https://gymdesk.com/pricing",
-   "https://gymdesk.com/"
+   "https://gymdesk.com/",
+   "https://gymdesk.com/features/members"
   ],
   "best_for": "Gyms and dojos that want a website included and can use Gymdesk Payments",
   "starting_price": "$75/mo with Gymdesk Payments (≤50 members); $100/mo otherwise",
@@ -117,7 +119,7 @@
    "$25/mo more without Gymdesk Payments",
    "Door access ($100/mo) and branded app ($100/mo) are add-ons"
   ],
-  "last_verified": "2026-10-22"
+  "last_verified": "2026-10-26"
  },
  {
   "slug": "kicksite",
@@ -167,7 +169,8 @@
    "https://kicksite.com/faq/",
    "https://kicksite.com/martial-arts-attendance-tracking-software/",
    "https://kicksite.com/switch/",
-   "https://kicksite.com/terms/"
+   "https://kicksite.com/terms/",
+   "https://kicksite.com/taekwondo-school-software/"
   ],
   "best_for": "Small martial arts schools under 25 students",
   "starting_price": "$49/mo (0-25 students)",
@@ -180,7 +183,7 @@
    "Annual pricing not published (ask for discount at demo)",
    "Basys flat rate adds $29/mo on top of per-transaction fees"
   ],
-  "last_verified": "2026-10-24"
+  "last_verified": "2026-10-26"
  },
  {
   "slug": "zen-planner",
@@ -221,7 +224,8 @@
   "online_booking": "Yes: online scheduling",
   "rating": "unknown",
   "sources": [
-   "https://zenplanner.com/pricing/"
+   "https://zenplanner.com/pricing/",
+   "https://www.zenplanner.com/solutions/taekwondo-school-software"
   ],
   "best_for": "Gyms and studios wanting belt tracking plus payroll and member app",
   "starting_price": "From $99/mo (Studio)",
@@ -234,7 +238,7 @@
    "Final price depends on active member count (not published)",
    "Branded app and card readers $39/mo each"
   ],
-  "last_verified": "2026-10-23"
+  "last_verified": "2026-10-26"
  },
  {
   "slug": "spark-membership",
@@ -265,7 +269,8 @@
    "https://sparkmembership.com/terms-and-conditions",
    "https://sparkmembership.com/platform/spark-payments",
    "https://sparkmembership.com/app",
-   "https://sparkmembership.com/martial-arts-belt-tracking-software"
+   "https://sparkmembership.com/martial-arts-belt-tracking-software",
+   "https://sparkmembership.com/uses/taekwondo-school-software"
   ],
   "best_for": "Martial arts schools wanting done-for-you setup and automations",
   "starting_price": "$199/mo after 8-week trial",
@@ -279,7 +284,7 @@
    "No cancelling for convenience mid-term; auto-renews unless 30 days' notice",
    "Spark Payments rates not published"
   ],
-  "last_verified": "2026-10-24"
+  "last_verified": "2026-10-26"
  },
  {
   "slug": "mass",
