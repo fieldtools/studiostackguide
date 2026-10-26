@@ -428,17 +428,17 @@
   "trades": [
    "music"
   ],
-  "free_trial": "unknown (pricing FAQ mentions a trial; length not published)",
+  "free_trial": "14 days (pricing page, checked 2026-10-26)",
   "contract": "No minimum term or contract; cancel anytime",
   "plans": [
    {
     "name": "Fons",
-    "users": "Price adjusts as staff members are added (amounts not published)",
+    "users": "Fons Pro: $19.95/mo, +$4.95/mo per additional staff (pricing page, checked 2026-10-26)",
     "monthly_no_commit": "$19.95/mo",
     "annual": "unknown"
    }
   ],
-  "extra_user": "Same price regardless of clients or appointments; plan adjusts with staff count (amounts not published)",
+  "extra_user": "+$4.95/mo per additional staff member; same price regardless of clients or appointments (checked 2026-10-26)",
   "card_fee": "2.9% + $0.30 per card charge (+1% international); 1.8% per ACH charge; 0.4% of subscription volume",
   "belt_tracking": "Not applicable (music lessons)",
   "attendance": "Yes: tracking cancellations (pricing page); attendance details unknown",
@@ -455,10 +455,10 @@
    "Card, ACH and subscription fees published"
   ],
   "cons": [
-   "Price for added staff members not published",
-   "Trial length and parent portal details not published"
+   "Each additional staff member adds $4.95/mo",
+   "Annual price and parent portal details not published"
   ],
-  "last_verified": "2026-10-25",
+  "last_verified": "2026-10-26",
   "autopay": "Yes: automatic payments with flexible billing (pricing page)",
   "parent_portal": "unknown"
  },
