@@ -93,7 +93,7 @@ def proscons(x):
     return ('<div class="pc"><div><h3 class="pro-h">Pros</h3><ul class="pros">' + "".join(f"<li>{CHECK}{e(p)}</li>" for p in x["pros"]) +
             '</ul></div><div><h3 class="con-h">Cons</h3><ul class="cons">' + "".join(f"<li>{CROSS}{e(c)}</li>" for c in x.get("cons",[])) + '</ul></div></div>')
 def toolcard(x, full=False):
-    key = x["slug"].replace("-","")
+    key = x["slug"] if x["slug"] in aff else x["slug"].replace("-","")
     cta = afflink(key, f"Visit {x['name']}") if key in aff else ""
     return (f'<article class="card tool"><h3><a href="/tools/{x["slug"]}/">{x["name"]}</a></h3>'
             f'<p class="bf"><span class="lbl">Best for</span> {e(x.get("best_for","unknown"))}</p>'
@@ -193,7 +193,7 @@ def build():
     for x in tools.values():
         path = f"/tools/{x['slug']}/"
         plans = "".join(f"<tr><td>{p['name']}</td><td>{p['users']}</td><td>{p['monthly_no_commit']}</td><td>{p['annual']}</td></tr>" for p in x["plans"])
-        key = x["slug"].replace("-","")
+        key = x["slug"] if x["slug"] in aff else x["slug"].replace("-","")
         cta = afflink(key, f"Visit {x['name']}") if key in aff else ""
         write(path, layout(path, f"{x['name']} Pricing & Features ({LC[:4]}): Sourced Overview", f"{x['name']} plans, prices, trial and key features from the vendor's public pricing page, last checked {LC}.",
             f"{pic(PIMG['tools/'+x['slug']])}<h1>{x['name']}: pricing and features</h1>{trustbar()}<div class='summary card'><p class='bf'><span class='lbl'>Best for</span> {e(x.get('best_for','unknown'))}</p><p class='price'><span class='lbl'>Starting price</span> {e(x.get('starting_price','unknown'))}</p>{proscons(x)}<div class='actions'>{cta}</div></div><h2>Plans</h2><div class='tw' tabindex='0' role='region' aria-label='Plans table'><table><tr><th>Plan</th><th>Users</th><th>Monthly</th><th>Annual</th></tr>{plans}</table></div>"+(f"<h2>Who it's for</h2>{x['who_html']}" if x.get('who_html') else "")+(f"<h2>How it compares</h2>{x['compare_html']}" if x.get('compare_html') else "")+f"<h2>Key facts</h2><ul class='facts'><li>Trial: {x['free_trial']}</li><li>Contract: {x['contract']}</li><li>Pricing basis: {x['extra_user']}</li><li>Belt/rank tracking: {x['belt_tracking']}</li><li>Attendance: {x['attendance']}</li><li>Booking: {x['online_booking']}</li><li>Last verified: {x['last_verified']}</li><li>Payments: {x['card_fee']}</li><li>Rating: {x['rating']}</li></ul><p>Sources: "+" ".join(f'<a href="{s}" rel="nofollow">{s}</a>' for s in x['sources'])+"</p>"+(("<h2>Guides featuring "+x['name']+"</h2><ul>"+"".join(f'<li><a href="/{p["slug"]}/">{e(p["h1"])}</a></li>' for p in pages if x['slug'] in p.get('tools',[]))+"</ul>") if any(x['slug'] in p.get('tools',[]) for p in pages) else "")+f"<div class='actions'>{cta}</div>",

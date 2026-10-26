@@ -658,5 +658,50 @@
   "last_verified": "2026-10-26",
   "who_html": "<p>Mariana Tek describes itself as software for boutique fitness studios that want a high-end, branded customer experience, from single-location studios to global brands and franchises. Its customers run group classes including pilates (Lagree, Megaformer and mat), yoga, barre, indoor cycling, HIIT and boxing. Mariana Tek says typical onboarding takes five to eight weeks with dedicated onboarding specialists and a demo environment. Every plan includes multi-location management, unlimited classes and instructors, intro offers, packs and memberships, CRM, reporting, kiosk check-in, digital waivers and transactional emails.</p>",
   "compare_html": "<p><a href=\"/tools/mindbody/\">Mindbody</a> publishes an entry price (from $79/mo per location) and lists studios on its consumer app, with a 20% fee (capped at $30) on new clients' first app purchase. Mariana Tek publishes no prices and focuses on your own branded app instead of a marketplace. <a href=\"/tools/zen-planner/\">Zen Planner</a> (from $99/mo) and <a href=\"/tools/gymdesk/\">Gymdesk</a> (from $75/mo) publish prices and suit membership gyms and martial arts schools; Mariana Tek is aimed at boutique class studios with features like pick-a-spot floor plans for reformers and bikes. See also <a href=\"/studios/yoga/\">yoga studio tools</a> and <a href=\"/best-dance-studio-software/\">dance and yoga studio software compared</a>.</p>"
+ },
+ {
+  "slug": "studio-helper",
+  "name": "Studio Helper",
+  "website": "https://studiohelper.com/",
+  "trades": [
+   "music",
+   "dance"
+  ],
+  "free_trial": "30-day free trial (pricing page)",
+  "contract": "unknown (not published)",
+  "plans": [
+   {
+    "name": "Single plan (all features)",
+    "users": "All features included; priced per student",
+    "monthly_no_commit": "USD $50/mo + $0.25 per student",
+    "annual": "unknown (not published)"
+   }
+  ],
+  "extra_user": "$50/mo base + 25 cents per student; teacher/staff pricing not stated separately (pricing page)",
+  "card_fee": "Online invoicing and payments (features page); processor and rates unknown (not published)",
+  "belt_tracking": "Not applicable; instructors can update student skills and alert parents when new skills are mastered (homepage)",
+  "attendance": "Yes: reminders and attendance tracking (homepage, features page)",
+  "online_booking": "Yes: real-time calendar where students, teachers and staff can see and book lessons and events; can integrate into your website to show availability (homepage)",
+  "rating": "unknown",
+  "sources": [
+   "https://studiohelper.com/pricing",
+   "https://studiohelper.com/",
+   "https://studiohelper.com/features"
+  ],
+  "best_for": "Teaching studios with several teachers (music, dance, yoga, martial arts) wanting scheduling, billing and payroll in one",
+  "starting_price": "$50/mo + $0.25 per student",
+  "pros": [
+   "One plan with all features included",
+   "Payroll, expenses and inventory tracking built in",
+   "Room and teacher scheduling with reminders and attendance"
+  ],
+  "cons": [
+   "$50/mo base is higher than the flat price of most music-only tools we list",
+   "Payment processing rates are not published",
+   "Contract and cancellation terms are not published"
+  ],
+  "last_verified": "2026-10-26",
+  "who_html": "<p>Studio Helper describes itself as studio management software for music studios, yoga studios, dance studios, martial arts dojos and other teaching studios (music, dance, fitness, sports, martial arts). The testimonials on its homepage come mostly from music teaching businesses, including a studio with 5 teachers and more than 100 students. Features it lists: a real-time calendar for students, teachers and staff with room and teacher scheduling, reminders and attendance tracking; online invoicing and payments; payroll, expense and inventory tracking; built-in reports for key metrics and tax returns; permissions per role; student skill updates with parent alerts; mass email messaging; to-do assignments; and embedding into your existing website to show availability.</p>",
+  "compare_html": "<p>For a solo music teacher, flat-priced tools cost less on paper: <a href=\"/tools/duet/\">Duet</a> ($9/mo), <a href=\"/tools/my-music-staff/\">My Music Staff</a> ($16.95/mo plus $4.95 per extra teacher) and <a href=\"/tools/fons/\">Fons</a> ($19.95/mo). At Studio Helper's published rate, 40 students works out to $60/mo and 100 students to $75/mo. <a href=\"/tools/teach-n-go/\">Teach 'n Go</a> is $79/mo for up to 100 live students, so the two are close for a mid-size multi-teacher studio; Studio Helper adds payroll, expense and inventory tracking. <a href=\"/tools/mysymphony/\">mySymphony</a> charges $0.25 per booked lesson rather than per student. See <a href=\"/best-music-lesson-studio-software/\">music lesson studio software compared</a>, <a href=\"/studios/music-lessons/\">all music lesson studio tools</a> and <a href=\"/best-dance-studio-software/\">dance studio software</a>.</p>"
  }
 ]
