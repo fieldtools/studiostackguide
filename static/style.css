@@ -6,9 +6,9 @@ a{color:var(--brand)}a:hover{color:var(--brand-d)}
 .skip{position:absolute;left:-999px;top:0;background:#fff;padding:8px 12px;z-index:99}.skip:focus{left:8px}
 .wrap{max-width:1100px;margin:0 auto;padding:0 16px}
 .top{position:sticky;top:0;z-index:10;background:#fff;border-bottom:1px solid var(--line)}
-.hd{display:flex;align-items:center;justify-content:space-between;gap:8px;padding-top:10px;padding-bottom:6px}
+.hd{display:flex;align-items:center;justify-content:space-between;gap:8px;flex-wrap:wrap;padding-top:10px;padding-bottom:6px}
 .logo{display:flex;align-items:center;gap:8px;font-weight:800;font-size:1.1rem;color:var(--ink);text-decoration:none}
-.quick{display:flex;gap:6px}
+.quick{display:flex;gap:6px;flex-wrap:wrap}
 .pill{display:inline-block;padding:7px 12px;border-radius:999px;border:1.5px solid var(--brand);font-weight:600;font-size:.88rem;text-decoration:none;white-space:nowrap}
 .pill.pri{background:var(--brand);color:#fff}.pill.pri:hover{background:var(--brand-d);color:#fff}
 .trades{display:flex;gap:16px;overflow-x:auto;padding-bottom:8px;font-size:.9rem;scrollbar-width:thin}
