@@ -603,5 +603,60 @@
   "last_verified": "2026-10-25",
   "autopay": "Invoicing and fee tracking (pricing page); automatic recurring card payments unknown",
   "parent_portal": "Yes: student, parent and teacher portals (pricing page)"
+ },
+ {
+  "slug": "mariana-tek",
+  "name": "Mariana Tek",
+  "website": "https://www.marianatek.com/",
+  "trades": [
+   "yoga"
+  ],
+  "free_trial": "unknown (not published; vendor offers an intro call/demo)",
+  "contract": "unknown (not published)",
+  "plans": [
+   {
+    "name": "Core",
+    "users": "Single locations getting started: platform + custom-branded iOS/Android apps, Biz App, kiosk check-in, waivers and forms",
+    "monthly_no_commit": "unknown (quote only)",
+    "annual": "unknown"
+   },
+   {
+    "name": "Core + Growth (most popular)",
+    "users": "Everything in Core + marketing automation (email/SMS), two-way texting, landing pages and forms",
+    "monthly_no_commit": "unknown (quote only)",
+    "annual": "unknown"
+   },
+   {
+    "name": "Full Growth Bundle",
+    "users": "Everything in Core + Growth + gamification, feedback suite, custom marketing plan",
+    "monthly_no_commit": "unknown (quote only)",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Unlimited class schedule and instructors on every plan; multi-location management from one login (pricing page)",
+  "card_fee": "Stripe processing at Stripe's standard flat rate; Mariana Tek says it adds nothing on top (pricing page FAQ). Exact rate not stated",
+  "belt_tracking": "Not applicable (boutique fitness)",
+  "attendance": "Yes: kiosk check-in; class rosters and waitlists (pricing page, homepage)",
+  "online_booking": "Yes: branded app booking; pick-a-spot with custom floor plans for reformers, megaformers and bikes (homepage)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.marianatek.com/pricing",
+   "https://www.marianatek.com/"
+  ],
+  "best_for": "Boutique fitness studios (pilates, yoga, barre, cycling, HIIT, boxing) wanting a branded app",
+  "starting_price": "Not published (quote only)",
+  "pros": [
+   "Custom-branded iOS and Android apps on every plan, from Core up",
+   "Pick-a-spot with custom floor plans for reformers, megaformers and bikes",
+   "Stripe processing at Stripe's standard rate with no Mariana Tek markup"
+  ],
+  "cons": [
+   "No prices published; you must book an intro call",
+   "Onboarding typically takes five to eight weeks",
+   "Marketing automation and two-way texting need Core + Growth or above"
+  ],
+  "last_verified": "2026-10-26",
+  "who_html": "<p>Mariana Tek describes itself as software for boutique fitness studios that want a high-end, branded customer experience, from single-location studios to global brands and franchises. Its customers run group classes including pilates (Lagree, Megaformer and mat), yoga, barre, indoor cycling, HIIT and boxing. Mariana Tek says typical onboarding takes five to eight weeks with dedicated onboarding specialists and a demo environment. Every plan includes multi-location management, unlimited classes and instructors, intro offers, packs and memberships, CRM, reporting, kiosk check-in, digital waivers and transactional emails.</p>",
+  "compare_html": "<p><a href=\"/tools/mindbody/\">Mindbody</a> publishes an entry price (from $79/mo per location) and lists studios on its consumer app, with a 20% fee (capped at $30) on new clients' first app purchase. Mariana Tek publishes no prices and focuses on your own branded app instead of a marketplace. <a href=\"/tools/zen-planner/\">Zen Planner</a> (from $99/mo) and <a href=\"/tools/gymdesk/\">Gymdesk</a> (from $75/mo) publish prices and suit membership gyms and martial arts schools; Mariana Tek is aimed at boutique class studios with features like pick-a-spot floor plans for reformers and bikes. See also <a href=\"/studios/yoga/\">yoga studio tools</a> and <a href=\"/best-dance-studio-software/\">dance and yoga studio software compared</a>.</p>"
  }
 ]
