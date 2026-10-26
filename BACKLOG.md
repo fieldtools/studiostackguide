@@ -43,5 +43,5 @@
 | 40 | best-voice-teacher-software (private voice/instrument teachers) | best | todo |
 | 41 | my-music-staff-vs-fons | vs | todo |
 | 42 | tools/wellnessliving (review + pricing; gyms, yoga, martial arts, dance) | tool | todo (affiliate: WellnessLiving $1,500 per signup via Wise, plain form, apply-ready per scout 2026-10-25, not applied) |
-| 43 | tools/mariana-tek (review + pricing; boutique yoga/pilates/barre) | tool | todo (affiliate: Mariana Tek up to $800 per studio via PayPal, Referral Rock form, apply-ready per scout 2026-10-25, not applied) |
+| 43 | tools/mariana-tek (review + pricing; boutique yoga/pilates/barre) | tool | done 2026-10-26 (published; affiliate: Mariana Tek up to $800 per studio via PayPal, Referral Rock form, apply-ready per scout 2026-10-25, not applied) |
 | 44 | tools/studio-helper (review + pricing; music/dance studio software from the Music Teacher's Helper makers) | tool | todo (affiliate: Studio Helper 20% recurring via PayPal, signup needs password, needs Jacob; scout 2026-10-25) |
