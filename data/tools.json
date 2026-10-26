@@ -703,5 +703,154 @@
   "last_verified": "2026-10-26",
   "who_html": "<p>Studio Helper describes itself as studio management software for music studios, yoga studios, dance studios, martial arts dojos and other teaching studios (music, dance, fitness, sports, martial arts). The testimonials on its homepage come mostly from music teaching businesses, including a studio with 5 teachers and more than 100 students. Features it lists: a real-time calendar for students, teachers and staff with room and teacher scheduling, reminders and attendance tracking; online invoicing and payments; payroll, expense and inventory tracking; built-in reports for key metrics and tax returns; permissions per role; student skill updates with parent alerts; mass email messaging; to-do assignments; and embedding into your existing website to show availability.</p>",
   "compare_html": "<p>For a solo music teacher, flat-priced tools cost less on paper: <a href=\"/tools/duet/\">Duet</a> ($9/mo), <a href=\"/tools/my-music-staff/\">My Music Staff</a> ($16.95/mo plus $4.95 per extra teacher) and <a href=\"/tools/fons/\">Fons</a> ($19.95/mo). At Studio Helper's published rate, 40 students works out to $60/mo and 100 students to $75/mo. <a href=\"/tools/teach-n-go/\">Teach 'n Go</a> is $79/mo for up to 100 live students, so the two are close for a mid-size multi-teacher studio; Studio Helper adds payroll, expense and inventory tracking. <a href=\"/tools/mysymphony/\">mySymphony</a> charges $0.25 per booked lesson rather than per student. See <a href=\"/best-music-lesson-studio-software/\">music lesson studio software compared</a>, <a href=\"/studios/music-lessons/\">all music lesson studio tools</a> and <a href=\"/best-dance-studio-software/\">dance studio software</a>.</p>"
+ },
+ {
+  "slug": "pushpress",
+  "name": "PushPress",
+  "website": "https://www.pushpress.com/",
+  "trades": [
+   "martial"
+  ],
+  "free_trial": "unknown (Free plan has no monthly fee)",
+  "contract": "unknown",
+  "plans": [
+   {
+    "name": "Free",
+    "users": "Unlimited members, staff and admins",
+    "monthly_no_commit": "$0 (card 4.99% + $0.30; ACH 2.89% + $0.30)",
+    "annual": "unknown"
+   },
+   {
+    "name": "Pro",
+    "users": "Unlimited members, staff and admins",
+    "monthly_no_commit": "$159/mo (card 2.89% + $0.30; ACH 0.79% + $0.30)",
+    "annual": "unknown"
+   },
+   {
+    "name": "Max",
+    "users": "Unlimited members, staff and admins",
+    "monthly_no_commit": "$229/mo (card 2.75% + $0.30; ACH 0.79% + $0.30)",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Flat plan price; unlimited members and staff on every plan; prices in USD (contact sales for international)",
+  "card_fee": "Free: 4.99% + $0.30 card, 2.89% + $0.30 ACH; Pro: 2.89% + $0.30 card, 0.79% + $0.30 ACH; Max: 2.75% + $0.30 card, 0.79% + $0.30 ACH",
+  "belt_tracking": "Yes: Rank Tracking for martial arts academies (pricing page); which plans include it: unknown",
+  "attendance": "Yes: check-ins, kiosk mode and attendance tracking (pricing page)",
+  "online_booking": "Yes: members app class registration, waitlists, appointments (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.pushpress.com/pricing"
+  ],
+  "best_for": "Small schools that want $0/mo software and accept a higher card rate",
+  "starting_price": "$0/mo (Free plan)",
+  "pros": [
+   "Free plan with no monthly fee",
+   "Unlimited members and staff on every plan",
+   "Rank Tracking and invite-only events for belt tests listed"
+  ],
+  "cons": [
+   "Free plan card rate is 4.99% + $0.30",
+   "Trial and contract terms not published on pricing page"
+  ],
+  "last_verified": "2026-10-26",
+  "autopay": "Yes: pro-rated recurring billing (pricing page)",
+  "parent_portal": "Members app for booking, purchases and profile updates (pricing page)"
+ },
+ {
+  "slug": "recess",
+  "name": "Recess",
+  "website": "https://www.recess.tv/",
+  "trades": [
+   "martial"
+  ],
+  "free_trial": "Not applicable (free; no monthly fee)",
+  "contract": "No setup fee, contract or minimum (features page)",
+  "plans": [
+   {
+    "name": "Recess (one plan)",
+    "users": "Unlimited staff logins",
+    "monthly_no_commit": "$0/mo for the studio",
+    "annual": "Not applicable"
+   }
+  ],
+  "extra_user": "$0 per month per location; members pay a service fee of about 5% at checkout, which covers card and bank processing; cash or cheque payments carry no fee",
+  "card_fee": "Member-paid service fee of about 5% at checkout; processing covered by Recess out of that fee (pricing page)",
+  "belt_tracking": "Yes: belts, stripes and testing on a ladder you define (pricing and martial arts pages)",
+  "attendance": "unknown (not detailed on pricing page)",
+  "online_booking": "Yes: classes, appointments, courses, waitlists; branded app (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.recess.tv/pricing",
+   "https://www.recess.tv/martial-arts-school-software",
+   "https://www.recess.tv/features"
+  ],
+  "best_for": "Schools willing to pass a ~5% checkout fee to families instead of paying a subscription",
+  "starting_price": "$0/mo (members pay ~5% at checkout)",
+  "pros": [
+   "No monthly, setup or add-on fees; one plan",
+   "Belts, stripes, testing and family accounts included",
+   "Branded app and unlimited texting included"
+  ],
+  "cons": [
+   "Members pay about 5% on every checkout payment",
+   "Exact fee is described as 'about 5%', not a fixed published rate"
+  ],
+  "last_verified": "2026-10-26",
+  "autopay": "Yes: memberships with automatic retry of failed payments (pricing page)",
+  "parent_portal": "Family accounts: several children under one payer and one login (pricing page)"
+ },
+ {
+  "slug": "rhinofit",
+  "name": "RhinoFit",
+  "website": "https://www.rhinofit.ca/",
+  "trades": [
+   "martial"
+  ],
+  "free_trial": "30 days, no credit card",
+  "contract": "No contract; cancel anytime by phone (pricing page)",
+  "plans": [
+   {
+    "name": "Start Up",
+    "users": "20 or fewer active users/month; US/Canada also ≤$2,500/mo in payments",
+    "monthly_no_commit": "$0/mo (may restrict communications and payment processing)",
+    "annual": "unknown"
+   },
+   {
+    "name": "Standard",
+    "users": "No member limits",
+    "monthly_no_commit": "$57/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "24/7 Access",
+    "users": "No member limits",
+    "monthly_no_commit": "$99/mo promo (listed $149); door hardware sold separately",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Flat price, no member limits (Standard); Start Up is free only at 20 or fewer active users",
+  "card_fee": "unknown (Automated Payment Processing listed on Standard; rates not published on pricing page)",
+  "belt_tracking": "Yes: Belt & Progression Tracking on all plans (pricing page)",
+  "attendance": "Yes: check-in, reserve and attend; tablet kiosk (pricing page)",
+  "online_booking": "Yes: class and appointment scheduling; mobile app (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.rhinofit.ca/pricing"
+  ],
+  "best_for": "Very small or new schools (20 or fewer active students) and flat-price buyers",
+  "starting_price": "$0/mo (Start Up, ≤20 active users); $57/mo Standard",
+  "pros": [
+   "Free Start Up tier for 20 or fewer active users",
+   "Flat $57/mo Standard with no member limits",
+   "30-day trial with no credit card"
+  ],
+  "cons": [
+   "Free tier may have restricted or no payment processing and communications",
+   "Payment processing rates not published"
+  ],
+  "last_verified": "2026-10-26",
+  "autopay": "Standard: Automated Payment Processing (pricing page)",
+  "parent_portal": "unknown"
  }
 ]
