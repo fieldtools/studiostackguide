@@ -47,7 +47,7 @@
   },
   "duet": {
     "url": "https://www.duetpartner.com/",
-  "program": "No affiliate program (non-affiliate): program not active, confirmed by Duet support 2026-10-25 (old 20% figure came from an outdated page; signup link dead)",
+    "program": "No affiliate program (non-affiliate): program not active, confirmed by Duet support 2026-10-25 (old 20% figure came from an outdated page; signup link dead)",
     "status": "plain"
   },
   "mysymphony": {
@@ -66,8 +66,8 @@
     "status": "applied"
   },
   "marianatek": {
-    "url": "https://marianatek.com/",
-    "program": "Mariana Tek affiliate (Referral Rock), up to $800 per studio via PayPal; registered Oct 25, 2026 (dashboard tsgfitness.referralrock.com/v2/5), referral link not yet pulled; plain URL",
-    "status": "applied"
+    "url": "https://TSGFitness.referralrock.com/l/1JACOBCARMA68/",
+    "program": "Mariana Tek affiliate; Referral Rock, set up 2026-10-26 (no Mariana Tek page on site yet)",
+    "status": "affiliate"
   }
 }
