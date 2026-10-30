@@ -1,0 +1,38 @@
+{
+ "slug": "belt-rank-tracking-software",
+ "title": "Belt Rank Tracking Software for Martial Arts (2026)",
+ "description": "Belt and rank tracking software compared: how Spark, Kicksite, Martialytics, Gymdesk, MASS, PushPress, Recess and RhinoFit track belts, stripes and testing.",
+ "h1": "Belt rank tracking software for martial arts schools",
+ "keyword": "belt rank tracking software",
+ "type": "feature",
+ "tools": [
+  "spark-membership",
+  "kicksite",
+  "martialytics",
+  "gymdesk",
+  "mass",
+  "recess",
+  "rhinofit",
+  "pushpress",
+  "zen-planner"
+ ],
+ "trades": [
+  "martial",
+  "bjj"
+ ],
+ "body": "<p>Most martial arts school software can track belts, but vendors describe very different depth: some just record a student's current rank, others check test eligibility from attendance and print certificates. Here is what each vendor publishes about rank tracking.</p><p>We checked each vendor's own public pages between October 26 and October 30, 2026 and list only what they publish. Anything a vendor doesn't publish is marked unknown. We have not used these tools ourselves and we don't publish ratings.</p>{{table:spark-membership,kicksite,martialytics,gymdesk,recess,rhinofit}}<h2>What each tool says it does for ranks</h2><ul><li><strong><a href=\"/tools/spark-membership/\">Spark Membership</a></strong>: rank history, requirements per rank, test eligibility based on attendance, mass rank promotion and certificates (<a href=\"https://sparkmembership.com/martial-arts-belt-tracking-software\" rel=\"nofollow noopener\">Spark belt tracking page</a>). $199/mo after an 8-week trial.</li><li><strong><a href=\"/tools/kicksite/\">Kicksite</a></strong>: attendance and belt tracking with one-click promotion. From $49/mo for 0-25 students (<a href=\"https://www.kicksite.com/pricing\" rel=\"nofollow noopener\">Kicksite pricing</a>).</li><li><strong><a href=\"/tools/martialytics/\">Martialytics</a></strong>: grading-readiness tracking, and student-app lessons sectioned by rank. From $69/mo for 0-50 students, every feature on every tier (<a href=\"https://www.martialytics.com/pricing\" rel=\"nofollow noopener\">Martialytics pricing</a>).</li><li><strong><a href=\"/tools/gymdesk/\">Gymdesk</a></strong>: rank progression per program, and it flags who is ready to promote. From $75/mo with Gymdesk Payments for up to 50 active members (<a href=\"https://gymdesk.com/pricing\" rel=\"nofollow noopener\">Gymdesk pricing</a>).</li><li><strong><a href=\"/tools/mass/\">MASS</a></strong>: grading readiness score per student and one-click grading certificates. Pricing requires sign-in, so it is unknown here.</li><li><strong><a href=\"/tools/recess/\">Recess</a></strong>: belts, stripes and testing on a ladder you define; $0/mo for the studio, with members paying a service fee of about 5% at checkout.</li><li><strong><a href=\"/tools/rhinofit/\">RhinoFit</a></strong>: Belt &amp; Progression Tracking on all plans, including the $0 Start Up plan (20 or fewer active users) and $57/mo Standard.</li><li><strong><a href=\"/tools/pushpress/\">PushPress</a></strong>: lists Rank Tracking for martial arts academies on its pricing page; which plans include it is unknown.</li><li><strong><a href=\"/tools/zen-planner/\">Zen Planner</a></strong>: belt and skill tracking listed; from $99/mo (Studio).</li></ul><h2>What to check in a free trial</h2><ul><li>Can you set different rank ladders per program (kids, adults, BJJ stripes)?</li><li>Does test eligibility use attendance counts or time in rank, and can you override it?</li><li>Can you promote a whole testing group at once and print certificates?</li><li>Can students or parents see their own rank and requirements in an app?</li><li>Can you export rank history if you switch software later?</li></ul><p>Vendors' pages don't answer all of these in detail, so treat them as questions for the trial. Our <a href=\"/software-buying-checklist/\">software buying checklist</a> has more.</p><h2>Which to shortlist</h2><p>If belt testing drives your revenue and you want eligibility and certificates built in, Spark Membership, Martialytics, Gymdesk and MASS publish the most detail about it. If you're small and price matters most, RhinoFit's free Start Up plan and Recess both include belt tracking at $0/mo for the school. {{aff:martialytics|Visit Martialytics}} {{aff:kicksite|Visit Kicksite}}</p><p>Related: <a href=\"/best-martial-arts-school-software/\">best martial arts school software</a> · <a href=\"/martial-arts-software-pricing/\">martial arts software pricing by student count</a> · <a href=\"/free-martial-arts-software/\">free martial arts software</a> · <a href=\"/studios/martial-arts/\">all martial arts tools</a></p>",
+ "faq": [
+  [
+   "Which martial arts software checks belt test eligibility?",
+   "Spark Membership says it calculates test eligibility from attendance (sparkmembership.com/martial-arts-belt-tracking-software). Gymdesk says it flags who is ready to promote, and Martialytics and MASS describe grading-readiness tracking."
+  ],
+  [
+   "Is there free belt tracking software?",
+   "RhinoFit lists Belt & Progression Tracking on its $0 Start Up plan for 20 or fewer active users (rhinofit.ca/pricing). Recess includes belts, stripes and testing at $0/mo for the studio, with members paying about 5% at checkout (recess.tv/pricing)."
+  ],
+  [
+   "Can I track BJJ stripes as well as belts?",
+   "Recess lists belts and stripes on a ladder you define. For other tools, check stripe support during the free trial; vendors don't all spell it out."
+  ]
+ ]
+}

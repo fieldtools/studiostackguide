@@ -1,90 +1,105 @@
 {
-  "_note": "Plain links for now. After approval, replace url with affiliate link and set status live.",
-  "martialytics": {
-    "url": "https://www.martialytics.com/",
-    "program": "Rewardful, 40% for 12 months",
-    "status": "applied"
-  },
-  "gymdesk": {
-    "url": "https://gymdesk.com/",
-    "program": "100% of first 3 payments",
-    "status": "plain"
-  },
-  "zenplanner": {
-    "url": "https://zenplanner.com/",
-    "program": "15% then 20% for 12 months - application pending; plain link until approved",
-    "status": "pending"
-  },
-  "kicksite": {
-    "url": "https://www.kicksite.com/",
-    "program": "Customer referral: $20 + free month",
-    "status": "plain"
-  },
-  "sparkmembership": {
-    "url": "https://sparkmembership.com/",
-    "program": "Ambassador (unverified)",
-    "status": "plain"
-  },
-  "mass": {
-    "url": "https://www.mass-system.com/",
-    "program": "Federation revenue share only",
-    "status": "plain"
-  },
-  "mindbody": {
-    "url": "https://www.mindbodyonline.com/business",
-    "program": "Customer credit only",
-    "status": "plain"
-  },
-  "mymusicstaff": {
-    "url": "https://www.mymusicstaff.com/",
-    "program": "No affiliate program (non-affiliate)",
-    "status": "plain"
-  },
-  "fons": {
-    "url": "https://www.fons.com/",
-    "program": "No affiliate program (non-affiliate)",
-    "status": "plain"
-  },
-  "duet": {
-    "url": "https://www.duetpartner.com/",
-    "program": "No affiliate program (non-affiliate): program not active, confirmed by Duet support 2026-10-25 (old 20% figure came from an outdated page; signup link dead)",
-    "status": "plain"
-  },
-  "mysymphony": {
-    "url": "https://www.mysymphony.net/",
-    "program": "25% recurring per scout; not applied, no approved link; plain",
-    "status": "plain"
-  },
-  "teachngo": {
-    "url": "https://www.teachngo.com/",
-    "program": "40% of first year per scout; not applied, no approved link; plain",
-    "status": "plain"
-  },
-  "wellnessliving": {
-    "url": "https://www.wellnessliving.com/",
-    "program": "WellnessLiving Partner Program (Brand Ambassador), $1,500 per signed business paid in 3x$500 via Wise; applied Oct 25, 2026, pending; plain URL until approved",
-    "status": "applied"
-  },
-  "marianatek": {
-    "url": "https://TSGFitness.referralrock.com/l/1JACOBCARMA68/",
-    "program": "Mariana Tek affiliate; Referral Rock, set up 2026-10-26 (no Mariana Tek page on site yet)",
-    "status": "affiliate"
-  },
-  "studio-helper": {
-    "url": "https://studiohelper.com/promo/12B827",
-    "program": "Studio Helper distributor program",
-    "status": "affiliate",
-    "note": "Studio Helper distributor, joined 2026-10-26, promo 12B827"
-  },
-  "arketa": {
-    "url": "https://www.arketa.com/",
-    "program": "Arketa Affiliate Referral Program (partner.io), $750 per Closed/Won referral; applied Oct 26, 2026 as Affiliate Partner, pending; plain URL until approved",
-    "status": "applied"
-  },
-  "virtuagym": {
-    "url": "https://business.virtuagym.com/",
-    "program": "Virtuagym Referral Program (Referral Rock), one-time $150 trainer / $300 studio / $500 gym, paid only if the referral signs a contract; registered Oct 26, 2026 (dashboard access granted); payout method not set up; plain URL kept on pages",
-    "status": "applied",
-    "note": "Referral link (not swapped into pages): https://referafriend.virtuagym.com/l/1JACOBCARMA46/ ; dashboard https://referafriend.virtuagym.com/v2/2"
-  }
+ "_note": "Plain links for now. After approval, replace url with affiliate link and set status live.",
+ "martialytics": {
+  "url": "https://www.martialytics.com/",
+  "program": "Rewardful, 40% for 12 months",
+  "status": "applied"
+ },
+ "gymdesk": {
+  "url": "https://gymdesk.com/",
+  "program": "100% of first 3 payments",
+  "status": "plain"
+ },
+ "zenplanner": {
+  "url": "https://zenplanner.com/",
+  "program": "15% then 20% for 12 months - application pending; plain link until approved",
+  "status": "pending"
+ },
+ "kicksite": {
+  "url": "https://www.kicksite.com/",
+  "program": "Customer referral: $20 + free month",
+  "status": "plain"
+ },
+ "sparkmembership": {
+  "url": "https://sparkmembership.com/",
+  "program": "Ambassador (unverified)",
+  "status": "plain"
+ },
+ "mass": {
+  "url": "https://www.mass-system.com/",
+  "program": "Federation revenue share only",
+  "status": "plain"
+ },
+ "mindbody": {
+  "url": "https://www.mindbodyonline.com/business",
+  "program": "Customer credit only",
+  "status": "plain"
+ },
+ "mymusicstaff": {
+  "url": "https://www.mymusicstaff.com/",
+  "program": "No affiliate program (non-affiliate)",
+  "status": "plain"
+ },
+ "fons": {
+  "url": "https://www.fons.com/",
+  "program": "No affiliate program (non-affiliate)",
+  "status": "plain"
+ },
+ "duet": {
+  "url": "https://www.duetpartner.com/",
+  "program": "No affiliate program (non-affiliate): program not active, confirmed by Duet support 2026-10-25 (old 20% figure came from an outdated page; signup link dead)",
+  "status": "plain"
+ },
+ "mysymphony": {
+  "url": "https://www.mysymphony.net/",
+  "program": "25% recurring per scout; not applied, no approved link; plain",
+  "status": "plain"
+ },
+ "teachngo": {
+  "url": "https://www.teachngo.com/",
+  "program": "40% of first year per scout; not applied, no approved link; plain",
+  "status": "plain"
+ },
+ "wellnessliving": {
+  "url": "https://www.wellnessliving.com/",
+  "program": "WellnessLiving Partner Program (Brand Ambassador), $1,500 per signed business paid in 3x$500 via Wise; applied Oct 25, 2026, pending; plain URL until approved",
+  "status": "applied"
+ },
+ "marianatek": {
+  "url": "https://TSGFitness.referralrock.com/l/1JACOBCARMA68/",
+  "program": "Mariana Tek affiliate; Referral Rock, set up 2026-10-26 (no Mariana Tek page on site yet)",
+  "status": "affiliate"
+ },
+ "studio-helper": {
+  "url": "https://studiohelper.com/promo/12B827",
+  "program": "Studio Helper distributor program",
+  "status": "affiliate",
+  "note": "Studio Helper distributor, joined 2026-10-26, promo 12B827"
+ },
+ "arketa": {
+  "url": "https://www.arketa.com/",
+  "program": "Arketa Affiliate Referral Program (partner.io), $750 per Closed/Won referral; applied Oct 26, 2026 as Affiliate Partner, pending; plain URL until approved",
+  "status": "applied"
+ },
+ "virtuagym": {
+  "url": "https://business.virtuagym.com/",
+  "program": "Virtuagym Referral Program (Referral Rock), one-time $150 trainer / $300 studio / $500 gym, paid only if the referral signs a contract; registered Oct 26, 2026 (dashboard access granted); payout method not set up; plain URL kept on pages",
+  "status": "applied",
+  "note": "Referral link (not swapped into pages): https://referafriend.virtuagym.com/l/1JACOBCARMA46/ ; dashboard https://referafriend.virtuagym.com/v2/2"
+ },
+ "pushpress": {
+  "url": "https://www.pushpress.com/",
+  "program": "No approved affiliate program (non-affiliate)",
+  "status": "plain"
+ },
+ "recess": {
+  "url": "https://www.recess.tv/",
+  "program": "No approved affiliate program (non-affiliate)",
+  "status": "plain"
+ },
+ "rhinofit": {
+  "url": "https://www.rhinofit.ca/",
+  "program": "No approved affiliate program (non-affiliate)",
+  "status": "plain"
+ }
 }
