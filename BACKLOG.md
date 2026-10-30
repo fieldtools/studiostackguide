@@ -23,7 +23,7 @@
 | 20 | martial-arts-software-pricing (cost by student count) | guide | done (2026-10-22) |
 | 21 | mindbody-alternatives-for-studios | alternatives | todo |
 | 22 | zen-planner-alternatives | alternatives | todo |
-| 23 | kicksite-alternatives | alternatives | todo |
+| 23 | kicksite-alternatives | alternatives | done (2026-10-30) |
 | 24 | add tools: Jackrabbit Class, DanceStudio-Pro, Glofox, WellnessLiving, Momence, Wodify, PushPress, MyStudio, Ember, Dojo Expert | data | todo |
 | 25 | best-dance-studio-software (dance-only, with Jackrabbit) | best | todo |
 | 26 | best-software-for-new-dojo (startup checklist) | guide | todo |
