@@ -16,7 +16,7 @@
 | 13 | best-muay-thai-gym-software | best | todo |
 | 14 | best-krav-maga-software | best | todo |
 | 15 | belt-rank-tracking-software | feature | done (2026-10-30) |
-| 16 | martial-arts-attendance-software (check-in kiosks) | feature | todo |
+| 16 | martial-arts-attendance-software (check-in kiosks) | feature | done (2026-10-30) |
 | 17 | martial-arts-billing-software (processing fees compared) | feature | todo |
 | 18 | class-booking-software-for-studios | feature | todo |
 | 19 | free-martial-arts-software (free tiers/trials) | best | done (2026-10-26) |

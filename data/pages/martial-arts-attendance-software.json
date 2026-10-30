@@ -1,0 +1,36 @@
+{
+ "slug": "martial-arts-attendance-software",
+ "title": "Martial Arts Attendance & Check-In Kiosk Software (2026)",
+ "description": "Martial arts attendance and check-in kiosk software compared: how Kicksite, Martialytics, Gymdesk, PushPress, RhinoFit and Spark handle check-in, with prices.",
+ "h1": "Martial arts attendance and check-in kiosk software",
+ "keyword": "martial arts attendance software",
+ "type": "feature",
+ "tools": [
+  "kicksite",
+  "martialytics",
+  "gymdesk",
+  "pushpress",
+  "rhinofit",
+  "spark-membership",
+  "zen-planner"
+ ],
+ "trades": [
+  "martial",
+  "bjj"
+ ],
+ "body": "<p>Attendance matters more in martial arts than in most gyms: it drives belt test eligibility and tells you who is about to quit. Most school software offers a front-desk kiosk where students check themselves in. Here is what each vendor publishes.</p><p>We checked each vendor's own public pages between October 26 and October 30, 2026 and list only what they publish. Anything a vendor doesn't publish is marked unknown. We have not used these tools ourselves and we don't publish ratings.</p>{{table:kicksite,martialytics,gymdesk,pushpress,rhinofit,spark-membership}}<h2>How each tool handles check-in</h2><ul><li><strong><a href=\"/tools/kicksite/\">Kicksite</a></strong>: kiosk check-in by name, PIN or member-portal barcode, and it can block check-in for past-due balances (<a href=\"https://kicksite.com/martial-arts-attendance-tracking-software/\" rel=\"nofollow noopener\">Kicksite attendance page</a>). From $49/mo.</li><li><strong><a href=\"/tools/martialytics/\">Martialytics</a></strong>: Kiosk Mode check-in app, engagement tracking and automatic absence follow-up (<a href=\"https://www.martialytics.com/features\" rel=\"nofollow noopener\">Martialytics features</a>). From $69/mo.</li><li><strong><a href=\"/tools/gymdesk/\">Gymdesk</a></strong>: check-in by kiosk, name search, barcode or phone. From $75/mo with Gymdesk Payments.</li><li><strong><a href=\"/tools/pushpress/\">PushPress</a></strong>: check-ins, kiosk mode and attendance tracking listed on the pricing page; Free plan $0/mo.</li><li><strong><a href=\"/tools/rhinofit/\">RhinoFit</a></strong>: check-in, reserve and attend, with a tablet kiosk; $0 Start Up or $57/mo Standard.</li><li><strong><a href=\"/tools/spark-membership/\">Spark Membership</a></strong>: attendance trends, and attendance feeds test eligibility. $199/mo after an 8-week trial.</li><li><strong><a href=\"/tools/zen-planner/\">Zen Planner</a></strong>: attendance listed; kiosk details unknown from the pricing page.</li></ul><h2>What to test at your front desk</h2><ul><li>How fast can a kid check in: name search, PIN, barcode or phone?</li><li>Does attendance count toward the next belt test automatically? See <a href=\"/belt-rank-tracking-software/\">belt rank tracking software</a>.</li><li>Can it alert you when a student stops showing up?</li><li>Can it stop check-in for overdue accounts, and can you override it?</li><li>Does the kiosk run on a tablet you already own? Hardware requirements are mostly unknown from vendor pages, so ask.</li></ul><p>Compare total cost in our <a href=\"/martial-arts-software-pricing/\">pricing by student count</a> guide. {{aff:martialytics|Visit Martialytics}} {{aff:kicksite|Visit Kicksite}}</p><p>Related: <a href=\"/best-martial-arts-school-software/\">best martial arts school software</a> · <a href=\"/martial-arts-software-pricing/\">martial arts software pricing by student count</a> · <a href=\"/free-martial-arts-software/\">free martial arts software</a> · <a href=\"/studios/martial-arts/\">all martial arts tools</a></p>",
+ "faq": [
+  [
+   "Which martial arts software has a check-in kiosk?",
+   "Kicksite, Martialytics (Kiosk Mode), Gymdesk, PushPress and RhinoFit all list kiosk or tablet check-in on their own pages (checked 2026-10-26 to 2026-10-30)."
+  ],
+  [
+   "Can software follow up with students who miss class?",
+   "Martialytics lists automatic absence follow-up (martialytics.com/features). For other tools, check during the free trial."
+  ],
+  [
+   "Can I block check-in for unpaid accounts?",
+   "Kicksite says it supports check-in restrictions for past-due balances (kicksite.com attendance page and FAQ)."
+  ]
+ ]
+}
