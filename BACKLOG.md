@@ -48,3 +48,6 @@
 | 45 | tools/arketa (review + pricing; boutique yoga/pilates/dance studios, formerly Sutra) | tool | todo (affiliate: Arketa $750 per Closed/Won referral via partner.io, apply-ready per scout 2026-10-26) |
 | 46 | tools/virtuagym (review + pricing; gyms, studios, martial arts, PT) | tool | todo (affiliate: Virtuagym referral $300 studio / $500 gym / $150 PT, Referral Rock form, apply-ready per scout 2026-10-26) |
 | 47 | tools/offeringtree (review + pricing; yoga/pilates/dance studio website + booking) | tool | todo (affiliate: OfferingTree Ambassador $10-$80/mo for 1 year via PayPal; requires an OfferingTree account, needs Jacob) |
+| 48 | tools/upper-hand (review + pricing; sports-business management with martial arts, dance and gymnastics pages, from $79/mo) | tool | todo (affiliate: Upper Hand UPX Ambassador, $300+ per new customer + $400 bonus every 3 sales, HubSpot form, apply-ready per scout 2026-10-30) |
+| 49 | tools/bjjlink (review + pricing; BJJ academy management, Admin+ Black/Coral) | tool | todo (affiliate: BJJLINK referral $49 or $149/mo for up to 3 months via PayPal; requires a CONNECT account, needs Jacob) |
+| 50 | tools/marvelous (review + pricing; yoga teacher/studio course, membership and booking platform) | tool | todo (affiliate: Marvelous 30% for 24 months via PayPal; app signup, needs Jacob; moderate fit) |
