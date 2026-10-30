@@ -1,0 +1,37 @@
+{
+ "slug": "martial-arts-billing-software",
+ "title": "Martial Arts Billing Software: Processing Fees Compared",
+ "description": "Martial arts billing software compared by published card processing fees: Kicksite, PushPress, Martialytics, Recess, MASS, Spark, Gymdesk and Zen Planner.",
+ "h1": "Martial arts billing software: processing fees compared",
+ "keyword": "martial arts billing software",
+ "type": "feature",
+ "tools": [
+  "kicksite",
+  "pushpress",
+  "martialytics",
+  "recess",
+  "mass",
+  "spark-membership",
+  "gymdesk",
+  "zen-planner"
+ ],
+ "trades": [
+  "martial",
+  "bjj"
+ ],
+ "body": "<p>For a martial arts school, the software subscription is often smaller than what you pay to collect tuition. Card processing rates, monthly processing fees and platform cuts add up every month. Below is what each vendor publishes about billing and processing costs.</p><p>We checked each vendor's own public pages between October 26 and October 30, 2026 and list only what they publish. Anything a vendor doesn't publish is marked unknown. We have not used these tools ourselves and we don't publish ratings.</p>{{table:kicksite,pushpress,martialytics,recess,gymdesk,spark-membership}}<h2>Published processing costs</h2><ul><li><strong><a href=\"/tools/kicksite/\">Kicksite</a></strong> (US, partner Basys): card-only is $29/mo plus 2.9% + $0.25 per card transaction. Card + ACH is a $35 setup fee, $49/mo, 2.9% + $0.25 per card and $0.30 per ACH transaction. International schools use Stripe (<a href=\"https://kicksite.com/payment-processing/\" rel=\"nofollow noopener\">Kicksite payment processing</a>).</li><li><strong><a href=\"/tools/pushpress/\">PushPress</a></strong>: Free plan $0/mo with card 4.99% + $0.30 and ACH 2.89% + $0.30; Pro $159/mo with card 2.89% + $0.30 and ACH 0.79% + $0.30; Max $229/mo with card 2.75% + $0.30 (<a href=\"https://www.pushpress.com/pricing\" rel=\"nofollow noopener\">PushPress pricing</a>).</li><li><strong><a href=\"/tools/martialytics/\">Martialytics</a></strong>: standard Stripe rates with no markup and no revenue percentage, per the vendor (<a href=\"https://www.martialytics.com/pricing\" rel=\"nofollow noopener\">Martialytics pricing</a>).</li><li><strong><a href=\"/tools/recess/\">Recess</a></strong>: no fee to the studio; members pay a service fee of about 5% at checkout, and Recess covers processing out of it.</li><li><strong><a href=\"/tools/mass/\">MASS</a></strong>: a 2% platform fee on student payments processed through MASS (Terms 3.7), plus Stripe fees.</li><li><strong><a href=\"/tools/spark-membership/\">Spark Membership</a></strong>: Spark Payments; rates not published. Spark says it supports automatic card surcharging capped at your actual rate, or dual pricing, where legal.</li><li><strong><a href=\"/tools/gymdesk/\">Gymdesk</a></strong>: the subscription is $25 less per month on every tier if you use Gymdesk Payments (e.g. $75 vs $100/mo up to 50 members); the Gymdesk Payments rate itself: unknown.</li><li><strong><a href=\"/tools/zen-planner/\">Zen Planner</a></strong>: Daxko Payments or preferred processors; rates unknown.</li></ul><h2>Worked example: $5,000/month in card tuition</h2><p>Using published rates only and ignoring per-transaction fixed fees: Kicksite card-only is about $145 in percentage fees plus $29/mo, so about $174. PushPress Free is about $250; PushPress Pro is about $145 plus the $159 plan. MASS adds about $100 (2%) on top of Stripe. With Recess the school pays nothing, but families pay about $250 on top of tuition. Count your real number of transactions too: at $0.25-$0.30 each, 100 payments add $25-$30.</p><h2>Questions to ask before you sign</h2><ul><li>Is there a monthly processing fee on top of the per-transaction rate?</li><li>Can you use your own processor, and does the software price change if you do?</li><li>What happens to stored cards and autopay if you leave? See <a href=\"/kicksite-alternatives/\">Kicksite alternatives</a> and our <a href=\"/software-buying-checklist/\">buying checklist</a>.</li></ul><p>Run your own numbers in the <a href=\"/membership-revenue-calculator/\">membership revenue calculator</a>. {{aff:martialytics|Visit Martialytics}} {{aff:kicksite|Visit Kicksite}}</p><p>Related: <a href=\"/best-martial-arts-school-software/\">best martial arts school software</a> · <a href=\"/martial-arts-software-pricing/\">martial arts software pricing by student count</a> · <a href=\"/free-martial-arts-software/\">free martial arts software</a> · <a href=\"/studios/martial-arts/\">all martial arts tools</a></p>",
+ "faq": [
+  [
+   "What does Kicksite charge for payment processing?",
+   "In the US through Basys: $29/mo plus 2.9% + $0.25 per card transaction, or for card + ACH a $35 setup fee, $49/mo, 2.9% + $0.25 per card and $0.30 per ACH (kicksite.com/payment-processing, checked 2026-10-30)."
+  ],
+  [
+   "Which martial arts software has no processing markup?",
+   "Martialytics says it uses standard Stripe rates with no markup and no revenue percentage (martialytics.com/pricing)."
+  ],
+  [
+   "Is PushPress really free?",
+   "The Free plan has no monthly fee, but card payments cost 4.99% + $0.30 versus 2.89% + $0.30 on the $159/mo Pro plan (pushpress.com/pricing, checked 2026-10-30)."
+  ]
+ ]
+}

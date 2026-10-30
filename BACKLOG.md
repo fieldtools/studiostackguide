@@ -17,7 +17,7 @@
 | 14 | best-krav-maga-software | best | todo |
 | 15 | belt-rank-tracking-software | feature | done (2026-10-30) |
 | 16 | martial-arts-attendance-software (check-in kiosks) | feature | done (2026-10-30) |
-| 17 | martial-arts-billing-software (processing fees compared) | feature | todo |
+| 17 | martial-arts-billing-software (processing fees compared) | feature | done (2026-10-30) |
 | 18 | class-booking-software-for-studios | feature | todo |
 | 19 | free-martial-arts-software (free tiers/trials) | best | done (2026-10-26) |
 | 20 | martial-arts-software-pricing (cost by student count) | guide | done (2026-10-22) |
