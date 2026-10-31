@@ -67,7 +67,7 @@
  },
  "marianatek": {
   "url": "https://TSGFitness.referralrock.com/l/1JACOBCARMA68/",
-  "program": "Mariana Tek affiliate; Referral Rock, set up 2026-10-26 (no Mariana Tek page on site yet)",
+  "program": "Mariana Tek affiliate; Referral Rock, set up 2026-10-26 (/tools/mariana-tek/ page exists)",
   "status": "affiliate"
  },
  "studio-helper": {
@@ -110,6 +110,16 @@
  "vagaro": {
   "url": "https://www.vagaro.com/",
   "program": "No approved affiliate program (non-affiliate)",
+  "status": "plain"
+ },
+ "trainolm": {
+  "url": "https://www.trainolm.com/pricing",
+  "program": "No affiliate program confirmed; plain link",
+  "status": "plain"
+ },
+ "matpilot": {
+  "url": "https://matpilot.io/us/pricing.html",
+  "program": "No affiliate program confirmed; plain link",
   "status": "plain"
  }
 }
