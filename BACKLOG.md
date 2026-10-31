@@ -21,7 +21,7 @@
 | 18 | class-booking-software-for-studios | feature | todo |
 | 19 | free-martial-arts-software (free tiers/trials) | best | done (2026-10-26) |
 | 20 | martial-arts-software-pricing (cost by student count) | guide | done (2026-10-22) |
-| 21 | mindbody-alternatives-for-studios | alternatives | todo |
+| 21 | mindbody-alternatives-for-studios | alternatives | done (2026-10-31) |
 | 22 | zen-planner-alternatives | alternatives | todo |
 | 23 | kicksite-alternatives | alternatives | done (2026-10-30) |
 | 24 | add tools: Jackrabbit Class, DanceStudio-Pro, Glofox, WellnessLiving, Momence, Wodify, PushPress, MyStudio, Ember, Dojo Expert | data | todo |
@@ -51,3 +51,5 @@
 | 48 | tools/upper-hand (review + pricing; sports-business management with martial arts, dance and gymnastics pages, from $79/mo) | tool | todo (affiliate: Upper Hand UPX Ambassador, $300+ per new customer + $400 bonus every 3 sales, HubSpot form, apply-ready per scout 2026-10-30) |
 | 49 | tools/bjjlink (review + pricing; BJJ academy management, Admin+ Black/Coral) | tool | todo (affiliate: BJJLINK referral $49 or $149/mo for up to 3 months via PayPal; requires a CONNECT account, needs Jacob) |
 | 50 | tools/marvelous (review + pricing; yoga teacher/studio course, membership and booking platform) | tool | todo (affiliate: Marvelous 30% for 24 months via PayPal; app signup, needs Jacob; moderate fit) |
+| 51 | wellnessliving-vs-mindbody (published prices vs from-$79 Starter; staff limits) | vs | todo |
+| 52 | bjj-class-scheduling-software (Search Console query "brazilian jiu jitsu class scheduling software", Oct 2026) | feature | todo |

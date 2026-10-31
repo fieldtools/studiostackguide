@@ -337,32 +337,32 @@
    "martial"
   ],
   "free_trial": "unknown",
-  "contract": "Depends on plan and promotion",
+  "contract": "Depends on plan, billing terms and any promotion (pricing page FAQ)",
   "plans": [
    {
     "name": "Starter",
-    "users": "Unlimited users per location",
+    "users": "Unlimited users per location; booking, integrated payments, branded widgets, website, Mindbody app listing, basic reporting",
     "monthly_no_commit": "From $79/mo per location",
     "annual": "unknown"
    },
    {
     "name": "Accelerate",
-    "users": "Unlimited users",
+    "users": "Unlimited users; adds advanced reporting, room/resource management, Pick-a-Spot, promo codes",
     "monthly_no_commit": "unknown",
     "annual": "unknown"
    },
    {
     "name": "Ultimate",
-    "users": "Unlimited users",
+    "users": "Unlimited users; adds automated email/text marketing, lead pipeline, AI Concierge",
     "monthly_no_commit": "unknown",
     "annual": "unknown"
    }
   ],
   "extra_user": "Per location; unlimited users",
-  "card_fee": "Mindbody Payments: rate + $0.10-$0.30 per transaction; marketplace fee 20% (cap $30) on first purchase of new clients from app",
+  "card_fee": "Mindbody Payments optional: rate (varies by card type) + $0.10-$0.30 per transaction; third-party processors allowed; 20% fee (capped $30) on the first purchase of a new client who finds you through the Mindbody app",
   "belt_tracking": "unknown",
   "attendance": "unknown",
-  "online_booking": "Yes: self-serve booking, Pick-a-Spot (Accelerate+)",
+  "online_booking": "Yes: self-serve booking, branded website widgets, Mindbody app listing; Pick-a-Spot on Accelerate and Ultimate",
   "rating": "unknown",
   "sources": [
    "https://www.mindbodyonline.com/business/pricing"
@@ -378,7 +378,7 @@
    "Only the entry price is published",
    "App bookings from new clients carry a 20% fee (capped $30)"
   ],
-  "last_verified": "2026-10-22"
+  "last_verified": "2026-10-31"
  },
  {
   "slug": "my-music-staff",
@@ -852,5 +852,214 @@
   "last_verified": "2026-10-26",
   "autopay": "Standard: Automated Payment Processing (pricing page)",
   "parent_portal": "unknown"
+ },
+ {
+  "slug": "wellnessliving",
+  "name": "WellnessLiving",
+  "website": "https://www.wellnessliving.com/",
+  "trades": [
+   "yoga",
+   "dance",
+   "martial"
+  ],
+  "free_trial": "unknown (demo offered)",
+  "contract": "Monthly or annual billing (annual saves 10%); change plans any time (pricing page)",
+  "plans": [
+   {
+    "name": "Starter",
+    "users": "One staff member; classes and appointments booking, client and staff apps, POS, email/SMS notifications",
+    "monthly_no_commit": "$69/mo",
+    "annual": "$62/mo billed annually"
+   },
+   {
+    "name": "Business",
+    "users": "Unlimited staff; adds rewards, events, email and text marketing, lead management",
+    "monthly_no_commit": "$199/mo",
+    "annual": "$179/mo billed annually"
+   },
+   {
+    "name": "BusinessPro",
+    "users": "Unlimited staff; adds white-label client app",
+    "monthly_no_commit": "$349/mo",
+    "annual": "$314/mo billed annually"
+   },
+   {
+    "name": "Enterprise",
+    "users": "Multi-location: HQ account, cross-location visits, multi-location reporting",
+    "monthly_no_commit": "unknown (call for price)",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Starter is limited to 1 staff member; Business and above include unlimited staff",
+  "card_fee": "unknown (processing included; rates not published on pricing page)",
+  "belt_tracking": "unknown",
+  "attendance": "Yes: client self check-in and registration kiosk (pricing page)",
+  "online_booking": "Yes: classes, events and appointments; Reserve with Google, ClassPass and Wellhub integrations (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.wellnessliving.com/pricing/"
+  ],
+  "best_for": "Studios with several staff that want published prices, free data migration and a client app",
+  "starting_price": "$69/mo (Starter, 1 staff); $199/mo for unlimited staff",
+  "pros": [
+   "Prices published for three of four plans",
+   "Free data migration and onboarding",
+   "Annual billing saves 10%"
+  ],
+  "cons": [
+   "Starter plan is limited to one staff member",
+   "Card processing rates not published on the pricing page"
+  ],
+  "last_verified": "2026-10-31",
+  "autopay": "Yes: memberships and auto-pay billing (pricing page)",
+  "parent_portal": "Branded client web portal and Achieve client app (pricing page)"
+ },
+ {
+  "slug": "arketa",
+  "name": "Arketa",
+  "website": "https://www.arketa.com/",
+  "trades": [
+   "yoga",
+   "dance"
+  ],
+  "free_trial": "Yes: free trial on the Individual plan (length not stated); Studio plans by demo",
+  "contract": "No commitment; month to month unless you choose annual (pricing page FAQ)",
+  "plans": [
+   {
+    "name": "Individual",
+    "users": "1 team member login, 1 location",
+    "monthly_no_commit": "unknown",
+    "annual": "$49/mo billed annually (save 17%)"
+   },
+   {
+    "name": "Studio Core",
+    "users": "Unlimited team members, multiple rooms and locations, POS, payroll reporting",
+    "monthly_no_commit": "unknown (custom quote)",
+    "annual": "unknown"
+   },
+   {
+    "name": "Studio Growth",
+    "users": "Core + email/text campaigns, automations, lead pipeline",
+    "monthly_no_commit": "unknown (custom quote)",
+    "annual": "unknown"
+   },
+   {
+    "name": "Studio Suite",
+    "users": "Growth + custom branded iOS/Android app and branded website",
+    "monthly_no_commit": "unknown (custom quote)",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Individual: 1 login; Studio plans: unlimited team members",
+  "card_fee": "Stripe 2.9% + $0.30 (US); Individual plan adds a 3% transaction fee; Studio fees by negotiation",
+  "belt_tracking": "Not applicable (boutique fitness)",
+  "attendance": "Yes: check-in and waitlist management (pricing page)",
+  "online_booking": "Yes: booking app, embeddable widgets, classes, privates, events and on-demand video (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.arketa.com/pricing"
+  ],
+  "best_for": "Solo instructors and boutique yoga/pilates studios that also sell on-demand video",
+  "starting_price": "$49/mo billed annually (Individual)",
+  "pros": [
+   "Unlimited on-demand video storage on every plan",
+   "Month-to-month with no commitment",
+   "Full data export listed on every plan"
+  ],
+  "cons": [
+   "Individual plan charges a 3% transaction fee on top of Stripe",
+   "Studio plan prices are quote only"
+  ],
+  "last_verified": "2026-10-31",
+  "autopay": "Yes: memberships and recurring packages (pricing page)",
+  "parent_portal": "Client booking app (pricing page)"
+ },
+ {
+  "slug": "walla",
+  "name": "Walla",
+  "website": "https://www.hellowalla.com/",
+  "trades": [
+   "yoga",
+   "dance"
+  ],
+  "free_trial": "unknown",
+  "contract": "Several term lengths; price depends on the term chosen (pricing page FAQ)",
+  "plans": [
+   {
+    "name": "Core",
+    "users": "Unlimited users; retention tools, reporting, email/SMS, Book-a-Spot, on-demand video, payroll setup",
+    "monthly_no_commit": "$299/mo per location, billed monthly",
+    "annual": "unknown"
+   },
+   {
+    "name": "Pro",
+    "users": "Core + full marketing suite, branded studio app, two-way texting, lead tools",
+    "monthly_no_commit": "unknown (contact sales)",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Unlimited users on every plan; priced per location",
+  "card_fee": "unknown rate (cards migrate to Stripe); optional Walla Offset adds a 3.9% fee paid by clients; no Walla booking fees",
+  "belt_tracking": "Not applicable (boutique fitness)",
+  "attendance": "unknown",
+  "online_booking": "Yes: website widgets, Walla app, Book-a-Spot and waitlists (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.hellowalla.com/pricing"
+  ],
+  "best_for": "Boutique yoga, pilates and fitness studios with several instructors",
+  "starting_price": "$299/mo per location",
+  "pros": [
+   "Unlimited users on every plan",
+   "Walla says it adds no booking or first-time booking fees",
+   "Card migration to Stripe with paid onboarding tiers"
+  ],
+  "cons": [
+   "Highest published entry price on this page",
+   "Pro plan price not published"
+  ],
+  "last_verified": "2026-10-31",
+  "autopay": "Plans and intro offers with failed-payment reminders (pricing page)",
+  "parent_portal": "Walla client app (pricing page)"
+ },
+ {
+  "slug": "vagaro",
+  "name": "Vagaro",
+  "website": "https://www.vagaro.com/",
+  "trades": [
+   "yoga",
+   "dance"
+  ],
+  "free_trial": "Yes: 30 days (pricing page FAQ)",
+  "contract": "Cancel any time, no cancellation fees (pricing page)",
+  "plans": [
+   {
+    "name": "Base (1 bookable calendar)",
+    "users": "1 calendar; each extra bookable calendar $10/mo up to 7, then more staff at no extra cost",
+    "monthly_no_commit": "$30/mo ($23.99/mo for the first 6 months)",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "$10/mo per extra bookable calendar (US), up to 7 licenses; more employees free after that",
+  "card_fee": "unknown (Vagaro Merchant Services rates not published on pricing page)",
+  "belt_tracking": "unknown",
+  "attendance": "unknown",
+  "online_booking": "Yes: booking widget, plus booking through Google, Apple Maps, Instagram and Facebook (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.vagaro.com/pro/pricing"
+  ],
+  "best_for": "Small appointment-and-class businesses that want a low monthly price",
+  "starting_price": "$30/mo for 1 calendar ($23.99 for first 6 months)",
+  "pros": [
+   "Lowest published entry price on this page",
+   "30-day free trial",
+   "No cancellation fees"
+  ],
+  "cons": [
+   "Price rises $10/mo per bookable calendar up to 7",
+   "Card processing rates not published on pricing page"
+  ],
+  "last_verified": "2026-10-31"
  }
 ]
