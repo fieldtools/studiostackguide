@@ -53,3 +53,4 @@
 | 50 | tools/marvelous (review + pricing; yoga teacher/studio course, membership and booking platform) | tool | todo (affiliate: Marvelous 30% for 24 months via PayPal; app signup, needs Jacob; moderate fit) |
 | 51 | wellnessliving-vs-mindbody (published prices vs from-$79 Starter; staff limits) | vs | todo |
 | 52 | bjj-class-scheduling-software (Search Console query "brazilian jiu jitsu class scheduling software", Oct 2026) | feature | todo |
+| 53 | tools/time2book (review + pricing; booking/membership software for pilates, yoga, dance, BJJ studios, $39-$259/mo) | tool | todo (affiliate: Time2book 30% for 12 months; account signup, needs Jacob; small vendor) |
