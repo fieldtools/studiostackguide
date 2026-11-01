@@ -55,3 +55,5 @@
 | 52 | bjj-class-scheduling-software (Search Console query "brazilian jiu jitsu class scheduling software", Oct 2026) | feature | todo |
 | 53 | tools/time2book (review + pricing; booking/membership software for pilates, yoga, dance, BJJ studios, $39-$259/mo) | tool | todo (affiliate: Time2book 30% for 12 months; account signup, needs Jacob; small vendor) |
 | 54 | mindbody-pricing (plan-by-plan costs, app marketplace fee, processing; Search Console query "mindbody pricing" 25 impr, Oct 22-28 2026) | guide | todo |
+| 55 | tools/truecoach (review + pricing; personal-trainer coaching platform, Xplor) | tool | todo (affiliate: TrueCoach $75 per customer after 90 days via PayPal, Referral Rock form, apply-ready per scout 2026-11-01; moderate fit) |
+| 56 | tools/everfit (review + pricing; coaching platform for trainers, gyms and studios) | tool | todo (affiliate: Everfit 10% for 2 years via PayPal, HubSpot form, apply-ready per scout 2026-11-01; needs DOB/LinkedIn; moderate fit) |
