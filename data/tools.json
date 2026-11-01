@@ -337,7 +337,7 @@
    "martial"
   ],
   "free_trial": "unknown",
-  "contract": "Depends on plan, billing terms and any promotion (pricing page FAQ)",
+  "contract": "Depends on plan, billing terms and any promotion (pricing page FAQ); no onboarding fee on any plan",
   "plans": [
    {
     "name": "Starter",
@@ -360,7 +360,7 @@
   ],
   "extra_user": "Per location; unlimited users",
   "card_fee": "Mindbody Payments optional: rate (varies by card type) + $0.10-$0.30 per transaction; third-party processors allowed; 20% fee (capped $30) on the first purchase of a new client who finds you through the Mindbody app",
-  "belt_tracking": "unknown",
+  "belt_tracking": "unknown (not listed on pricing page)",
   "attendance": "unknown",
   "online_booking": "Yes: self-serve booking, branded website widgets, Mindbody app listing; Pick-a-Spot on Accelerate and Ultimate",
   "rating": "unknown",
@@ -378,7 +378,7 @@
    "Only the entry price is published",
    "App bookings from new clients carry a 20% fee (capped $30)"
   ],
-  "last_verified": "2026-10-31"
+  "last_verified": "2026-11-01"
  },
  {
   "slug": "my-music-staff",
@@ -863,7 +863,7 @@
    "martial"
   ],
   "free_trial": "unknown (demo offered)",
-  "contract": "Monthly or annual billing (annual saves 10%); change plans any time (pricing page)",
+  "contract": "Monthly or annual billing (annual saves 10%); change plans any time; as of Nov 1, 2026 the pricing page shows 80% off the first 2 months of Business and BusinessPro (pricing page)",
   "plans": [
    {
     "name": "Starter",
@@ -890,9 +890,9 @@
     "annual": "unknown"
    }
   ],
-  "extra_user": "Starter is limited to 1 staff member; Business and above include unlimited staff",
+  "extra_user": "Starter is limited to 1 staff member; Business and above include unlimited staff; API access $19/mo on all plans",
   "card_fee": "unknown (processing included; rates not published on pricing page)",
-  "belt_tracking": "unknown",
+  "belt_tracking": "Belt Progress Tracking listed in the pricing page feature comparison",
   "attendance": "Yes: client self check-in and registration kiosk (pricing page)",
   "online_booking": "Yes: classes, events and appointments; Reserve with Google, ClassPass and Wellhub integrations (pricing page)",
   "rating": "unknown",
@@ -910,7 +910,7 @@
    "Starter plan is limited to one staff member",
    "Card processing rates not published on the pricing page"
   ],
-  "last_verified": "2026-10-31",
+  "last_verified": "2026-11-01",
   "autopay": "Yes: memberships and auto-pay billing (pricing page)",
   "parent_portal": "Branded client web portal and Achieve client app (pricing page)"
  },
