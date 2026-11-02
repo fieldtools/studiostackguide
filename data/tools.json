@@ -365,7 +365,9 @@
   "online_booking": "Yes: self-serve booking, branded website widgets, Mindbody app listing; Pick-a-Spot on Accelerate and Ultimate",
   "rating": "unknown",
   "sources": [
-   "https://www.mindbodyonline.com/business/pricing"
+   "https://www.mindbodyonline.com/business/pricing",
+   "https://www.mindbodyonline.com/business/payments",
+   "https://www.mindbodyonline.com/business/marketplace"
   ],
   "best_for": "Yoga, dance and fitness studios wanting a consumer marketplace",
   "starting_price": "From $79/mo per location (Starter)",
@@ -378,7 +380,7 @@
    "Only the entry price is published",
    "App bookings from new clients carry a 20% fee (capped $30)"
   ],
-  "last_verified": "2026-11-01"
+  "last_verified": "2026-11-02"
  },
  {
   "slug": "my-music-staff",
