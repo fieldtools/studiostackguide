@@ -215,6 +215,12 @@
     "users": "Staff not charged",
     "monthly_no_commit": "$348/mo",
     "annual": "unknown"
+   },
+   {
+    "name": "New Business Bundle (Essentials + custom website + branded member app)",
+    "users": "Staff not charged",
+    "monthly_no_commit": "From $199/mo",
+    "annual": "unknown"
    }
   ],
   "extra_user": "Priced by active members (prospects and staff not counted)",
@@ -238,7 +244,7 @@
    "Final price depends on active member count (not published)",
    "Branded app and card readers $39/mo each"
   ],
-  "last_verified": "2026-10-26"
+  "last_verified": "2026-11-02"
  },
  {
   "slug": "spark-membership",
@@ -425,29 +431,29 @@
  },
  {
   "slug": "fons",
-  "name": "Fons",
-  "website": "https://www.fons.com/",
+  "name": "Fons (MakeMusic Studio)",
+  "website": "https://www.studio.makemusic.com/",
   "trades": [
    "music"
   ],
-  "free_trial": "14 days (pricing page, checked 2026-10-26)",
+  "free_trial": "14 days (pricing page, checked 2026-11-02)",
   "contract": "No minimum term or contract; cancel anytime",
   "plans": [
    {
-    "name": "Fons",
-    "users": "Fons Pro: $19.95/mo, +$4.95/mo per additional staff (pricing page, checked 2026-10-26)",
+    "name": "MakeMusic Studio (formerly Fons)",
+    "users": "$19.95/mo, +$4.95/mo per additional teacher or admin staff (pricing page, checked 2026-11-02)",
     "monthly_no_commit": "$19.95/mo",
     "annual": "unknown"
    }
   ],
-  "extra_user": "+$4.95/mo per additional staff member; same price regardless of clients or appointments (checked 2026-10-26)",
+  "extra_user": "+$4.95/mo per additional teacher or admin staff; unlimited students for the same flat fee (checked 2026-11-02)",
   "card_fee": "2.9% + $0.30 per card charge (+1% international); 1.8% per ACH charge; 0.4% of subscription volume",
   "belt_tracking": "Not applicable (music lessons)",
   "attendance": "Yes: tracking cancellations (pricing page); attendance details unknown",
   "online_booking": "Yes: booking and re-booking (pricing page)",
   "rating": "unknown",
   "sources": [
-   "https://www.fons.com/pricing"
+   "https://www.studio.makemusic.com/pricing/"
   ],
   "best_for": "Teachers who want automatic payments instead of manual invoicing",
   "starting_price": "$19.95/mo",
@@ -460,7 +466,7 @@
    "Each additional staff member adds $4.95/mo",
    "Annual price and parent portal details not published"
   ],
-  "last_verified": "2026-10-26",
+  "last_verified": "2026-11-02",
   "autopay": "Yes: automatic payments with flexible billing (pricing page)",
   "parent_portal": "unknown"
  },
@@ -500,9 +506,10 @@
   ],
   "cons": [
    "Families pay a 1% transaction fee on digital payments",
-   "Card payments also carry 2.9% processing"
+   "Card payments also carry 2.9% processing",
+   "Pricing page promos and copyright date are from 2024; we couldn't confirm the product is still actively updated"
   ],
-  "last_verified": "2026-10-25",
+  "last_verified": "2026-11-02",
   "autopay": "Yes: tracks what families owe; statements sent by text link; direct deposit (pricing page)",
   "parent_portal": "No login needed: statements by text link; students self-schedule from their phones (pricing page). Full portal unknown"
  },
@@ -514,16 +521,22 @@
    "music"
   ],
   "free_trial": "30 days, all features, no credit card",
-  "contract": "No subscription; pay per booked lesson",
+  "contract": "Solo: no subscription, pay per booked lesson (capped at $20/mo). Ensemble: monthly per-teacher subscription, no contracts on add-ons",
   "plans": [
    {
-    "name": "Solo Plan",
-    "users": "Up to 100 active students; unlimited emails + 50 SMS/mo",
-    "monthly_no_commit": "$0.25 per booked lesson",
+    "name": "Solo",
+    "users": "1 teacher; up to 100 active students; unlimited emails + 50 SMS/mo",
+    "monthly_no_commit": "$0.25 per booked lesson, capped at $20/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "Ensemble",
+    "users": "Multi-teacher; unlimited active students and locations",
+    "monthly_no_commit": "$15/mo first teacher, +$5/mo per additional teacher (up to 50), +$3/mo after that",
     "annual": "unknown"
    }
   ],
-  "extra_user": "$0.25 per booked lesson, no monthly subscription; up to 100 active students",
+  "extra_user": "Solo: $0.25 per booked lesson, capped at $20/mo (1 teacher, up to 100 active students). Ensemble: +$5/mo per additional teacher up to 50, then +$3/mo",
   "card_fee": "Integrated payment processing; rates unknown",
   "belt_tracking": "Not applicable (music lessons)",
   "attendance": "unknown",
@@ -532,20 +545,21 @@
   "sources": [
    "https://www.mysymphony.net/pricing"
   ],
-  "best_for": "Part-time teachers who want to pay only when they teach",
-  "starting_price": "$0.25 per booked lesson",
+  "best_for": "Part-time teachers who want to pay only when they teach, and multi-teacher studios on a per-teacher plan",
+  "starting_price": "$0.25 per booked lesson (Solo, capped at $20/mo); Ensemble $15/mo first teacher",
   "pros": [
-   "No monthly subscription: $0.25 per booked lesson",
-   "30-day free trial, no credit card",
-   "Account pauses (data saved) if you don't upgrade after trial"
+   "Solo: $0.25 per booked lesson, never more than $20/mo",
+   "Ensemble: $15/mo first teacher + $5 per added teacher, unlimited students",
+   "30-day free trial, no credit card"
   ],
   "cons": [
-   "Solo Plan capped at 100 active students",
-   "Only 50 SMS messages per month"
+   "Solo Plan capped at 100 active students and 50 SMS/mo",
+   "Add-on prices (Grid View, Practice Dashboard, AI Front Desk) not published"
   ],
-  "last_verified": "2026-10-25",
+  "last_verified": "2026-11-02",
   "autopay": "Yes: automated invoicing and billing (pricing page)",
-  "parent_portal": "Yes: basic student dashboard (pricing page)"
+  "parent_portal": "Yes: basic student dashboard (pricing page)",
+  "add_ons": "Grid View, Student Practice Dashboard (metronome, tuner, practice tracking), AI Front Desk (AI call answering, prepaid minute packs); month to month, prices not published (unknown)"
  },
  {
   "slug": "teach-n-go",
@@ -1063,5 +1077,160 @@
    "Card processing rates not published on pricing page"
   ],
   "last_verified": "2026-10-31"
+ },
+ {
+  "slug": "trio",
+  "name": "Trio",
+  "website": "https://www.musicaltrio.com/",
+  "trades": [
+   "music"
+  ],
+  "free_trial": "Free plan, no card required (free forever)",
+  "contract": "unknown",
+  "plans": [
+   {
+    "name": "Free",
+    "users": "1 team member (the owner); up to 10 active students",
+    "monthly_no_commit": "$0",
+    "annual": "$0"
+   },
+   {
+    "name": "Pro",
+    "users": "Owner seat included; no student limit; additional seats $5/mo or $50/yr each",
+    "monthly_no_commit": "$5/mo",
+    "annual": "$50/yr"
+   },
+   {
+    "name": "Max",
+    "users": "Owner seat included; additional seats $5/mo or $50/yr each",
+    "monthly_no_commit": "$20/mo",
+    "annual": "$200/yr"
+   }
+  ],
+  "extra_user": "Free: owner only. Pro and Max: +$5/mo or $50/yr per additional seat (admins, teachers, staff)",
+  "card_fee": "Online payments (card, bank, Apple Pay, Google Pay, Cash App Pay) via Stripe on Pro and Max; Free is cash and check only; rates unknown",
+  "belt_tracking": "Not applicable (music lessons)",
+  "attendance": "unknown",
+  "online_booking": "unknown",
+  "rating": "unknown",
+  "sources": [
+   "https://www.musicaltrio.com/help/teacher/studio-management/trio-plans-and-pricing",
+   "https://www.musicaltrio.com/help/teacher/getting-started/adding-your-first-student"
+  ],
+  "best_for": "Solo teachers with up to 10 students who want a free plan with a parent portal",
+  "starting_price": "Free (up to 10 students); Pro $5/mo or $50/yr",
+  "pros": [
+   "Free forever for up to 10 active students, no card",
+   "Free plan includes scheduling, invoices and the parent portal",
+   "Pro removes the student limit for $5/mo"
+  ],
+  "cons": [
+   "Free plan takes cash and check payments only",
+   "Free plan has no team members beyond the owner"
+  ],
+  "last_verified": "2026-11-02",
+  "autopay": "Pro and Max only (online payments, automatic late fees); not on Free",
+  "parent_portal": "Yes: parent portal on all plans, including Free (help center)"
+ },
+ {
+  "slug": "nova-music",
+  "name": "Nova Music",
+  "website": "https://trynovamusic.com/",
+  "trades": [
+   "music"
+  ],
+  "free_trial": "Free plan (up to 10 students)",
+  "contract": "unknown",
+  "plans": [
+   {
+    "name": "Free",
+    "users": "Up to 10 students",
+    "monthly_no_commit": "$0",
+    "annual": "$0"
+   },
+   {
+    "name": "Pro",
+    "users": "Unlimited students",
+    "monthly_no_commit": "$10/mo",
+    "annual": "$100/yr"
+   }
+  ],
+  "extra_user": "unknown",
+  "card_fee": "unknown",
+  "belt_tracking": "Not applicable (music lessons)",
+  "attendance": "Basic attendance on Free (pricing page)",
+  "online_booking": "unknown",
+  "rating": "unknown",
+  "sources": [
+   "https://trynovamusic.com/pricing"
+  ],
+  "best_for": "Teachers with up to 10 students who want free scheduling, messaging and practice logging",
+  "starting_price": "Free (up to 10 students); Pro $10/mo or $100/yr",
+  "pros": [
+   "Free plan up to 10 students",
+   "Free includes scheduling, messaging, student portal and practice logging",
+   "Pro adds unlimited students and calendar sync"
+  ],
+  "cons": [
+   "Billing tools need Pro ($10/mo)",
+   "Free plan storage is 100 MB"
+  ],
+  "last_verified": "2026-11-02",
+  "autopay": "unknown",
+  "parent_portal": "Student portal on Free (pricing page); parent portal unknown"
+ },
+ {
+  "slug": "tutortally",
+  "name": "TutorTally",
+  "website": "https://tutortally.com/",
+  "trades": [
+   "music"
+  ],
+  "free_trial": "Free for 2 students with every feature, no time limit; monthly and yearly subscriptions start with a 7-day free trial",
+  "contract": "Pay once (lifetime) or subscribe monthly or yearly",
+  "plans": [
+   {
+    "name": "Free",
+    "users": "Up to 2 students, all features",
+    "monthly_no_commit": "$0",
+    "annual": "$0"
+   },
+   {
+    "name": "Pro Monthly / Annual",
+    "users": "More than 2 students",
+    "monthly_no_commit": "$9.99/mo",
+    "annual": "$49.99/yr"
+   },
+   {
+    "name": "Lifetime",
+    "users": "More than 2 students",
+    "monthly_no_commit": "$99.99 one time",
+    "annual": "n/a"
+   }
+  ],
+  "extra_user": "Single-teacher app; no per-student charges after upgrade",
+  "card_fee": "None: TutorTally never handles the money; invoices carry a 'How to pay' block so students pay you directly",
+  "belt_tracking": "Not applicable (music lessons)",
+  "attendance": "Yes: mark lessons done; lesson notes",
+  "online_booking": "unknown",
+  "rating": "unknown",
+  "sources": [
+   "https://tutortally.com/",
+   "https://apps.apple.com/app/id6756996116"
+  ],
+  "best_for": "Solo teachers who want an offline iPhone/iPad app and a one-time price",
+  "starting_price": "Free (2 students); $9.99/mo, $49.99/yr or $99.99 lifetime",
+  "pros": [
+   "Free for 2 students with every feature, no time limit",
+   "$99.99 one-time lifetime option",
+   "No account needed; data stays on your device (optional iCloud sync)"
+  ],
+  "cons": [
+   "No card processing: families pay you directly",
+   "Apple devices only (App Store lists iPhone and iPad; Mac version 'Designed for iPad')"
+  ],
+  "last_verified": "2026-11-02",
+  "autopay": "No: TutorTally doesn't process payments",
+  "parent_portal": "No parent portal described; student data stays on the teacher's device"
  }
 ]

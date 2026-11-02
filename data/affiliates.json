@@ -41,8 +41,8 @@
     "status": "plain"
   },
   "fons": {
-    "url": "https://www.fons.com/",
-    "program": "No affiliate program (non-affiliate)",
+    "url": "https://www.studio.makemusic.com/",
+    "program": "No affiliate program (non-affiliate); Fons is now MakeMusic Studio (fons.com redirects)",
     "status": "plain"
   },
   "duet": {
@@ -126,5 +126,20 @@
     "url": "https://truecoach.co/",
     "program": "TrueCoach affiliate (Referral Rock), joined 2026-11-01, $75 per customer after 90 days paying; referral link https://TSGFitness.referralrock.com/l/1JACOBCARMA19/ (no tool page yet, BACKLOG #55)",
     "status": "applied"
+  },
+  "trio": {
+    "url": "https://www.musicaltrio.com/",
+    "program": "No affiliate program known (non-affiliate); plain link",
+    "status": "plain"
+  },
+  "novamusic": {
+    "url": "https://trynovamusic.com/",
+    "program": "No affiliate program known (non-affiliate); plain link",
+    "status": "plain"
+  },
+  "tutortally": {
+    "url": "https://tutortally.com/",
+    "program": "No affiliate program (per developer email); plain link",
+    "status": "plain"
   }
 }
