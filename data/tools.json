@@ -1220,7 +1220,7 @@
    "https://tutortally.com/",
    "https://apps.apple.com/app/id6756996116"
   ],
-  "best_for": "Solo teachers who want an offline iPhone/iPad app and a one-time price",
+  "best_for": "Solo teachers who want an offline iPhone, iPad and Mac app and a one-time price",
   "starting_price": "Free (2 students); $9.99/mo, $49.99/yr or $99.99 lifetime",
   "pros": [
    "Free for 2 students with every feature, no time limit",
@@ -1229,7 +1229,7 @@
   ],
   "cons": [
    "No card processing: families pay you directly",
-   "Apple devices only (App Store lists iPhone and iPad; Mac version 'Designed for iPad')"
+   "Apple devices only: iPhone, iPad and Mac (App Store: Mac requires macOS 14.0 or later and a Mac with Apple M1 chip or later)"
   ],
   "last_verified": "2026-11-02",
   "autopay": "No: TutorTally doesn't process payments",
