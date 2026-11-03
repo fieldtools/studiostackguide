@@ -57,7 +57,7 @@
    "Price steps up with active student count",
    "Annual pricing not published"
   ],
-  "last_verified": "2026-10-26"
+  "last_verified": "2026-11-03"
  },
  {
   "slug": "gymdesk",
@@ -73,7 +73,7 @@
   "contract": "Month to month, no setup or cancellation fee",
   "plans": [
    {
-    "name": "Micro Gym (≤50 active)",
+    "name": "Micro Gym (\u226450 active)",
     "users": "Unlimited staff",
     "monthly_no_commit": "$100/mo own processor; $75/mo with Gymdesk Payments",
     "annual": "unknown"
@@ -109,7 +109,7 @@
    "https://gymdesk.com/features/members"
   ],
   "best_for": "Gyms and dojos that want a website included and can use Gymdesk Payments",
-  "starting_price": "$75/mo with Gymdesk Payments (≤50 members); $100/mo otherwise",
+  "starting_price": "$75/mo with Gymdesk Payments (\u226450 members); $100/mo otherwise",
   "pros": [
    "30-day trial, no credit card",
    "Unlimited staff and a gym website included",
@@ -119,7 +119,7 @@
    "$25/mo more without Gymdesk Payments",
    "Door access ($100/mo) and branded app ($100/mo) are add-ons"
   ],
-  "last_verified": "2026-10-26"
+  "last_verified": "2026-11-03"
  },
  {
   "slug": "kicksite",
@@ -183,7 +183,7 @@
    "Annual pricing not published (ask for discount at demo)",
    "Basys flat rate adds $29/mo on top of per-transaction fees"
   ],
-  "last_verified": "2026-10-26"
+  "last_verified": "2026-11-03"
  },
  {
   "slug": "zen-planner",
@@ -227,11 +227,13 @@
   "card_fee": "Daxko Payments or preferred processors; rates unknown",
   "belt_tracking": "Yes: belt and skill tracking listed",
   "attendance": "Yes",
-  "online_booking": "Yes: online scheduling",
+  "online_booking": "Yes: online class scheduling with waitlists, capacity limits and automatic reminders; members book online or from the app (membership-management feature page)",
   "rating": "unknown",
   "sources": [
    "https://zenplanner.com/pricing/",
-   "https://www.zenplanner.com/solutions/taekwondo-school-software"
+   "https://www.zenplanner.com/solutions/taekwondo-school-software",
+   "https://www.zenplanner.com/pricing/active-member-tiers",
+   "https://www.zenplanner.com/features/membership-management-software"
   ],
   "best_for": "Gyms and studios wanting belt tracking plus payroll and member app",
   "starting_price": "From $99/mo (Studio)",
@@ -244,7 +246,7 @@
    "Final price depends on active member count (not published)",
    "Branded app and card readers $39/mo each"
   ],
-  "last_verified": "2026-11-02"
+  "last_verified": "2026-11-03"
  },
  {
   "slug": "spark-membership",
@@ -290,7 +292,7 @@
    "No cancelling for convenience mid-term; auto-renews unless 30 days' notice",
    "Spark Payments rates not published"
   ],
-  "last_verified": "2026-10-26"
+  "last_verified": "2026-11-03"
  },
  {
   "slug": "mass",
@@ -828,7 +830,7 @@
   "plans": [
    {
     "name": "Start Up",
-    "users": "20 or fewer active users/month; US/Canada also ≤$2,500/mo in payments",
+    "users": "20 or fewer active users/month; US/Canada also \u2264$2,500/mo in payments",
     "monthly_no_commit": "$0/mo (may restrict communications and payment processing)",
     "annual": "unknown"
    },
@@ -855,7 +857,7 @@
    "https://www.rhinofit.ca/pricing"
   ],
   "best_for": "Very small or new schools (20 or fewer active students) and flat-price buyers",
-  "starting_price": "$0/mo (Start Up, ≤20 active users); $57/mo Standard",
+  "starting_price": "$0/mo (Start Up, \u226420 active users); $57/mo Standard",
   "pros": [
    "Free Start Up tier for 20 or fewer active users",
    "Flat $57/mo Standard with no member limits",
@@ -865,7 +867,7 @@
    "Free tier may have restricted or no payment processing and communications",
    "Payment processing rates not published"
   ],
-  "last_verified": "2026-10-26",
+  "last_verified": "2026-11-03",
   "autopay": "Standard: Automated Payment Processing (pricing page)",
   "parent_portal": "unknown"
  },

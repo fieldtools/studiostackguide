@@ -38,7 +38,7 @@
 | 35 | best-music-lesson-studio-software (music lesson studios section hub /studios/music-lessons/) | best | done (2026-10-25) |
 | 36 | duet-vs-mysymphony (flat $9/mo vs $0.25 per booked lesson) | vs | todo |
 | 37 | my-music-staff-alternatives | alternatives | todo |
-| 38 | free-music-teacher-software (free plans/trials for music teachers) | best | todo |
+| 38 | free-music-teacher-software (free plans/trials for music teachers) | best | done (2026-11-03; live as /free-music-lesson-software/) |
 | 39 | best-piano-teacher-software | best | todo |
 | 40 | best-voice-teacher-software (private voice/instrument teachers) | best | todo |
 | 41 | my-music-staff-vs-fons | vs | todo |
@@ -52,7 +52,7 @@
 | 49 | tools/bjjlink (review + pricing; BJJ academy management, Admin+ Black/Coral) | tool | todo (affiliate: BJJLINK referral $49 or $149/mo for up to 3 months via PayPal; requires a CONNECT account, needs Jacob) |
 | 50 | tools/marvelous (review + pricing; yoga teacher/studio course, membership and booking platform) | tool | todo (affiliate: Marvelous 30% for 24 months via PayPal; app signup, needs Jacob; moderate fit) |
 | 51 | wellnessliving-vs-mindbody (published prices vs from-$79 Starter; staff limits) | vs | done (2026-11-01) |
-| 52 | bjj-class-scheduling-software (Search Console query "brazilian jiu jitsu class scheduling software", Oct 2026) | feature | todo |
+| 52 | bjj-class-scheduling-software (Search Console query "brazilian jiu jitsu class scheduling software", Oct 2026) | feature | done (2026-11-03) |
 | 53 | tools/time2book (review + pricing; booking/membership software for pilates, yoga, dance, BJJ studios, $39-$259/mo) | tool | todo (affiliate: Time2book 30% for 12 months; account signup, needs Jacob; small vendor) |
 | 54 | mindbody-pricing (plan-by-plan costs, app marketplace fee, processing; Search Console query "mindbody pricing" 25 impr, Oct 22-28 2026) | guide | done (2026-11-02) |
 | 55 | tools/truecoach (review + pricing; personal-trainer coaching platform, Xplor) | tool | todo (affiliate: TrueCoach $75 per customer after 90 days via PayPal, Referral Rock form, apply-ready per scout 2026-11-01; moderate fit) |
