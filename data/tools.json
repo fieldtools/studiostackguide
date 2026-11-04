@@ -388,7 +388,7 @@
    "Only the entry price is published",
    "App bookings from new clients carry a 20% fee (capped $30)"
   ],
-  "last_verified": "2026-11-02"
+  "last_verified": "2026-11-04"
  },
  {
   "slug": "my-music-staff",
@@ -673,7 +673,7 @@
    "Onboarding typically takes five to eight weeks",
    "Marketing automation and two-way texting need Core + Growth or above"
   ],
-  "last_verified": "2026-10-26",
+  "last_verified": "2026-11-04",
   "who_html": "<p>Mariana Tek describes itself as software for boutique fitness studios that want a high-end, branded customer experience, from single-location studios to global brands and franchises. Its customers run group classes including pilates (Lagree, Megaformer and mat), yoga, barre, indoor cycling, HIIT and boxing. Mariana Tek says typical onboarding takes five to eight weeks with dedicated onboarding specialists and a demo environment. Every plan includes multi-location management, unlimited classes and instructors, intro offers, packs and memberships, CRM, reporting, kiosk check-in, digital waivers and transactional emails.</p>",
   "compare_html": "<p><a href=\"/tools/mindbody/\">Mindbody</a> publishes an entry price (from $79/mo per location) and lists studios on its consumer app, with a 20% fee (capped at $30) on new clients' first app purchase. Mariana Tek publishes no prices and focuses on your own branded app instead of a marketplace. <a href=\"/tools/zen-planner/\">Zen Planner</a> (from $99/mo) and <a href=\"/tools/gymdesk/\">Gymdesk</a> (from $75/mo) publish prices and suit membership gyms and martial arts schools; Mariana Tek is aimed at boutique class studios with features like pick-a-spot floor plans for reformers and bikes. See also <a href=\"/studios/yoga/\">yoga studio tools</a> and <a href=\"/best-dance-studio-software/\">dance and yoga studio software compared</a>.</p>"
  },
@@ -928,7 +928,7 @@
    "Starter plan is limited to one staff member",
    "Card processing rates not published on the pricing page"
   ],
-  "last_verified": "2026-11-01",
+  "last_verified": "2026-11-04",
   "autopay": "Yes: memberships and auto-pay billing (pricing page)",
   "parent_portal": "Branded client web portal and Achieve client app (pricing page)"
  },
@@ -988,7 +988,7 @@
    "Individual plan charges a 3% transaction fee on top of Stripe",
    "Studio plan prices are quote only"
   ],
-  "last_verified": "2026-10-31",
+  "last_verified": "2026-11-04",
   "autopay": "Yes: memberships and recurring packages (pricing page)",
   "parent_portal": "Client booking app (pricing page)"
  },
@@ -1036,7 +1036,7 @@
    "Highest published entry price on this page",
    "Pro plan price not published"
   ],
-  "last_verified": "2026-10-31",
+  "last_verified": "2026-11-04",
   "autopay": "Plans and intro offers with failed-payment reminders (pricing page)",
   "parent_portal": "Walla client app (pricing page)"
  },
@@ -1078,7 +1078,7 @@
    "Price rises $10/mo per bookable calendar up to 7",
    "Card processing rates not published on pricing page"
   ],
-  "last_verified": "2026-10-31"
+  "last_verified": "2026-11-04"
  },
  {
   "slug": "trio",

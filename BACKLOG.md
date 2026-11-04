@@ -11,7 +11,7 @@
 | 8 | zen-planner-vs-mindbody | vs | done (2026-10-22) |
 | 9 | best-karate-school-software | best | done (2026-10-25) |
 | 10 | best-taekwondo-software | best | done (2026-10-26) |
-| 11 | best-yoga-studio-software (standalone) | best | todo |
+| 11 | best-yoga-studio-software (standalone) | best | done (2026-11-04) |
 | 12 | best-mma-gym-software | best | todo |
 | 13 | best-muay-thai-gym-software | best | todo |
 | 14 | best-krav-maga-software | best | todo |
