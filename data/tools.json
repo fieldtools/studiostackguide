@@ -44,7 +44,8 @@
   "sources": [
    "https://www.martialytics.com/pricing",
    "https://www.martialytics.com/features",
-   "https://www.martialytics.com/best-software-for-martial-arts/taekwondo-dojangs"
+   "https://www.martialytics.com/best-software-for-martial-arts/taekwondo-dojangs",
+   "https://www.martialytics.com/best-software-for-martial-arts/mma-gyms"
   ],
   "best_for": "Martial arts schools wanting every feature at a flat student-count price",
   "starting_price": "$69/mo (0-50 students)",
@@ -57,7 +58,7 @@
    "Price steps up with active student count",
    "Annual pricing not published"
   ],
-  "last_verified": "2026-11-03"
+  "last_verified": "2026-11-05"
  },
  {
   "slug": "gymdesk",
@@ -106,7 +107,9 @@
   "sources": [
    "https://gymdesk.com/pricing",
    "https://gymdesk.com/",
-   "https://gymdesk.com/features/members"
+   "https://gymdesk.com/features/members",
+   "https://gymdesk.com/blog/best-mma-gym-software",
+   "https://gymdesk.com/software/martial-arts"
   ],
   "best_for": "Gyms and dojos that want a website included and can use Gymdesk Payments",
   "starting_price": "$75/mo with Gymdesk Payments (\u226450 members); $100/mo otherwise",
@@ -119,7 +122,7 @@
    "$25/mo more without Gymdesk Payments",
    "Door access ($100/mo) and branded app ($100/mo) are add-ons"
   ],
-  "last_verified": "2026-11-03"
+  "last_verified": "2026-11-05"
  },
  {
   "slug": "kicksite",
@@ -170,7 +173,8 @@
    "https://kicksite.com/martial-arts-attendance-tracking-software/",
    "https://kicksite.com/switch/",
    "https://kicksite.com/terms/",
-   "https://kicksite.com/taekwondo-school-software/"
+   "https://kicksite.com/taekwondo-school-software/",
+   "https://kicksite.com/mma-gym-software/"
   ],
   "best_for": "Small martial arts schools under 25 students",
   "starting_price": "$49/mo (0-25 students)",
@@ -183,7 +187,7 @@
    "Annual pricing not published (ask for discount at demo)",
    "Basys flat rate adds $29/mo on top of per-transaction fees"
   ],
-  "last_verified": "2026-11-03"
+  "last_verified": "2026-11-05"
  },
  {
   "slug": "zen-planner",
@@ -233,7 +237,8 @@
    "https://zenplanner.com/pricing/",
    "https://www.zenplanner.com/solutions/taekwondo-school-software",
    "https://www.zenplanner.com/pricing/active-member-tiers",
-   "https://www.zenplanner.com/features/membership-management-software"
+   "https://www.zenplanner.com/features/membership-management-software",
+   "https://www.zenplanner.com/solutions/mma-gym-software"
   ],
   "best_for": "Gyms and studios wanting belt tracking plus payroll and member app",
   "starting_price": "From $99/mo (Studio)",
@@ -246,7 +251,7 @@
    "Final price depends on active member count (not published)",
    "Branded app and card readers $39/mo each"
   ],
-  "last_verified": "2026-11-03"
+  "last_verified": "2026-11-05"
  },
  {
   "slug": "spark-membership",
@@ -278,7 +283,8 @@
    "https://sparkmembership.com/platform/spark-payments",
    "https://sparkmembership.com/app",
    "https://sparkmembership.com/martial-arts-belt-tracking-software",
-   "https://sparkmembership.com/uses/taekwondo-school-software"
+   "https://sparkmembership.com/uses/taekwondo-school-software",
+   "https://sparkmembership.com/uses/mma-gym-software"
   ],
   "best_for": "Martial arts schools wanting done-for-you setup and automations",
   "starting_price": "$199/mo after 8-week trial",
@@ -292,7 +298,7 @@
    "No cancelling for convenience mid-term; auto-renews unless 30 days' notice",
    "Spark Payments rates not published"
   ],
-  "last_verified": "2026-11-03"
+  "last_verified": "2026-11-05"
  },
  {
   "slug": "mass",
@@ -1262,7 +1268,8 @@
     "sources": [
       "https://dojochamp.com/pricing",
       "https://dojochamp.com/",
-      "https://dojochamp.com/martial-arts-school-software"
+      "https://dojochamp.com/martial-arts-school-software",
+      "https://dojochamp.com/mma-gym-software"
     ],
     "best_for": "Martial arts schools that want one flat $199/mo price with unlimited students and AI churn alerts",
     "starting_price": "$199/mo (unlimited students)",
@@ -1276,7 +1283,7 @@
       "No annual plan published",
       "Entry price higher than tiered options for very small schools"
     ],
-    "last_verified": "2026-11-04",
+    "last_verified": "2026-11-05",
     "autopay": "Yes: recurring billing, failed-payment recovery, ACH and card via Stripe (pricing feature list)",
     "parent_portal": "Member-facing public landing pages for calendars, products, memberships and events (homepage); native iOS and Android apps (vendor email Nov 4, 2026)"
   }
