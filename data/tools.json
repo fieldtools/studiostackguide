@@ -58,7 +58,7 @@
    "Price steps up with active student count",
    "Annual pricing not published"
   ],
-  "last_verified": "2026-11-05"
+  "last_verified": "2026-11-06"
  },
  {
   "slug": "gymdesk",
@@ -74,7 +74,7 @@
   "contract": "Month to month, no setup or cancellation fee",
   "plans": [
    {
-    "name": "Micro Gym (\u226450 active)",
+    "name": "Micro Gym (≤50 active)",
     "users": "Unlimited staff",
     "monthly_no_commit": "$100/mo own processor; $75/mo with Gymdesk Payments",
     "annual": "unknown"
@@ -112,7 +112,7 @@
    "https://gymdesk.com/software/martial-arts"
   ],
   "best_for": "Gyms and dojos that want a website included and can use Gymdesk Payments",
-  "starting_price": "$75/mo with Gymdesk Payments (\u226450 members); $100/mo otherwise",
+  "starting_price": "$75/mo with Gymdesk Payments (≤50 members); $100/mo otherwise",
   "pros": [
    "30-day trial, no credit card",
    "Unlimited staff and a gym website included",
@@ -122,7 +122,7 @@
    "$25/mo more without Gymdesk Payments",
    "Door access ($100/mo) and branded app ($100/mo) are add-ons"
   ],
-  "last_verified": "2026-11-05"
+  "last_verified": "2026-11-06"
  },
  {
   "slug": "kicksite",
@@ -187,7 +187,7 @@
    "Annual pricing not published (ask for discount at demo)",
    "Basys flat rate adds $29/mo on top of per-transaction fees"
   ],
-  "last_verified": "2026-11-05"
+  "last_verified": "2026-11-06"
  },
  {
   "slug": "zen-planner",
@@ -238,7 +238,8 @@
    "https://www.zenplanner.com/solutions/taekwondo-school-software",
    "https://www.zenplanner.com/pricing/active-member-tiers",
    "https://www.zenplanner.com/features/membership-management-software",
-   "https://www.zenplanner.com/solutions/mma-gym-software"
+   "https://www.zenplanner.com/solutions/mma-gym-software",
+   "https://www.zenplanner.com/solutions/muay-thai-gym-software"
   ],
   "best_for": "Gyms and studios wanting belt tracking plus payroll and member app",
   "starting_price": "From $99/mo (Studio)",
@@ -251,7 +252,7 @@
    "Final price depends on active member count (not published)",
    "Branded app and card readers $39/mo each"
   ],
-  "last_verified": "2026-11-05"
+  "last_verified": "2026-11-06"
  },
  {
   "slug": "spark-membership",
@@ -284,7 +285,8 @@
    "https://sparkmembership.com/app",
    "https://sparkmembership.com/martial-arts-belt-tracking-software",
    "https://sparkmembership.com/uses/taekwondo-school-software",
-   "https://sparkmembership.com/uses/mma-gym-software"
+   "https://sparkmembership.com/uses/mma-gym-software",
+   "https://sparkmembership.com/uses/muay-thai-gym-software"
   ],
   "best_for": "Martial arts schools wanting done-for-you setup and automations",
   "starting_price": "$199/mo after 8-week trial",
@@ -298,7 +300,7 @@
    "No cancelling for convenience mid-term; auto-renews unless 30 days' notice",
    "Spark Payments rates not published"
   ],
-  "last_verified": "2026-11-05"
+  "last_verified": "2026-11-06"
  },
  {
   "slug": "mass",
@@ -836,7 +838,7 @@
   "plans": [
    {
     "name": "Start Up",
-    "users": "20 or fewer active users/month; US/Canada also \u2264$2,500/mo in payments",
+    "users": "20 or fewer active users/month; US/Canada also ≤$2,500/mo in payments",
     "monthly_no_commit": "$0/mo (may restrict communications and payment processing)",
     "annual": "unknown"
    },
@@ -863,7 +865,7 @@
    "https://www.rhinofit.ca/pricing"
   ],
   "best_for": "Very small or new schools (20 or fewer active students) and flat-price buyers",
-  "starting_price": "$0/mo (Start Up, \u226420 active users); $57/mo Standard",
+  "starting_price": "$0/mo (Start Up, ≤20 active users); $57/mo Standard",
   "pros": [
    "Free Start Up tier for 20 or fewer active users",
    "Flat $57/mo Standard with no member limits",
@@ -1241,50 +1243,50 @@
   "autopay": "No: TutorTally doesn't process payments",
   "parent_portal": "No parent portal described; student data stays on the teacher's device"
  },
-  {
-    "slug": "dojo-champ",
-    "name": "Dojo Champ",
-    "website": "https://dojochamp.com/",
-    "trades": [
-      "martial",
-      "bjj"
-    ],
-    "free_trial": "30 days; card required, first charge on day 31 if not cancelled (pricing page)",
-    "contract": "Cancel anytime; no setup fee; no long-term contract stated on pricing page",
-    "plans": [
-      {
-        "name": "All-Inclusive Platform",
-        "users": "Unlimited students; all 60+ features",
-        "monthly_no_commit": "$199/mo",
-        "annual": "No annual plan published"
-      }
-    ],
-    "extra_user": "Flat price; unlimited students; no per-student fees or feature tiers (pricing page)",
-    "card_fee": "Stripe standard rates (e.g. 2.9% + $0.30 card, 0.8% ACH capped at $5); no additional Dojo Champ platform fee (pricing page)",
-    "belt_tracking": "Yes: belt/rank progression tracking and curriculum management (pricing feature list)",
-    "attendance": "Yes: attendance tracking and kiosk mode for check-ins (pricing feature list)",
-    "online_booking": "Yes: online class and event registration; public website/landing pages (pricing feature list)",
-    "rating": "unknown",
-    "sources": [
-      "https://dojochamp.com/pricing",
-      "https://dojochamp.com/",
-      "https://dojochamp.com/martial-arts-school-software",
-      "https://dojochamp.com/mma-gym-software"
-    ],
-    "best_for": "Martial arts schools that want one flat $199/mo price with unlimited students and AI churn alerts",
-    "starting_price": "$199/mo (unlimited students)",
-    "pros": [
-      "Flat $199/mo with unlimited students and all features on one plan",
-      "30-day free trial with no charge until day 31 if you cancel",
-      "Stripe processing at Stripe rates with no Dojo Champ platform markup"
-    ],
-    "cons": [
-      "Card required to start the trial",
-      "No annual plan published",
-      "Entry price higher than tiered options for very small schools"
-    ],
-    "last_verified": "2026-11-05",
-    "autopay": "Yes: recurring billing, failed-payment recovery, ACH and card via Stripe (pricing feature list)",
-    "parent_portal": "Member-facing public landing pages for calendars, products, memberships and events (homepage); native iOS and Android apps (vendor email Nov 4, 2026)"
-  }
+ {
+  "slug": "dojo-champ",
+  "name": "Dojo Champ",
+  "website": "https://dojochamp.com/",
+  "trades": [
+   "martial",
+   "bjj"
+  ],
+  "free_trial": "30 days; card required, first charge on day 31 if not cancelled (pricing page)",
+  "contract": "Cancel anytime; no setup fee; no long-term contract stated on pricing page",
+  "plans": [
+   {
+    "name": "All-Inclusive Platform",
+    "users": "Unlimited students; all 60+ features",
+    "monthly_no_commit": "$199/mo",
+    "annual": "No annual plan published"
+   }
+  ],
+  "extra_user": "Flat price; unlimited students; no per-student fees or feature tiers (pricing page)",
+  "card_fee": "Stripe standard rates (e.g. 2.9% + $0.30 card, 0.8% ACH capped at $5); no additional Dojo Champ platform fee (pricing page)",
+  "belt_tracking": "Yes: belt/rank progression tracking and curriculum management (pricing feature list)",
+  "attendance": "Yes: attendance tracking and kiosk mode for check-ins (pricing feature list)",
+  "online_booking": "Yes: online class and event registration; public website/landing pages (pricing feature list)",
+  "rating": "unknown",
+  "sources": [
+   "https://dojochamp.com/pricing",
+   "https://dojochamp.com/",
+   "https://dojochamp.com/martial-arts-school-software",
+   "https://dojochamp.com/mma-gym-software"
+  ],
+  "best_for": "Martial arts schools that want one flat $199/mo price with unlimited students and AI churn alerts",
+  "starting_price": "$199/mo (unlimited students)",
+  "pros": [
+   "Flat $199/mo with unlimited students and all features on one plan",
+   "30-day free trial with no charge until day 31 if you cancel",
+   "Stripe processing at Stripe rates with no Dojo Champ platform markup"
+  ],
+  "cons": [
+   "Card required to start the trial",
+   "No annual plan published",
+   "Entry price higher than tiered options for very small schools"
+  ],
+  "last_verified": "2026-11-06",
+  "autopay": "Yes: recurring billing, failed-payment recovery, ACH and card via Stripe (pricing feature list)",
+  "parent_portal": "Member-facing public landing pages for calendars, products, memberships and events (homepage); native iOS and Android apps (vendor email Nov 4, 2026)"
+ }
 ]
