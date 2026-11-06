@@ -59,3 +59,4 @@
 | 56 | tools/everfit (review + pricing; coaching platform for trainers, gyms and studios) | tool | todo (affiliate: Everfit 10% for 2 years via PayPal, HubSpot form, apply-ready per scout 2026-11-01; needs DOB/LinkedIn; moderate fit) |
 | 57 | tools/dance-business-solutions | dance business solutions review pricing (UK dance studio marketing/ops suite; £100 after 3 paid months) | affiliate: DBS approved 2026-11-03, link https://dancebusinesssolutions.com/dbs?am_id=jacob9124 (£100 after 3 paid months); UK-focused |
 | 58 | tools/dojo-champ | Dojo Champ review + pricing (flat $199/mo unlimited students, 30-day trial card required) | tool | done (published 2026-11-04, approved by Jacob; logo not placed) |
+| 59 | tools/hexfit (review + pricing; PT/coach/gym client-tracking; Hexfit / Xplor) | tool | todo (affiliate: Hexfit 20% for up to 12 months, form submitted 2026-11-06 unconfirmed; moderate fit) |
