@@ -1,1298 +1,1442 @@
 [
-  {
-    "slug": "martialytics",
-    "name": "Martialytics",
-    "website": "https://www.martialytics.com/",
-    "trades": [
-      "martial",
-      "bjj"
-    ],
-    "free_trial": "30 days, no credit card",
-    "contract": "No lock-in contracts",
-    "plans": [
-      {
-        "name": "0-50 students",
-        "users": "Unlimited users",
-        "monthly_no_commit": "$69/mo",
-        "annual": "unknown"
-      },
-      {
-        "name": "51-100 students",
-        "users": "Unlimited users",
-        "monthly_no_commit": "$99/mo",
-        "annual": "unknown"
-      },
-      {
-        "name": "101-200 students",
-        "users": "Unlimited users",
-        "monthly_no_commit": "$129/mo",
-        "annual": "unknown"
-      },
-      {
-        "name": "200+ students",
-        "users": "Unlimited users",
-        "monthly_no_commit": "$199/mo",
-        "annual": "unknown"
-      }
-    ],
-    "extra_user": "Priced by active students; leads and inactive students free; unlimited users and locations",
-    "card_fee": "Standard Stripe rates, no markup or revenue % (per vendor)",
-    "belt_tracking": "Yes: grading-readiness tracking; student app lessons sectioned by rank (features page)",
-    "attendance": "Yes: engagement tracking, automatic absence follow-up, Kiosk Mode check-in app (features page, site nav)",
-    "online_booking": "Yes: bookings & events, calendar, capacity (features page)",
-    "rating": "unknown",
-    "sources": [
-      "https://www.martialytics.com/pricing",
-      "https://www.martialytics.com/features",
-      "https://www.martialytics.com/best-software-for-martial-arts/taekwondo-dojangs",
-      "https://www.martialytics.com/best-software-for-martial-arts/mma-gyms"
-    ],
-    "best_for": "Martial arts schools wanting every feature at a flat student-count price",
-    "starting_price": "$69/mo (0-50 students)",
-    "pros": [
-      "30-day free trial, no credit card",
-      "Every plan includes every feature",
-      "Unlimited users, locations and emails"
-    ],
-    "cons": [
-      "Price steps up with active student count",
-      "Annual pricing not published"
-    ],
-    "last_verified": "2026-11-07"
-  },
-  {
-    "slug": "gymdesk",
-    "name": "Gymdesk",
-    "website": "https://gymdesk.com/",
-    "trades": [
-      "martial",
-      "bjj",
-      "dance",
-      "yoga"
-    ],
-    "free_trial": "30 days, no credit card",
-    "contract": "Month to month, no setup or cancellation fee",
-    "plans": [
-      {
-        "name": "Micro Gym (≤50 active)",
-        "users": "Unlimited staff",
-        "monthly_no_commit": "$100/mo own processor; $75/mo with Gymdesk Payments",
-        "annual": "unknown"
-      },
-      {
-        "name": "Small Gym (51-100)",
-        "users": "Unlimited staff",
-        "monthly_no_commit": "$125/mo; $100/mo with Gymdesk Payments",
-        "annual": "unknown"
-      },
-      {
-        "name": "Medium Gym (101-150)",
-        "users": "Unlimited staff",
-        "monthly_no_commit": "$175/mo; $150/mo with Gymdesk Payments",
-        "annual": "unknown"
-      },
-      {
-        "name": "Large Gym (151-250)",
-        "users": "Unlimited staff",
-        "monthly_no_commit": "$240/mo; $200/mo with Gymdesk Payments",
-        "annual": "unknown"
-      }
-    ],
-    "extra_user": "Priced by active members; extra location $50/mo (Gymdesk Payments) or $100/mo (own processor)",
-    "card_fee": "Gymdesk Payments (US/Canada) rate: unknown",
-    "belt_tracking": "Yes: per-program rank progression; flags who's ready to promote (homepage FAQ)",
-    "attendance": "Yes: check-in by kiosk, name search, barcode or phone",
-    "online_booking": "Yes: members book classes from their phone",
-    "rating": "unknown",
-    "sources": [
-      "https://gymdesk.com/pricing",
-      "https://gymdesk.com/",
-      "https://gymdesk.com/features/members",
-      "https://gymdesk.com/blog/best-mma-gym-software",
-      "https://gymdesk.com/software/martial-arts",
-      "https://gymdesk.com/blog/different-types-of-martial-arts"
-    ],
-    "best_for": "Gyms and dojos that want a website included and can use Gymdesk Payments",
-    "starting_price": "$75/mo with Gymdesk Payments (≤50 members); $100/mo otherwise",
-    "pros": [
-      "30-day trial, no credit card",
-      "Unlimited staff and a gym website included",
-      "No contract, setup or exit fee"
-    ],
-    "cons": [
-      "$25/mo more without Gymdesk Payments",
-      "Door access ($100/mo) and branded app ($100/mo) are add-ons"
-    ],
-    "last_verified": "2026-11-07"
-  },
-  {
-    "slug": "kicksite",
-    "name": "Kicksite",
-    "website": "https://www.kicksite.com/",
-    "trades": [
-      "martial",
-      "bjj"
-    ],
-    "free_trial": "First 30 days free (pricing and switch pages)",
-    "contract": "Recurring charges until you cancel; annual plans auto-renew every 12 months and aren't refunded if cancelled early (terms of use); discounted annual pricing on request",
-    "plans": [
-      {
-        "name": "0-25 students",
-        "users": "unknown",
-        "monthly_no_commit": "$49/mo",
-        "annual": "unknown"
-      },
-      {
-        "name": "26-50 students",
-        "users": "unknown",
-        "monthly_no_commit": "$99/mo",
-        "annual": "unknown"
-      },
-      {
-        "name": "51-100 students",
-        "users": "unknown",
-        "monthly_no_commit": "$149/mo",
-        "annual": "unknown"
-      },
-      {
-        "name": "101+ students",
-        "users": "unknown",
-        "monthly_no_commit": "$199/mo",
-        "annual": "unknown"
-      }
-    ],
-    "extra_user": "Priced by active students; all features at every tier",
-    "card_fee": "US: preferred partner Basys, flat rate $29/mo + 2.9% + $0.25 per card transaction (card + ACH option: $35 setup, $49/mo, 2.9% + $0.25 card, $0.30 ACH); international: Stripe (payment-processing page)",
-    "belt_tracking": "Yes: attendance and belt tracking, promote with one click",
-    "attendance": "Yes: kiosk check-in by name, PIN or member-portal barcode; check-in restrictions for past-due balances (FAQ, attendance page)",
-    "online_booking": "Yes: students register for classes and events in the Member Portal mobile web app (FAQ)",
-    "rating": "unknown",
-    "sources": [
-      "https://www.kicksite.com/pricing",
-      "https://kicksite.com/payment-processing/",
-      "https://kicksite.com/faq/",
-      "https://kicksite.com/martial-arts-attendance-tracking-software/",
-      "https://kicksite.com/switch/",
-      "https://kicksite.com/terms/",
-      "https://kicksite.com/taekwondo-school-software/",
-      "https://kicksite.com/mma-gym-software/",
-      "https://kicksite.com/krav-maga-gym-software/",
-      "https://kicksite.com/pricing/"
-    ],
-    "best_for": "Small martial arts schools under 25 students",
-    "starting_price": "$49/mo (0-25 students)",
-    "pros": [
-      "Lowest published entry tier here ($49/mo, 0-25 students)",
-      "First 30 days free, free data import and 60 days of onboarding",
-      "Free unlimited one-way texting"
-    ],
-    "cons": [
-      "Annual pricing not published (ask for discount at demo)",
-      "Basys flat rate adds $29/mo on top of per-transaction fees"
-    ],
-    "last_verified": "2026-11-07"
-  },
-  {
-    "slug": "zen-planner",
-    "name": "Zen Planner",
-    "website": "https://zenplanner.com/",
-    "trades": [
-      "martial",
-      "bjj",
-      "yoga",
-      "dance"
-    ],
-    "free_trial": "unknown",
-    "contract": "Month-to-month; annual contract on request",
-    "plans": [
-      {
-        "name": "Studio",
-        "users": "Staff not charged",
-        "monthly_no_commit": "From $99/mo",
-        "annual": "unknown"
-      },
-      {
-        "name": "Essentials (Studio + website)",
-        "users": "Staff not charged",
-        "monthly_no_commit": "$198/mo",
-        "annual": "unknown"
-      },
-      {
-        "name": "Ultimate (Studio + Engage marketing)",
-        "users": "Staff not charged",
-        "monthly_no_commit": "$348/mo",
-        "annual": "unknown"
-      },
-      {
-        "name": "New Business Bundle (Essentials + custom website + branded member app)",
-        "users": "Staff not charged",
-        "monthly_no_commit": "From $199/mo",
-        "annual": "unknown"
-      }
-    ],
-    "extra_user": "Priced by active members (prospects and staff not counted)",
-    "card_fee": "Daxko Payments or preferred processors; rates unknown",
-    "belt_tracking": "Yes: belt and skill tracking listed",
-    "attendance": "Yes",
-    "online_booking": "Yes: online class scheduling with waitlists, capacity limits and automatic reminders; members book online or from the app (membership-management feature page)",
-    "rating": "unknown",
-    "sources": [
-      "https://zenplanner.com/pricing/",
-      "https://www.zenplanner.com/solutions/taekwondo-school-software",
-      "https://www.zenplanner.com/pricing/active-member-tiers",
-      "https://www.zenplanner.com/features/membership-management-software",
-      "https://www.zenplanner.com/solutions/mma-gym-software",
-      "https://www.zenplanner.com/solutions/muay-thai-gym-software",
-      "https://www.zenplanner.com/solutions/krav-maga-academy-software"
-    ],
-    "best_for": "Gyms and studios wanting belt tracking plus payroll and member app",
-    "starting_price": "From $99/mo (Studio)",
-    "pros": [
-      "Belt and skill tracking listed",
-      "Month-to-month by default",
-      "Staff and member mobile apps included"
-    ],
-    "cons": [
-      "Final price depends on active member count (not published)",
-      "Branded app and card readers $39/mo each"
-    ],
-    "last_verified": "2026-11-07"
-  },
-  {
-    "slug": "spark-membership",
-    "name": "Spark Membership",
-    "website": "https://sparkmembership.com/",
-    "trades": [
-      "martial",
-      "bjj"
-    ],
-    "free_trial": "8 weeks",
-    "contract": "Service term set in your Order Form; auto-renews for the same term or 1 year (whichever is shorter) unless you give 30 days' notice; no termination for convenience mid-term (Terms & Conditions 9.1-9.2)",
-    "plans": [
-      {
-        "name": "Spark (promo)",
-        "users": "unknown",
-        "monthly_no_commit": "$199/mo after trial",
-        "annual": "unknown"
-      }
-    ],
-    "extra_user": "Full access to every feature; setup by account rep; free data migration",
-    "card_fee": "Spark Payments (rates not published); supports automatic credit-card surcharging capped at your actual rate, or dual pricing, where legal",
-    "belt_tracking": "Yes: rank history, per-rank requirements, test-eligibility from attendance, mass rank promote, certificates",
-    "attendance": "Yes: attendance trends",
-    "online_booking": "Yes: members book and pay in the free Spark Member App (iOS/Android)",
-    "rating": "unknown",
-    "sources": [
-      "https://sparkmembership.com/pricing/",
-      "https://sparkmembership.com/terms-and-conditions",
-      "https://sparkmembership.com/platform/spark-payments",
-      "https://sparkmembership.com/app",
-      "https://sparkmembership.com/martial-arts-belt-tracking-software",
-      "https://sparkmembership.com/uses/taekwondo-school-software",
-      "https://sparkmembership.com/uses/mma-gym-software",
-      "https://sparkmembership.com/uses/muay-thai-gym-software",
-      "https://sparkmembership.com/uses/krav-maga-gym-software"
-    ],
-    "best_for": "Martial arts schools wanting done-for-you setup and automations",
-    "starting_price": "$199/mo after 8-week trial",
-    "pros": [
-      "8-week free trial",
-      "Free student data migration",
-      "Belt history and family accounts"
-    ],
-    "cons": [
-      "Single published price, no small-school tier",
-      "No cancelling for convenience mid-term; auto-renews unless 30 days' notice",
-      "Spark Payments rates not published"
-    ],
-    "last_verified": "2026-11-07"
-  },
-  {
-    "slug": "mass",
-    "name": "MASS",
-    "website": "https://www.mass-system.com/",
-    "trades": [
-      "martial",
-      "bjj"
-    ],
-    "free_trial": "14 days, no credit card (homepage); terms say payment method required",
-    "contract": "No contracts, monthly or annual",
-    "plans": [
-      {
-        "name": "Starter / Growth / Pro",
-        "users": "unknown",
-        "monthly_no_commit": "unknown (pricing page requires sign-in)",
-        "annual": "unknown"
-      }
-    ],
-    "extra_user": "Priced by active students",
-    "card_fee": "2% platform fee on student payments processed through MASS (Terms 3.7), plus Stripe",
-    "belt_tracking": "Yes: grading readiness score per student; one-click grading certificates (homepage)",
-    "attendance": "Yes: attendance tracking (Terms)",
-    "online_booking": "Class scheduling (Terms)",
-    "rating": "unknown",
-    "sources": [
-      "https://www.mass-system.com/",
-      "https://www.mass-system.com/TermsOfService"
-    ],
-    "best_for": "AI-assisted admin for small martial arts clubs (Australia-based)",
-    "starting_price": "unknown",
-    "pros": [
-      "14-day free trial",
-      "No contracts",
-      "Free club directory listing"
-    ],
-    "cons": [
-      "Prices not public",
-      "2% platform fee on processed payments"
-    ],
-    "last_verified": "2026-10-22"
-  },
-  {
-    "slug": "mindbody",
-    "name": "Mindbody",
-    "website": "https://www.mindbodyonline.com/business",
-    "trades": [
-      "yoga",
-      "dance",
-      "martial"
-    ],
-    "free_trial": "unknown",
-    "contract": "Depends on plan, billing terms and any promotion (pricing page FAQ); no onboarding fee on any plan",
-    "plans": [
-      {
-        "name": "Starter",
-        "users": "Unlimited users per location; booking, integrated payments, branded widgets, website, Mindbody app listing, basic reporting",
-        "monthly_no_commit": "From $79/mo per location",
-        "annual": "unknown"
-      },
-      {
-        "name": "Accelerate",
-        "users": "Unlimited users; adds advanced reporting, room/resource management, Pick-a-Spot, promo codes",
-        "monthly_no_commit": "unknown",
-        "annual": "unknown"
-      },
-      {
-        "name": "Ultimate",
-        "users": "Unlimited users; adds automated email/text marketing, lead pipeline, AI Concierge",
-        "monthly_no_commit": "unknown",
-        "annual": "unknown"
-      }
-    ],
-    "extra_user": "Per location; unlimited users",
-    "card_fee": "Mindbody Payments optional: rate (varies by card type) + $0.10-$0.30 per transaction; third-party processors allowed; 20% fee (capped $30) on the first purchase of a new client who finds you through the Mindbody app",
-    "belt_tracking": "unknown (not listed on pricing page)",
-    "attendance": "unknown",
-    "online_booking": "Yes: self-serve booking, branded website widgets, Mindbody app listing; Pick-a-Spot on Accelerate and Ultimate",
-    "rating": "unknown",
-    "sources": [
-      "https://www.mindbodyonline.com/business/pricing",
-      "https://www.mindbodyonline.com/business/payments",
-      "https://www.mindbodyonline.com/business/marketplace"
-    ],
-    "best_for": "Yoga, dance and fitness studios wanting a consumer marketplace",
-    "starting_price": "From $79/mo per location (Starter)",
-    "pros": [
-      "Unlimited users per location",
-      "Listing on Mindbody app",
-      "No onboarding fee"
-    ],
-    "cons": [
-      "Only the entry price is published",
-      "App bookings from new clients carry a 20% fee (capped $30)"
-    ],
-    "last_verified": "2026-11-04"
-  },
-  {
-    "slug": "my-music-staff",
-    "name": "My Music Staff",
-    "website": "https://www.mymusicstaff.com/",
-    "trades": [
-      "music"
-    ],
-    "free_trial": "30 days, full access, no credit card; 90-day money-back guarantee",
-    "contract": "No contracts; cancel anytime",
-    "plans": [
-      {
-        "name": "All features",
-        "users": "1 teacher (you); +$4.95/mo per additional teacher or staff member",
-        "monthly_no_commit": "$16.95/mo",
-        "annual": "unknown"
-      }
-    ],
-    "extra_user": "Flat price, unlimited students; +$4.95/mo per additional teacher or staff member",
-    "card_fee": "Payments via Stripe or PayPal integrations; processing rates unknown",
-    "belt_tracking": "Not applicable (music lessons)",
-    "attendance": "Yes: attendance tracking, lesson reminders, rescheduling, cancellations (pricing page)",
-    "online_booking": "Yes: optional student self-service scheduling and online registration (pricing page)",
-    "rating": "unknown",
-    "sources": [
-      "https://www.mymusicstaff.com/pricing/"
-    ],
-    "best_for": "Solo teachers and multi-teacher studios wanting an all-in-one tool with a website builder",
-    "starting_price": "$16.95/mo",
-    "pros": [
-      "30-day free trial, no credit card, plus 90-day money-back guarantee",
-      "Unlimited students and SMS reminders included",
-      "Website builder with free hosting"
-    ],
-    "cons": [
-      "Each extra teacher or staff member adds $4.95/mo",
-      "Annual price not published"
-    ],
-    "last_verified": "2026-10-25",
-    "autopay": "Yes: automatic invoicing, online payments, late fee automation (pricing page)",
-    "parent_portal": "Yes: student portal with self-service scheduling, lesson notes, payment history (pricing page)"
-  },
-  {
-    "slug": "fons",
-    "name": "Fons (MakeMusic Studio)",
-    "website": "https://www.studio.makemusic.com/",
-    "trades": [
-      "music"
-    ],
-    "free_trial": "14 days (pricing page, checked 2026-11-02)",
-    "contract": "No minimum term or contract; cancel anytime",
-    "plans": [
-      {
-        "name": "MakeMusic Studio (formerly Fons)",
-        "users": "$19.95/mo, +$4.95/mo per additional teacher or admin staff (pricing page, checked 2026-11-02)",
-        "monthly_no_commit": "$19.95/mo",
-        "annual": "unknown"
-      }
-    ],
-    "extra_user": "+$4.95/mo per additional teacher or admin staff; unlimited students for the same flat fee (checked 2026-11-02)",
-    "card_fee": "2.9% + $0.30 per card charge (+1% international); 1.8% per ACH charge; 0.4% of subscription volume",
-    "belt_tracking": "Not applicable (music lessons)",
-    "attendance": "Yes: tracking cancellations (pricing page); attendance details unknown",
-    "online_booking": "Yes: booking and re-booking (pricing page)",
-    "rating": "unknown",
-    "sources": [
-      "https://www.studio.makemusic.com/pricing/"
-    ],
-    "best_for": "Teachers who want automatic payments instead of manual invoicing",
-    "starting_price": "$19.95/mo",
-    "pros": [
-      "Automatic payments with flexible billing options",
-      "No client or appointment limits",
-      "Card, ACH and subscription fees published"
-    ],
-    "cons": [
-      "Each additional staff member adds $4.95/mo",
-      "Annual price and parent portal details not published"
-    ],
-    "last_verified": "2026-11-02",
-    "autopay": "Yes: automatic payments with flexible billing (pricing page)",
-    "parent_portal": "unknown"
-  },
-  {
-    "slug": "duet",
-    "name": "Duet",
-    "website": "https://www.duetpartner.com/",
-    "trades": [
-      "music"
-    ],
-    "free_trial": "30 days (Duet blog)",
-    "contract": "Monthly or annual; cancellation terms unknown",
-    "plans": [
-      {
-        "name": "Monthly",
-        "users": "All features, any studio size",
-        "monthly_no_commit": "$9/mo",
-        "annual": "$99/yr"
-      }
-    ],
-    "extra_user": "Flat rate regardless of studio size; families pay a 1% transaction fee on digital payments",
-    "card_fee": "Families pay 1% Duet fee on statements; card payments also pay 2.9% processing (Stripe), ACH has no card fee (Duet blog)",
-    "belt_tracking": "Not applicable (music lessons)",
-    "attendance": "Yes: attendance records on the Daily Dashboard (pricing page)",
-    "online_booking": "Yes: students schedule or reschedule their own lessons by phone; Smart Scheduler builds season schedules (pricing page)",
-    "rating": "unknown",
-    "sources": [
-      "https://www.duetpartner.com/pricing",
-      "https://www.duetpartner.com/blog/more-details-about-how-duet-is-keeping-money-in-your-pocket"
-    ],
-    "best_for": "Independent teachers who want the lowest flat subscription",
-    "starting_price": "$9/mo ($99/yr)",
-    "pros": [
-      "Lowest flat subscription we found: $9/mo or $99/yr",
-      "Card, Apple Pay, Google Pay and ACH payments",
-      "Smart Scheduler builds a season schedule from parent availability"
-    ],
-    "cons": [
-      "Families pay a 1% transaction fee on digital payments",
-      "Card payments also carry 2.9% processing",
-      "Pricing page promos and copyright date are from 2024; we couldn't confirm the product is still actively updated"
-    ],
-    "last_verified": "2026-11-02",
-    "autopay": "Yes: tracks what families owe; statements sent by text link; direct deposit (pricing page)",
-    "parent_portal": "No login needed: statements by text link; students self-schedule from their phones (pricing page). Full portal unknown"
-  },
-  {
-    "slug": "mysymphony",
-    "name": "mySymphony",
-    "website": "https://www.mysymphony.net/",
-    "trades": [
-      "music"
-    ],
-    "free_trial": "30 days, all features, no credit card",
-    "contract": "Solo: no subscription, pay per booked lesson (capped at $20/mo). Ensemble: monthly per-teacher subscription, no contracts on add-ons",
-    "plans": [
-      {
-        "name": "Solo",
-        "users": "1 teacher; up to 100 active students; unlimited emails + 50 SMS/mo",
-        "monthly_no_commit": "$0.25 per booked lesson, capped at $20/mo",
-        "annual": "unknown"
-      },
-      {
-        "name": "Ensemble",
-        "users": "Multi-teacher; unlimited active students and locations",
-        "monthly_no_commit": "$15/mo first teacher, +$5/mo per additional teacher (up to 50), +$3/mo after that",
-        "annual": "unknown"
-      }
-    ],
-    "extra_user": "Solo: $0.25 per booked lesson, capped at $20/mo (1 teacher, up to 100 active students). Ensemble: +$5/mo per additional teacher up to 50, then +$3/mo",
-    "card_fee": "Integrated payment processing; rates unknown",
-    "belt_tracking": "Not applicable (music lessons)",
-    "attendance": "unknown",
-    "online_booking": "Yes: student self-rescheduling and self-booking (pricing page)",
-    "rating": "unknown",
-    "sources": [
-      "https://www.mysymphony.net/pricing"
-    ],
-    "best_for": "Part-time teachers who want to pay only when they teach, and multi-teacher studios on a per-teacher plan",
-    "starting_price": "$0.25 per booked lesson (Solo, capped at $20/mo); Ensemble $15/mo first teacher",
-    "pros": [
-      "Solo: $0.25 per booked lesson, never more than $20/mo",
-      "Ensemble: $15/mo first teacher + $5 per added teacher, unlimited students",
-      "30-day free trial, no credit card"
-    ],
-    "cons": [
-      "Solo Plan capped at 100 active students and 50 SMS/mo",
-      "Add-on prices (Grid View, Practice Dashboard, AI Front Desk) not published"
-    ],
-    "last_verified": "2026-11-02",
-    "autopay": "Yes: automated invoicing and billing (pricing page)",
-    "parent_portal": "Yes: basic student dashboard (pricing page)",
-    "add_ons": "Grid View, Student Practice Dashboard (metronome, tuner, practice tracking), AI Front Desk (AI call answering, prepaid minute packs); month to month, prices not published (unknown)"
-  },
-  {
-    "slug": "teach-n-go",
-    "name": "Teach 'n Go",
-    "website": "https://www.teachngo.com/",
-    "trades": [
-      "music"
-    ],
-    "free_trial": "14 days, no credit card; 30-day money-back guarantee",
-    "contract": "Cancel anytime; annual billing gets two months free",
-    "plans": [
-      {
-        "name": "Teach 'n Go, up to 100 live students",
-        "users": "3 admin users, unlimited teachers, 1 location",
-        "monthly_no_commit": "$79/mo",
-        "annual": "Two months free"
-      },
-      {
-        "name": "Teach 'n Go Pro, up to 100 live students",
-        "users": "Unlimited admins and locations",
-        "monthly_no_commit": "$109/mo",
-        "annual": "Two months free"
-      },
-      {
-        "name": "Teach 'n Go, up to 200 live students",
-        "users": "3 admin users, unlimited teachers",
-        "monthly_no_commit": "$99/mo",
-        "annual": "Two months free"
-      },
-      {
-        "name": "Teach 'n Go, up to 300 live students",
-        "users": "3 admin users, unlimited teachers",
-        "monthly_no_commit": "$129/mo",
-        "annual": "Two months free"
-      }
-    ],
-    "extra_user": "Priced by live students (bands up to 2,000); USD list prices",
-    "card_fee": "unknown",
-    "belt_tracking": "Not applicable (music lessons)",
-    "attendance": "Yes: scheduling, attendance and invoicing (pricing page)",
-    "online_booking": "Yes: online booking (pricing page)",
-    "rating": "unknown",
-    "sources": [
-      "https://www.teachngo.com/pricing"
-    ],
-    "best_for": "Multi-teacher music schools with group classes and several staff",
-    "starting_price": "$79/mo (up to 100 live students)",
-    "pros": [
-      "Student, parent and teacher portals on every plan",
-      "Unlimited teachers and classes",
-      "14-day free trial, no credit card"
-    ],
-    "cons": [
-      "Highest starting price of the tools we compared",
-      "Payment processing fees not published"
-    ],
-    "last_verified": "2026-10-25",
-    "autopay": "Invoicing and fee tracking (pricing page); automatic recurring card payments unknown",
-    "parent_portal": "Yes: student, parent and teacher portals (pricing page)"
-  },
-  {
-    "slug": "mariana-tek",
-    "name": "Mariana Tek",
-    "website": "https://www.marianatek.com/",
-    "trades": [
-      "yoga"
-    ],
-    "free_trial": "unknown (not published; vendor offers an intro call/demo)",
-    "contract": "unknown (not published)",
-    "plans": [
-      {
-        "name": "Core",
-        "users": "Single locations getting started: platform + custom-branded iOS/Android apps, Biz App, kiosk check-in, waivers and forms",
-        "monthly_no_commit": "unknown (quote only)",
-        "annual": "unknown"
-      },
-      {
-        "name": "Core + Growth (most popular)",
-        "users": "Everything in Core + marketing automation (email/SMS), two-way texting, landing pages and forms",
-        "monthly_no_commit": "unknown (quote only)",
-        "annual": "unknown"
-      },
-      {
-        "name": "Full Growth Bundle",
-        "users": "Everything in Core + Growth + gamification, feedback suite, custom marketing plan",
-        "monthly_no_commit": "unknown (quote only)",
-        "annual": "unknown"
-      }
-    ],
-    "extra_user": "Unlimited class schedule and instructors on every plan; multi-location management from one login (pricing page)",
-    "card_fee": "Stripe processing at Stripe's standard flat rate; Mariana Tek says it adds nothing on top (pricing page FAQ). Exact rate not stated",
-    "belt_tracking": "Not applicable (boutique fitness)",
-    "attendance": "Yes: kiosk check-in; class rosters and waitlists (pricing page, homepage)",
-    "online_booking": "Yes: branded app booking; pick-a-spot with custom floor plans for reformers, megaformers and bikes (homepage)",
-    "rating": "unknown",
-    "sources": [
-      "https://www.marianatek.com/pricing",
-      "https://www.marianatek.com/"
-    ],
-    "best_for": "Boutique fitness studios (pilates, yoga, barre, cycling, HIIT, boxing) wanting a branded app",
-    "starting_price": "Not published (quote only)",
-    "pros": [
-      "Custom-branded iOS and Android apps on every plan, from Core up",
-      "Pick-a-spot with custom floor plans for reformers, megaformers and bikes",
-      "Stripe processing at Stripe's standard rate with no Mariana Tek markup"
-    ],
-    "cons": [
-      "No prices published; you must book an intro call",
-      "Onboarding typically takes five to eight weeks",
-      "Marketing automation and two-way texting need Core + Growth or above"
-    ],
-    "last_verified": "2026-11-04",
-    "who_html": "<p>Mariana Tek describes itself as software for boutique fitness studios that want a high-end, branded customer experience, from single-location studios to global brands and franchises. Its customers run group classes including pilates (Lagree, Megaformer and mat), yoga, barre, indoor cycling, HIIT and boxing. Mariana Tek says typical onboarding takes five to eight weeks with dedicated onboarding specialists and a demo environment. Every plan includes multi-location management, unlimited classes and instructors, intro offers, packs and memberships, CRM, reporting, kiosk check-in, digital waivers and transactional emails.</p>",
-    "compare_html": "<p><a href=\"/tools/mindbody/\">Mindbody</a> publishes an entry price (from $79/mo per location) and lists studios on its consumer app, with a 20% fee (capped at $30) on new clients' first app purchase. Mariana Tek publishes no prices and focuses on your own branded app instead of a marketplace. <a href=\"/tools/zen-planner/\">Zen Planner</a> (from $99/mo) and <a href=\"/tools/gymdesk/\">Gymdesk</a> (from $75/mo) publish prices and suit membership gyms and martial arts schools; Mariana Tek is aimed at boutique class studios with features like pick-a-spot floor plans for reformers and bikes. See also <a href=\"/studios/yoga/\">yoga studio tools</a> and <a href=\"/best-dance-studio-software/\">dance and yoga studio software compared</a>.</p>"
-  },
-  {
-    "slug": "studio-helper",
-    "name": "Studio Helper",
-    "website": "https://studiohelper.com/",
-    "trades": [
-      "music",
-      "dance"
-    ],
-    "free_trial": "30-day free trial (pricing page)",
-    "contract": "unknown (not published)",
-    "plans": [
-      {
-        "name": "Single plan (all features)",
-        "users": "All features included; priced per student",
-        "monthly_no_commit": "USD $50/mo + $0.25 per student",
-        "annual": "unknown (not published)"
-      }
-    ],
-    "extra_user": "$50/mo base + 25 cents per student; teacher/staff pricing not stated separately (pricing page)",
-    "card_fee": "Online invoicing and payments (features page); processor and rates unknown (not published)",
-    "belt_tracking": "Not applicable; instructors can update student skills and alert parents when new skills are mastered (homepage)",
-    "attendance": "Yes: reminders and attendance tracking (homepage, features page)",
-    "online_booking": "Yes: real-time calendar where students, teachers and staff can see and book lessons and events; can integrate into your website to show availability (homepage)",
-    "rating": "unknown",
-    "sources": [
-      "https://studiohelper.com/pricing",
-      "https://studiohelper.com/",
-      "https://studiohelper.com/features"
-    ],
-    "best_for": "Teaching studios with several teachers (music, dance, yoga, martial arts) wanting scheduling, billing and payroll in one",
-    "starting_price": "$50/mo + $0.25 per student",
-    "pros": [
-      "One plan with all features included",
-      "Payroll, expenses and inventory tracking built in",
-      "Room and teacher scheduling with reminders and attendance"
-    ],
-    "cons": [
-      "$50/mo base is higher than the flat price of most music-only tools we list",
-      "Payment processing rates are not published",
-      "Contract and cancellation terms are not published"
-    ],
-    "last_verified": "2026-10-26",
-    "who_html": "<p>Studio Helper describes itself as studio management software for music studios, yoga studios, dance studios, martial arts dojos and other teaching studios (music, dance, fitness, sports, martial arts). The testimonials on its homepage come mostly from music teaching businesses, including a studio with 5 teachers and more than 100 students. Features it lists: a real-time calendar for students, teachers and staff with room and teacher scheduling, reminders and attendance tracking; online invoicing and payments; payroll, expense and inventory tracking; built-in reports for key metrics and tax returns; permissions per role; student skill updates with parent alerts; mass email messaging; to-do assignments; and embedding into your existing website to show availability.</p>",
-    "compare_html": "<p>For a solo music teacher, flat-priced tools cost less on paper: <a href=\"/tools/duet/\">Duet</a> ($9/mo), <a href=\"/tools/my-music-staff/\">My Music Staff</a> ($16.95/mo plus $4.95 per extra teacher) and <a href=\"/tools/fons/\">Fons</a> ($19.95/mo). At Studio Helper's published rate, 40 students works out to $60/mo and 100 students to $75/mo. <a href=\"/tools/teach-n-go/\">Teach 'n Go</a> is $79/mo for up to 100 live students, so the two are close for a mid-size multi-teacher studio; Studio Helper adds payroll, expense and inventory tracking. <a href=\"/tools/mysymphony/\">mySymphony</a> charges $0.25 per booked lesson rather than per student. See <a href=\"/best-music-lesson-studio-software/\">music lesson studio software compared</a>, <a href=\"/studios/music-lessons/\">all music lesson studio tools</a> and <a href=\"/best-dance-studio-software/\">dance studio software</a>.</p>"
-  },
-  {
-    "slug": "pushpress",
-    "name": "PushPress",
-    "website": "https://www.pushpress.com/",
-    "trades": [
-      "martial"
-    ],
-    "free_trial": "unknown (Free plan has no monthly fee)",
-    "contract": "unknown",
-    "plans": [
-      {
-        "name": "Free",
-        "users": "Unlimited members, staff and admins",
-        "monthly_no_commit": "$0 (card 4.99% + $0.30; ACH 2.89% + $0.30)",
-        "annual": "unknown"
-      },
-      {
-        "name": "Pro",
-        "users": "Unlimited members, staff and admins",
-        "monthly_no_commit": "$159/mo (card 2.89% + $0.30; ACH 0.79% + $0.30)",
-        "annual": "unknown"
-      },
-      {
-        "name": "Max",
-        "users": "Unlimited members, staff and admins",
-        "monthly_no_commit": "$229/mo (card 2.75% + $0.30; ACH 0.79% + $0.30)",
-        "annual": "unknown"
-      }
-    ],
-    "extra_user": "Flat plan price; unlimited members and staff on every plan; prices in USD (contact sales for international)",
-    "card_fee": "Free: 4.99% + $0.30 card, 2.89% + $0.30 ACH; Pro: 2.89% + $0.30 card, 0.79% + $0.30 ACH; Max: 2.75% + $0.30 card, 0.79% + $0.30 ACH",
-    "belt_tracking": "Yes: Rank Tracking for martial arts academies (pricing page); which plans include it: unknown",
-    "attendance": "Yes: check-ins, kiosk mode and attendance tracking (pricing page)",
-    "online_booking": "Yes: members app class registration, waitlists, appointments (pricing page)",
-    "rating": "unknown",
-    "sources": [
-      "https://www.pushpress.com/pricing"
-    ],
-    "best_for": "Small schools that want $0/mo software and accept a higher card rate",
-    "starting_price": "$0/mo (Free plan)",
-    "pros": [
-      "Free plan with no monthly fee",
-      "Unlimited members and staff on every plan",
-      "Rank Tracking and invite-only events for belt tests listed"
-    ],
-    "cons": [
-      "Free plan card rate is 4.99% + $0.30",
-      "Trial and contract terms not published on pricing page"
-    ],
-    "last_verified": "2026-10-26",
-    "autopay": "Yes: pro-rated recurring billing (pricing page)",
-    "parent_portal": "Members app for booking, purchases and profile updates (pricing page)"
-  },
-  {
-    "slug": "recess",
-    "name": "Recess",
-    "website": "https://www.recess.tv/",
-    "trades": [
-      "martial"
-    ],
-    "free_trial": "Not applicable (free; no monthly fee)",
-    "contract": "No setup fee, contract or minimum (features page)",
-    "plans": [
-      {
-        "name": "Recess (one plan)",
-        "users": "Unlimited staff logins",
-        "monthly_no_commit": "$0/mo for the studio",
-        "annual": "Not applicable"
-      }
-    ],
-    "extra_user": "$0 per month per location; members pay a service fee of about 5% at checkout, which covers card and bank processing; cash or cheque payments carry no fee",
-    "card_fee": "Member-paid service fee of about 5% at checkout; processing covered by Recess out of that fee (pricing page)",
-    "belt_tracking": "Yes: belts, stripes and testing on a ladder you define (pricing and martial arts pages)",
-    "attendance": "unknown (not detailed on pricing page)",
-    "online_booking": "Yes: classes, appointments, courses, waitlists; branded app (pricing page)",
-    "rating": "unknown",
-    "sources": [
-      "https://www.recess.tv/pricing",
-      "https://www.recess.tv/martial-arts-school-software",
-      "https://www.recess.tv/features"
-    ],
-    "best_for": "Schools willing to pass a ~5% checkout fee to families instead of paying a subscription",
-    "starting_price": "$0/mo (members pay ~5% at checkout)",
-    "pros": [
-      "No monthly, setup or add-on fees; one plan",
-      "Belts, stripes, testing and family accounts included",
-      "Branded app and unlimited texting included"
-    ],
-    "cons": [
-      "Members pay about 5% on every checkout payment",
-      "Exact fee is described as 'about 5%', not a fixed published rate"
-    ],
-    "last_verified": "2026-10-26",
-    "autopay": "Yes: memberships with automatic retry of failed payments (pricing page)",
-    "parent_portal": "Family accounts: several children under one payer and one login (pricing page)"
-  },
-  {
-    "slug": "rhinofit",
-    "name": "RhinoFit",
-    "website": "https://www.rhinofit.ca/",
-    "trades": [
-      "martial"
-    ],
-    "free_trial": "30 days, no credit card",
-    "contract": "No contract; cancel anytime by phone (pricing page)",
-    "plans": [
-      {
-        "name": "Start Up",
-        "users": "20 or fewer active users/month; US/Canada also ≤$2,500/mo in payments",
-        "monthly_no_commit": "$0/mo (may restrict communications and payment processing)",
-        "annual": "unknown"
-      },
-      {
-        "name": "Standard",
-        "users": "No member limits",
-        "monthly_no_commit": "$57/mo",
-        "annual": "unknown"
-      },
-      {
-        "name": "24/7 Access",
-        "users": "No member limits",
-        "monthly_no_commit": "$99/mo promo (listed $149); door hardware sold separately",
-        "annual": "unknown"
-      }
-    ],
-    "extra_user": "Flat price, no member limits (Standard); Start Up is free only at 20 or fewer active users",
-    "card_fee": "unknown (Automated Payment Processing listed on Standard; rates not published on pricing page)",
-    "belt_tracking": "Yes: Belt & Progression Tracking on all plans (pricing page)",
-    "attendance": "Yes: check-in, reserve and attend; tablet kiosk (pricing page)",
-    "online_booking": "Yes: class and appointment scheduling; mobile app (pricing page)",
-    "rating": "unknown",
-    "sources": [
-      "https://www.rhinofit.ca/pricing"
-    ],
-    "best_for": "Very small or new schools (20 or fewer active students) and flat-price buyers",
-    "starting_price": "$0/mo (Start Up, ≤20 active users); $57/mo Standard",
-    "pros": [
-      "Free Start Up tier for 20 or fewer active users",
-      "Flat $57/mo Standard with no member limits",
-      "30-day trial with no credit card"
-    ],
-    "cons": [
-      "Free tier may have restricted or no payment processing and communications",
-      "Payment processing rates not published"
-    ],
-    "last_verified": "2026-11-03",
-    "autopay": "Standard: Automated Payment Processing (pricing page)",
-    "parent_portal": "unknown"
-  },
-  {
-    "slug": "wellnessliving",
-    "name": "WellnessLiving",
-    "website": "https://www.wellnessliving.com/",
-    "trades": [
-      "yoga",
-      "dance",
-      "martial"
-    ],
-    "free_trial": "unknown (demo offered)",
-    "contract": "Monthly or annual billing (annual saves 10%); change plans any time; as of Nov 1, 2026 the pricing page shows 80% off the first 2 months of Business and BusinessPro (pricing page)",
-    "plans": [
-      {
-        "name": "Starter",
-        "users": "One staff member; classes and appointments booking, client and staff apps, POS, email/SMS notifications",
-        "monthly_no_commit": "$69/mo",
-        "annual": "$62/mo billed annually"
-      },
-      {
-        "name": "Business",
-        "users": "Unlimited staff; adds rewards, events, email and text marketing, lead management",
-        "monthly_no_commit": "$199/mo",
-        "annual": "$179/mo billed annually"
-      },
-      {
-        "name": "BusinessPro",
-        "users": "Unlimited staff; adds white-label client app",
-        "monthly_no_commit": "$349/mo",
-        "annual": "$314/mo billed annually"
-      },
-      {
-        "name": "Enterprise",
-        "users": "Multi-location: HQ account, cross-location visits, multi-location reporting",
-        "monthly_no_commit": "unknown (call for price)",
-        "annual": "unknown"
-      }
-    ],
-    "extra_user": "Starter is limited to 1 staff member; Business and above include unlimited staff; API access $19/mo on all plans",
-    "card_fee": "unknown (processing included; rates not published on pricing page)",
-    "belt_tracking": "Belt Progress Tracking listed in the pricing page feature comparison",
-    "attendance": "Yes: client self check-in and registration kiosk (pricing page)",
-    "online_booking": "Yes: classes, events and appointments; Reserve with Google, ClassPass and Wellhub integrations (pricing page)",
-    "rating": "unknown",
-    "sources": [
-      "https://www.wellnessliving.com/pricing/"
-    ],
-    "best_for": "Studios with several staff that want published prices, free data migration and a client app",
-    "starting_price": "$69/mo (Starter, 1 staff); $199/mo for unlimited staff",
-    "pros": [
-      "Prices published for three of four plans",
-      "Free data migration and onboarding",
-      "Annual billing saves 10%"
-    ],
-    "cons": [
-      "Starter plan is limited to one staff member",
-      "Card processing rates not published on the pricing page"
-    ],
-    "last_verified": "2026-11-04",
-    "autopay": "Yes: memberships and auto-pay billing (pricing page)",
-    "parent_portal": "Branded client web portal and Achieve client app (pricing page)"
-  },
-  {
-    "slug": "arketa",
-    "name": "Arketa",
-    "website": "https://www.arketa.com/",
-    "trades": [
-      "yoga",
-      "dance"
-    ],
-    "free_trial": "Yes: free trial on the Individual plan (length not stated); Studio plans by demo",
-    "contract": "No commitment; month to month unless you choose annual (pricing page FAQ)",
-    "plans": [
-      {
-        "name": "Individual",
-        "users": "1 team member login, 1 location",
-        "monthly_no_commit": "unknown",
-        "annual": "$49/mo billed annually (save 17%)"
-      },
-      {
-        "name": "Studio Core",
-        "users": "Unlimited team members, multiple rooms and locations, POS, payroll reporting",
-        "monthly_no_commit": "unknown (custom quote)",
-        "annual": "unknown"
-      },
-      {
-        "name": "Studio Growth",
-        "users": "Core + email/text campaigns, automations, lead pipeline",
-        "monthly_no_commit": "unknown (custom quote)",
-        "annual": "unknown"
-      },
-      {
-        "name": "Studio Suite",
-        "users": "Growth + custom branded iOS/Android app and branded website",
-        "monthly_no_commit": "unknown (custom quote)",
-        "annual": "unknown"
-      }
-    ],
-    "extra_user": "Individual: 1 login; Studio plans: unlimited team members",
-    "card_fee": "Stripe 2.9% + $0.30 (US); Individual plan adds a 3% transaction fee; Studio fees by negotiation",
-    "belt_tracking": "Not applicable (boutique fitness)",
-    "attendance": "Yes: check-in and waitlist management (pricing page)",
-    "online_booking": "Yes: booking app, embeddable widgets, classes, privates, events and on-demand video (pricing page)",
-    "rating": "unknown",
-    "sources": [
-      "https://www.arketa.com/pricing"
-    ],
-    "best_for": "Solo instructors and boutique yoga/pilates studios that also sell on-demand video",
-    "starting_price": "$49/mo billed annually (Individual)",
-    "pros": [
-      "Unlimited on-demand video storage on every plan",
-      "Month-to-month with no commitment",
-      "Full data export listed on every plan"
-    ],
-    "cons": [
-      "Individual plan charges a 3% transaction fee on top of Stripe",
-      "Studio plan prices are quote only"
-    ],
-    "last_verified": "2026-11-04",
-    "autopay": "Yes: memberships and recurring packages (pricing page)",
-    "parent_portal": "Client booking app (pricing page)"
-  },
-  {
-    "slug": "walla",
-    "name": "Walla",
-    "website": "https://www.hellowalla.com/",
-    "trades": [
-      "yoga",
-      "dance"
-    ],
-    "free_trial": "unknown",
-    "contract": "Several term lengths; price depends on the term chosen (pricing page FAQ)",
-    "plans": [
-      {
-        "name": "Core",
-        "users": "Unlimited users; retention tools, reporting, email/SMS, Book-a-Spot, on-demand video, payroll setup",
-        "monthly_no_commit": "$299/mo per location, billed monthly",
-        "annual": "unknown"
-      },
-      {
-        "name": "Pro",
-        "users": "Core + full marketing suite, branded studio app, two-way texting, lead tools",
-        "monthly_no_commit": "unknown (contact sales)",
-        "annual": "unknown"
-      }
-    ],
-    "extra_user": "Unlimited users on every plan; priced per location",
-    "card_fee": "unknown rate (cards migrate to Stripe); optional Walla Offset adds a 3.9% fee paid by clients; no Walla booking fees",
-    "belt_tracking": "Not applicable (boutique fitness)",
-    "attendance": "unknown",
-    "online_booking": "Yes: website widgets, Walla app, Book-a-Spot and waitlists (pricing page)",
-    "rating": "unknown",
-    "sources": [
-      "https://www.hellowalla.com/pricing"
-    ],
-    "best_for": "Boutique yoga, pilates and fitness studios with several instructors",
-    "starting_price": "$299/mo per location",
-    "pros": [
-      "Unlimited users on every plan",
-      "Walla says it adds no booking or first-time booking fees",
-      "Card migration to Stripe with paid onboarding tiers"
-    ],
-    "cons": [
-      "Highest published entry price on this page",
-      "Pro plan price not published"
-    ],
-    "last_verified": "2026-11-04",
-    "autopay": "Plans and intro offers with failed-payment reminders (pricing page)",
-    "parent_portal": "Walla client app (pricing page)"
-  },
-  {
-    "slug": "vagaro",
-    "name": "Vagaro",
-    "website": "https://www.vagaro.com/",
-    "trades": [
-      "yoga",
-      "dance"
-    ],
-    "free_trial": "Yes: 30 days (pricing page FAQ)",
-    "contract": "Cancel any time, no cancellation fees (pricing page)",
-    "plans": [
-      {
-        "name": "Base (1 bookable calendar)",
-        "users": "1 calendar; each extra bookable calendar $10/mo up to 7, then more staff at no extra cost",
-        "monthly_no_commit": "$30/mo ($23.99/mo for the first 6 months)",
-        "annual": "unknown"
-      }
-    ],
-    "extra_user": "$10/mo per extra bookable calendar (US), up to 7 licenses; more employees free after that",
-    "card_fee": "unknown (Vagaro Merchant Services rates not published on pricing page)",
-    "belt_tracking": "unknown",
-    "attendance": "unknown",
-    "online_booking": "Yes: booking widget, plus booking through Google, Apple Maps, Instagram and Facebook (pricing page)",
-    "rating": "unknown",
-    "sources": [
-      "https://www.vagaro.com/pro/pricing"
-    ],
-    "best_for": "Small appointment-and-class businesses that want a low monthly price",
-    "starting_price": "$30/mo for 1 calendar ($23.99 for first 6 months)",
-    "pros": [
-      "Lowest published entry price on this page",
-      "30-day free trial",
-      "No cancellation fees"
-    ],
-    "cons": [
-      "Price rises $10/mo per bookable calendar up to 7",
-      "Card processing rates not published on pricing page"
-    ],
-    "last_verified": "2026-11-04"
-  },
-  {
-    "slug": "trio",
-    "name": "Trio",
-    "website": "https://www.musicaltrio.com/",
-    "trades": [
-      "music"
-    ],
-    "free_trial": "Free plan, no card required (free forever)",
-    "contract": "unknown",
-    "plans": [
-      {
-        "name": "Free",
-        "users": "1 team member (the owner); up to 10 active students",
-        "monthly_no_commit": "$0",
-        "annual": "$0"
-      },
-      {
-        "name": "Pro",
-        "users": "Owner seat included; no student limit; additional seats $5/mo or $50/yr each",
-        "monthly_no_commit": "$5/mo",
-        "annual": "$50/yr"
-      },
-      {
-        "name": "Max",
-        "users": "Owner seat included; additional seats $5/mo or $50/yr each",
-        "monthly_no_commit": "$20/mo",
-        "annual": "$200/yr"
-      }
-    ],
-    "extra_user": "Free: owner only. Pro and Max: +$5/mo or $50/yr per additional seat (admins, teachers, staff)",
-    "card_fee": "Online payments (card, bank, Apple Pay, Google Pay, Cash App Pay) via Stripe on Pro and Max; Free is cash and check only; rates unknown",
-    "belt_tracking": "Not applicable (music lessons)",
-    "attendance": "unknown",
-    "online_booking": "unknown",
-    "rating": "unknown",
-    "sources": [
-      "https://www.musicaltrio.com/help/teacher/studio-management/trio-plans-and-pricing",
-      "https://www.musicaltrio.com/help/teacher/getting-started/adding-your-first-student"
-    ],
-    "best_for": "Solo teachers with up to 10 students who want a free plan with a parent portal",
-    "starting_price": "Free (up to 10 students); Pro $5/mo or $50/yr",
-    "pros": [
-      "Free forever for up to 10 active students, no card",
-      "Free plan includes scheduling, invoices and the parent portal",
-      "Pro removes the student limit for $5/mo"
-    ],
-    "cons": [
-      "Free plan takes cash and check payments only",
-      "Free plan has no team members beyond the owner"
-    ],
-    "last_verified": "2026-11-02",
-    "autopay": "Pro and Max only (online payments, automatic late fees); not on Free",
-    "parent_portal": "Yes: parent portal on all plans, including Free (help center)"
-  },
-  {
-    "slug": "nova-music",
-    "name": "Nova Music",
-    "website": "https://trynovamusic.com/",
-    "trades": [
-      "music"
-    ],
-    "free_trial": "Free plan (up to 10 students)",
-    "contract": "unknown",
-    "plans": [
-      {
-        "name": "Free",
-        "users": "Up to 10 students",
-        "monthly_no_commit": "$0",
-        "annual": "$0"
-      },
-      {
-        "name": "Pro",
-        "users": "Unlimited students",
-        "monthly_no_commit": "$10/mo",
-        "annual": "$100/yr"
-      }
-    ],
-    "extra_user": "unknown",
-    "card_fee": "unknown",
-    "belt_tracking": "Not applicable (music lessons)",
-    "attendance": "Basic attendance on Free (pricing page)",
-    "online_booking": "unknown",
-    "rating": "unknown",
-    "sources": [
-      "https://trynovamusic.com/pricing"
-    ],
-    "best_for": "Teachers with up to 10 students who want free scheduling, messaging and practice logging",
-    "starting_price": "Free (up to 10 students); Pro $10/mo or $100/yr",
-    "pros": [
-      "Free plan up to 10 students",
-      "Free includes scheduling, messaging, student portal and practice logging",
-      "Pro adds unlimited students and calendar sync"
-    ],
-    "cons": [
-      "Billing tools need Pro ($10/mo)",
-      "Free plan storage is 100 MB"
-    ],
-    "last_verified": "2026-11-02",
-    "autopay": "unknown",
-    "parent_portal": "Student portal on Free (pricing page); parent portal unknown"
-  },
-  {
-    "slug": "tutortally",
-    "name": "TutorTally",
-    "website": "https://tutortally.com/",
-    "trades": [
-      "music"
-    ],
-    "free_trial": "Free for 2 students with every feature, no time limit; monthly and yearly subscriptions start with a 7-day free trial",
-    "contract": "Pay once (lifetime) or subscribe monthly or yearly",
-    "plans": [
-      {
-        "name": "Free",
-        "users": "Up to 2 students, all features",
-        "monthly_no_commit": "$0",
-        "annual": "$0"
-      },
-      {
-        "name": "Pro Monthly / Annual",
-        "users": "More than 2 students",
-        "monthly_no_commit": "$9.99/mo",
-        "annual": "$49.99/yr"
-      },
-      {
-        "name": "Lifetime",
-        "users": "More than 2 students",
-        "monthly_no_commit": "$99.99 one time",
-        "annual": "n/a"
-      }
-    ],
-    "extra_user": "Single-teacher app; no per-student charges after upgrade",
-    "card_fee": "None: TutorTally never handles the money; invoices carry a 'How to pay' block so students pay you directly",
-    "belt_tracking": "Not applicable (music lessons)",
-    "attendance": "Yes: mark lessons done; lesson notes",
-    "online_booking": "unknown",
-    "rating": "unknown",
-    "sources": [
-      "https://tutortally.com/",
-      "https://apps.apple.com/app/id6756996116"
-    ],
-    "best_for": "Solo teachers who want an offline iPhone, iPad and Mac app and a one-time price",
-    "starting_price": "Free (2 students); $9.99/mo, $49.99/yr or $99.99 lifetime",
-    "pros": [
-      "Free for 2 students with every feature, no time limit",
-      "$99.99 one-time lifetime option",
-      "No account needed; data stays on your device (optional iCloud sync)"
-    ],
-    "cons": [
-      "No card processing: families pay you directly",
-      "Apple devices only: iPhone, iPad and Mac (App Store: Mac requires macOS 14.0 or later and a Mac with Apple M1 chip or later)"
-    ],
-    "last_verified": "2026-11-02",
-    "autopay": "No: TutorTally doesn't process payments",
-    "parent_portal": "No parent portal described; student data stays on the teacher's device"
-  },
-  {
-    "slug": "dojo-champ",
-    "name": "Dojo Champ",
-    "website": "https://dojochamp.com/",
-    "trades": [
-      "martial",
-      "bjj"
-    ],
-    "free_trial": "30 days; card required, first charge on day 31 if not cancelled (pricing page)",
-    "contract": "Cancel anytime; no setup fee; no long-term contract stated on pricing page",
-    "plans": [
-      {
-        "name": "All-Inclusive Platform",
-        "users": "Unlimited students; all 60+ features",
-        "monthly_no_commit": "$199/mo",
-        "annual": "No annual plan published"
-      }
-    ],
-    "extra_user": "Flat price; unlimited students; no per-student fees or feature tiers (pricing page)",
-    "card_fee": "Stripe standard rates (e.g. 2.9% + $0.30 card, 0.8% ACH capped at $5); no additional Dojo Champ platform fee (pricing page)",
-    "belt_tracking": "Yes: belt/rank progression tracking and curriculum management (pricing feature list)",
-    "attendance": "Yes: attendance tracking and kiosk mode for check-ins (pricing feature list)",
-    "online_booking": "Yes: online class and event registration; public website/landing pages (pricing feature list)",
-    "rating": "unknown",
-    "sources": [
-      "https://dojochamp.com/pricing",
-      "https://dojochamp.com/",
-      "https://dojochamp.com/martial-arts-school-software",
-      "https://dojochamp.com/mma-gym-software",
-      "https://dojochamp.com/directory/style/krav-maga"
-    ],
-    "best_for": "Martial arts schools that want one flat $199/mo price with unlimited students and AI churn alerts",
-    "starting_price": "$199/mo (unlimited students)",
-    "pros": [
-      "Flat $199/mo with unlimited students and all features on one plan",
-      "30-day free trial with no charge until day 31 if you cancel",
-      "Stripe processing at Stripe rates with no Dojo Champ platform markup"
-    ],
-    "cons": [
-      "Card required to start the trial",
-      "No annual plan published",
-      "Entry price higher than tiered options for very small schools"
-    ],
-    "last_verified": "2026-11-07",
-    "autopay": "Yes: recurring billing, failed-payment recovery, ACH and card via Stripe (pricing feature list)",
-    "parent_portal": "Member-facing public landing pages for calendars, products, memberships and events (homepage); native iOS and Android apps (vendor email Nov 4, 2026)"
-  }
+ {
+  "slug": "martialytics",
+  "name": "Martialytics",
+  "website": "https://www.martialytics.com/",
+  "trades": [
+   "martial",
+   "bjj"
+  ],
+  "free_trial": "30 days, no credit card",
+  "contract": "No lock-in contracts",
+  "plans": [
+   {
+    "name": "0-50 students",
+    "users": "Unlimited users",
+    "monthly_no_commit": "$69/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "51-100 students",
+    "users": "Unlimited users",
+    "monthly_no_commit": "$99/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "101-200 students",
+    "users": "Unlimited users",
+    "monthly_no_commit": "$129/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "200+ students",
+    "users": "Unlimited users",
+    "monthly_no_commit": "$199/mo",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Priced by active students; leads and inactive students free; unlimited users and locations",
+  "card_fee": "Standard Stripe rates, no markup or revenue % (per vendor)",
+  "belt_tracking": "Yes: grading-readiness tracking; student app lessons sectioned by rank (features page)",
+  "attendance": "Yes: engagement tracking, automatic absence follow-up, Kiosk Mode check-in app (features page, site nav)",
+  "online_booking": "Yes: bookings & events, calendar, capacity (features page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.martialytics.com/pricing",
+   "https://www.martialytics.com/features",
+   "https://www.martialytics.com/best-software-for-martial-arts/taekwondo-dojangs",
+   "https://www.martialytics.com/best-software-for-martial-arts/mma-gyms"
+  ],
+  "best_for": "Martial arts schools wanting every feature at a flat student-count price",
+  "starting_price": "$69/mo (0-50 students)",
+  "pros": [
+   "30-day free trial, no credit card",
+   "Every plan includes every feature",
+   "Unlimited users, locations and emails"
+  ],
+  "cons": [
+   "Price steps up with active student count",
+   "Annual pricing not published"
+  ],
+  "last_verified": "2026-11-07"
+ },
+ {
+  "slug": "gymdesk",
+  "name": "Gymdesk",
+  "website": "https://gymdesk.com/",
+  "trades": [
+   "martial",
+   "bjj",
+   "dance",
+   "yoga"
+  ],
+  "free_trial": "30 days, no credit card",
+  "contract": "Month to month, no setup or cancellation fee",
+  "plans": [
+   {
+    "name": "Micro Gym (≤50 active)",
+    "users": "Unlimited staff",
+    "monthly_no_commit": "$100/mo own processor; $75/mo with Gymdesk Payments",
+    "annual": "unknown"
+   },
+   {
+    "name": "Small Gym (51-100)",
+    "users": "Unlimited staff",
+    "monthly_no_commit": "$125/mo; $100/mo with Gymdesk Payments",
+    "annual": "unknown"
+   },
+   {
+    "name": "Medium Gym (101-150)",
+    "users": "Unlimited staff",
+    "monthly_no_commit": "$175/mo; $150/mo with Gymdesk Payments",
+    "annual": "unknown"
+   },
+   {
+    "name": "Large Gym (151-250)",
+    "users": "Unlimited staff",
+    "monthly_no_commit": "$240/mo; $200/mo with Gymdesk Payments",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Priced by active members; extra location $50/mo (Gymdesk Payments) or $100/mo (own processor)",
+  "card_fee": "Gymdesk Payments (US/Canada) rate: unknown",
+  "belt_tracking": "Yes: per-program rank progression; flags who's ready to promote (homepage FAQ)",
+  "attendance": "Yes: check-in by kiosk, name search, barcode or phone",
+  "online_booking": "Yes: members book classes from their phone",
+  "rating": "unknown",
+  "sources": [
+   "https://gymdesk.com/pricing",
+   "https://gymdesk.com/",
+   "https://gymdesk.com/features/members",
+   "https://gymdesk.com/blog/best-mma-gym-software",
+   "https://gymdesk.com/software/martial-arts",
+   "https://gymdesk.com/blog/different-types-of-martial-arts"
+  ],
+  "best_for": "Gyms and dojos that want a website included and can use Gymdesk Payments",
+  "starting_price": "$75/mo with Gymdesk Payments (≤50 members); $100/mo otherwise",
+  "pros": [
+   "30-day trial, no credit card",
+   "Unlimited staff and a gym website included",
+   "No contract, setup or exit fee"
+  ],
+  "cons": [
+   "$25/mo more without Gymdesk Payments",
+   "Door access ($100/mo) and branded app ($100/mo) are add-ons"
+  ],
+  "last_verified": "2026-11-07"
+ },
+ {
+  "slug": "kicksite",
+  "name": "Kicksite",
+  "website": "https://www.kicksite.com/",
+  "trades": [
+   "martial",
+   "bjj"
+  ],
+  "free_trial": "First 30 days free (pricing and switch pages)",
+  "contract": "Recurring charges until you cancel; annual plans auto-renew every 12 months and aren't refunded if cancelled early (terms of use); discounted annual pricing on request",
+  "plans": [
+   {
+    "name": "0-25 students",
+    "users": "unknown",
+    "monthly_no_commit": "$49/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "26-50 students",
+    "users": "unknown",
+    "monthly_no_commit": "$99/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "51-100 students",
+    "users": "unknown",
+    "monthly_no_commit": "$149/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "101+ students",
+    "users": "unknown",
+    "monthly_no_commit": "$199/mo",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Priced by active students; all features at every tier",
+  "card_fee": "US: preferred partner Basys, flat rate $29/mo + 2.9% + $0.25 per card transaction (card + ACH option: $35 setup, $49/mo, 2.9% + $0.25 card, $0.30 ACH); international: Stripe (payment-processing page)",
+  "belt_tracking": "Yes: attendance and belt tracking, promote with one click",
+  "attendance": "Yes: kiosk check-in by name, PIN or member-portal barcode; check-in restrictions for past-due balances (FAQ, attendance page)",
+  "online_booking": "Yes: students register for classes and events in the Member Portal mobile web app (FAQ)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.kicksite.com/pricing",
+   "https://kicksite.com/payment-processing/",
+   "https://kicksite.com/faq/",
+   "https://kicksite.com/martial-arts-attendance-tracking-software/",
+   "https://kicksite.com/switch/",
+   "https://kicksite.com/terms/",
+   "https://kicksite.com/taekwondo-school-software/",
+   "https://kicksite.com/mma-gym-software/",
+   "https://kicksite.com/krav-maga-gym-software/",
+   "https://kicksite.com/pricing/"
+  ],
+  "best_for": "Small martial arts schools under 25 students",
+  "starting_price": "$49/mo (0-25 students)",
+  "pros": [
+   "Lowest published entry tier here ($49/mo, 0-25 students)",
+   "First 30 days free, free data import and 60 days of onboarding",
+   "Free unlimited one-way texting"
+  ],
+  "cons": [
+   "Annual pricing not published (ask for discount at demo)",
+   "Basys flat rate adds $29/mo on top of per-transaction fees"
+  ],
+  "last_verified": "2026-11-07"
+ },
+ {
+  "slug": "zen-planner",
+  "name": "Zen Planner",
+  "website": "https://zenplanner.com/",
+  "trades": [
+   "martial",
+   "bjj",
+   "yoga",
+   "dance"
+  ],
+  "free_trial": "unknown",
+  "contract": "Month-to-month; annual contract on request",
+  "plans": [
+   {
+    "name": "Studio",
+    "users": "Staff not charged",
+    "monthly_no_commit": "From $99/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "Essentials (Studio + website)",
+    "users": "Staff not charged",
+    "monthly_no_commit": "$198/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "Ultimate (Studio + Engage marketing)",
+    "users": "Staff not charged",
+    "monthly_no_commit": "$348/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "New Business Bundle (Essentials + custom website + branded member app)",
+    "users": "Staff not charged",
+    "monthly_no_commit": "From $199/mo",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Priced by active members (prospects and staff not counted)",
+  "card_fee": "Daxko Payments or preferred processors; rates unknown",
+  "belt_tracking": "Yes: belt and skill tracking listed",
+  "attendance": "Yes",
+  "online_booking": "Yes: online class scheduling with waitlists, capacity limits and automatic reminders; members book online or from the app (membership-management feature page)",
+  "rating": "unknown",
+  "sources": [
+   "https://zenplanner.com/pricing/",
+   "https://www.zenplanner.com/solutions/taekwondo-school-software",
+   "https://www.zenplanner.com/pricing/active-member-tiers",
+   "https://www.zenplanner.com/features/membership-management-software",
+   "https://www.zenplanner.com/solutions/mma-gym-software",
+   "https://www.zenplanner.com/solutions/muay-thai-gym-software",
+   "https://www.zenplanner.com/solutions/krav-maga-academy-software"
+  ],
+  "best_for": "Gyms and studios wanting belt tracking plus payroll and member app",
+  "starting_price": "From $99/mo (Studio)",
+  "pros": [
+   "Belt and skill tracking listed",
+   "Month-to-month by default",
+   "Staff and member mobile apps included"
+  ],
+  "cons": [
+   "Final price depends on active member count (not published)",
+   "Branded app and card readers $39/mo each"
+  ],
+  "last_verified": "2026-11-07"
+ },
+ {
+  "slug": "spark-membership",
+  "name": "Spark Membership",
+  "website": "https://sparkmembership.com/",
+  "trades": [
+   "martial",
+   "bjj"
+  ],
+  "free_trial": "8 weeks",
+  "contract": "Service term set in your Order Form; auto-renews for the same term or 1 year (whichever is shorter) unless you give 30 days' notice; no termination for convenience mid-term (Terms & Conditions 9.1-9.2)",
+  "plans": [
+   {
+    "name": "Spark (promo)",
+    "users": "unknown",
+    "monthly_no_commit": "$199/mo after trial",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Full access to every feature; setup by account rep; free data migration",
+  "card_fee": "Spark Payments (rates not published); supports automatic credit-card surcharging capped at your actual rate, or dual pricing, where legal",
+  "belt_tracking": "Yes: rank history, per-rank requirements, test-eligibility from attendance, mass rank promote, certificates",
+  "attendance": "Yes: attendance trends",
+  "online_booking": "Yes: members book and pay in the free Spark Member App (iOS/Android)",
+  "rating": "unknown",
+  "sources": [
+   "https://sparkmembership.com/pricing/",
+   "https://sparkmembership.com/terms-and-conditions",
+   "https://sparkmembership.com/platform/spark-payments",
+   "https://sparkmembership.com/app",
+   "https://sparkmembership.com/martial-arts-belt-tracking-software",
+   "https://sparkmembership.com/uses/taekwondo-school-software",
+   "https://sparkmembership.com/uses/mma-gym-software",
+   "https://sparkmembership.com/uses/muay-thai-gym-software",
+   "https://sparkmembership.com/uses/krav-maga-gym-software"
+  ],
+  "best_for": "Martial arts schools wanting done-for-you setup and automations",
+  "starting_price": "$199/mo after 8-week trial",
+  "pros": [
+   "8-week free trial",
+   "Free student data migration",
+   "Belt history and family accounts"
+  ],
+  "cons": [
+   "Single published price, no small-school tier",
+   "No cancelling for convenience mid-term; auto-renews unless 30 days' notice",
+   "Spark Payments rates not published"
+  ],
+  "last_verified": "2026-11-07"
+ },
+ {
+  "slug": "mass",
+  "name": "MASS",
+  "website": "https://www.mass-system.com/",
+  "trades": [
+   "martial",
+   "bjj"
+  ],
+  "free_trial": "14 days, no credit card (homepage); terms say payment method required",
+  "contract": "No contracts, monthly or annual",
+  "plans": [
+   {
+    "name": "Starter / Growth / Pro",
+    "users": "unknown",
+    "monthly_no_commit": "unknown (pricing page requires sign-in)",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Priced by active students",
+  "card_fee": "2% platform fee on student payments processed through MASS (Terms 3.7), plus Stripe",
+  "belt_tracking": "Yes: grading readiness score per student; one-click grading certificates (homepage)",
+  "attendance": "Yes: attendance tracking (Terms)",
+  "online_booking": "Class scheduling (Terms)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.mass-system.com/",
+   "https://www.mass-system.com/TermsOfService"
+  ],
+  "best_for": "AI-assisted admin for small martial arts clubs (Australia-based)",
+  "starting_price": "unknown",
+  "pros": [
+   "14-day free trial",
+   "No contracts",
+   "Free club directory listing"
+  ],
+  "cons": [
+   "Prices not public",
+   "2% platform fee on processed payments"
+  ],
+  "last_verified": "2026-10-22"
+ },
+ {
+  "slug": "mindbody",
+  "name": "Mindbody",
+  "website": "https://www.mindbodyonline.com/business",
+  "trades": [
+   "yoga",
+   "dance",
+   "martial"
+  ],
+  "free_trial": "unknown",
+  "contract": "Depends on plan, billing terms and any promotion (pricing page FAQ); no onboarding fee on any plan",
+  "plans": [
+   {
+    "name": "Starter",
+    "users": "Unlimited users per location; booking, integrated payments, branded widgets, website, Mindbody app listing, basic reporting",
+    "monthly_no_commit": "From $79/mo per location",
+    "annual": "unknown"
+   },
+   {
+    "name": "Accelerate",
+    "users": "Unlimited users; adds advanced reporting, room/resource management, Pick-a-Spot, promo codes",
+    "monthly_no_commit": "unknown",
+    "annual": "unknown"
+   },
+   {
+    "name": "Ultimate",
+    "users": "Unlimited users; adds automated email/text marketing, lead pipeline, AI Concierge",
+    "monthly_no_commit": "unknown",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Per location; unlimited users",
+  "card_fee": "Mindbody Payments optional: rate (varies by card type) + $0.10-$0.30 per transaction; third-party processors allowed; 20% fee (capped $30) on the first purchase of a new client who finds you through the Mindbody app",
+  "belt_tracking": "unknown (not listed on pricing page)",
+  "attendance": "unknown",
+  "online_booking": "Yes: self-serve booking, branded website widgets, Mindbody app listing; Pick-a-Spot on Accelerate and Ultimate",
+  "rating": "unknown",
+  "sources": [
+   "https://www.mindbodyonline.com/business/pricing",
+   "https://www.mindbodyonline.com/business/payments",
+   "https://www.mindbodyonline.com/business/marketplace"
+  ],
+  "best_for": "Yoga, dance and fitness studios wanting a consumer marketplace",
+  "starting_price": "From $79/mo per location (Starter)",
+  "pros": [
+   "Unlimited users per location",
+   "Listing on Mindbody app",
+   "No onboarding fee"
+  ],
+  "cons": [
+   "Only the entry price is published",
+   "App bookings from new clients carry a 20% fee (capped $30)"
+  ],
+  "last_verified": "2026-11-04"
+ },
+ {
+  "slug": "my-music-staff",
+  "name": "My Music Staff",
+  "website": "https://www.mymusicstaff.com/",
+  "trades": [
+   "music"
+  ],
+  "free_trial": "30 days, full access, no credit card; 90-day money-back guarantee",
+  "contract": "No contracts; cancel anytime",
+  "plans": [
+   {
+    "name": "All features",
+    "users": "1 teacher (you); +$4.95/mo per additional teacher or staff member",
+    "monthly_no_commit": "$16.95/mo",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Flat price, unlimited students; +$4.95/mo per additional teacher or staff member",
+  "card_fee": "Payments via Stripe or PayPal integrations; processing rates unknown",
+  "belt_tracking": "Not applicable (music lessons)",
+  "attendance": "Yes: attendance tracking, lesson reminders, rescheduling, cancellations (pricing page)",
+  "online_booking": "Yes: optional student self-service scheduling and online registration (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.mymusicstaff.com/pricing/"
+  ],
+  "best_for": "Solo teachers and multi-teacher studios wanting an all-in-one tool with a website builder",
+  "starting_price": "$16.95/mo",
+  "pros": [
+   "30-day free trial, no credit card, plus 90-day money-back guarantee",
+   "Unlimited students and SMS reminders included",
+   "Website builder with free hosting"
+  ],
+  "cons": [
+   "Each extra teacher or staff member adds $4.95/mo",
+   "Annual price not published"
+  ],
+  "last_verified": "2026-10-25",
+  "autopay": "Yes: automatic invoicing, online payments, late fee automation (pricing page)",
+  "parent_portal": "Yes: student portal with self-service scheduling, lesson notes, payment history (pricing page)"
+ },
+ {
+  "slug": "fons",
+  "name": "Fons (MakeMusic Studio)",
+  "website": "https://www.studio.makemusic.com/",
+  "trades": [
+   "music"
+  ],
+  "free_trial": "14 days (pricing page, checked 2026-11-02)",
+  "contract": "No minimum term or contract; cancel anytime",
+  "plans": [
+   {
+    "name": "MakeMusic Studio (formerly Fons)",
+    "users": "$19.95/mo, +$4.95/mo per additional teacher or admin staff (pricing page, checked 2026-11-02)",
+    "monthly_no_commit": "$19.95/mo",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "+$4.95/mo per additional teacher or admin staff; unlimited students for the same flat fee (checked 2026-11-02)",
+  "card_fee": "2.9% + $0.30 per card charge (+1% international); 1.8% per ACH charge; 0.4% of subscription volume",
+  "belt_tracking": "Not applicable (music lessons)",
+  "attendance": "Yes: tracking cancellations (pricing page); attendance details unknown",
+  "online_booking": "Yes: booking and re-booking (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.studio.makemusic.com/pricing/"
+  ],
+  "best_for": "Teachers who want automatic payments instead of manual invoicing",
+  "starting_price": "$19.95/mo",
+  "pros": [
+   "Automatic payments with flexible billing options",
+   "No client or appointment limits",
+   "Card, ACH and subscription fees published"
+  ],
+  "cons": [
+   "Each additional staff member adds $4.95/mo",
+   "Annual price and parent portal details not published"
+  ],
+  "last_verified": "2026-11-02",
+  "autopay": "Yes: automatic payments with flexible billing (pricing page)",
+  "parent_portal": "unknown"
+ },
+ {
+  "slug": "duet",
+  "name": "Duet",
+  "website": "https://www.duetpartner.com/",
+  "trades": [
+   "music"
+  ],
+  "free_trial": "30 days (Duet blog)",
+  "contract": "Monthly or annual; cancellation terms unknown",
+  "plans": [
+   {
+    "name": "Monthly",
+    "users": "All features, any studio size",
+    "monthly_no_commit": "$9/mo",
+    "annual": "$99/yr"
+   }
+  ],
+  "extra_user": "Flat rate regardless of studio size; families pay a 1% transaction fee on digital payments",
+  "card_fee": "Families pay 1% Duet fee on statements; card payments also pay 2.9% processing (Stripe), ACH has no card fee (Duet blog)",
+  "belt_tracking": "Not applicable (music lessons)",
+  "attendance": "Yes: attendance records on the Daily Dashboard (pricing page)",
+  "online_booking": "Yes: students schedule or reschedule their own lessons by phone; Smart Scheduler builds season schedules (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.duetpartner.com/pricing",
+   "https://www.duetpartner.com/blog/more-details-about-how-duet-is-keeping-money-in-your-pocket"
+  ],
+  "best_for": "Independent teachers who want the lowest flat subscription",
+  "starting_price": "$9/mo ($99/yr)",
+  "pros": [
+   "Lowest flat subscription we found: $9/mo or $99/yr",
+   "Card, Apple Pay, Google Pay and ACH payments",
+   "Smart Scheduler builds a season schedule from parent availability"
+  ],
+  "cons": [
+   "Families pay a 1% transaction fee on digital payments",
+   "Card payments also carry 2.9% processing",
+   "Pricing page promos and copyright date are from 2024; we couldn't confirm the product is still actively updated"
+  ],
+  "last_verified": "2026-11-02",
+  "autopay": "Yes: tracks what families owe; statements sent by text link; direct deposit (pricing page)",
+  "parent_portal": "No login needed: statements by text link; students self-schedule from their phones (pricing page). Full portal unknown"
+ },
+ {
+  "slug": "mysymphony",
+  "name": "mySymphony",
+  "website": "https://www.mysymphony.net/",
+  "trades": [
+   "music"
+  ],
+  "free_trial": "30 days, all features, no credit card",
+  "contract": "Solo: no subscription, pay per booked lesson (capped at $20/mo). Ensemble: monthly per-teacher subscription, no contracts on add-ons",
+  "plans": [
+   {
+    "name": "Solo",
+    "users": "1 teacher; up to 100 active students; unlimited emails + 50 SMS/mo",
+    "monthly_no_commit": "$0.25 per booked lesson, capped at $20/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "Ensemble",
+    "users": "Multi-teacher; unlimited active students and locations",
+    "monthly_no_commit": "$15/mo first teacher, +$5/mo per additional teacher (up to 50), +$3/mo after that",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Solo: $0.25 per booked lesson, capped at $20/mo (1 teacher, up to 100 active students). Ensemble: +$5/mo per additional teacher up to 50, then +$3/mo",
+  "card_fee": "Integrated payment processing; rates unknown",
+  "belt_tracking": "Not applicable (music lessons)",
+  "attendance": "unknown",
+  "online_booking": "Yes: student self-rescheduling and self-booking (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.mysymphony.net/pricing"
+  ],
+  "best_for": "Part-time teachers who want to pay only when they teach, and multi-teacher studios on a per-teacher plan",
+  "starting_price": "$0.25 per booked lesson (Solo, capped at $20/mo); Ensemble $15/mo first teacher",
+  "pros": [
+   "Solo: $0.25 per booked lesson, never more than $20/mo",
+   "Ensemble: $15/mo first teacher + $5 per added teacher, unlimited students",
+   "30-day free trial, no credit card"
+  ],
+  "cons": [
+   "Solo Plan capped at 100 active students and 50 SMS/mo",
+   "Add-on prices (Grid View, Practice Dashboard, AI Front Desk) not published"
+  ],
+  "last_verified": "2026-11-02",
+  "autopay": "Yes: automated invoicing and billing (pricing page)",
+  "parent_portal": "Yes: basic student dashboard (pricing page)",
+  "add_ons": "Grid View, Student Practice Dashboard (metronome, tuner, practice tracking), AI Front Desk (AI call answering, prepaid minute packs); month to month, prices not published (unknown)"
+ },
+ {
+  "slug": "teach-n-go",
+  "name": "Teach 'n Go",
+  "website": "https://www.teachngo.com/",
+  "trades": [
+   "music"
+  ],
+  "free_trial": "14 days, no credit card; 30-day money-back guarantee",
+  "contract": "Cancel anytime; annual billing gets two months free",
+  "plans": [
+   {
+    "name": "Teach 'n Go, up to 100 live students",
+    "users": "3 admin users, unlimited teachers, 1 location",
+    "monthly_no_commit": "$79/mo",
+    "annual": "Two months free"
+   },
+   {
+    "name": "Teach 'n Go Pro, up to 100 live students",
+    "users": "Unlimited admins and locations",
+    "monthly_no_commit": "$109/mo",
+    "annual": "Two months free"
+   },
+   {
+    "name": "Teach 'n Go, up to 200 live students",
+    "users": "3 admin users, unlimited teachers",
+    "monthly_no_commit": "$99/mo",
+    "annual": "Two months free"
+   },
+   {
+    "name": "Teach 'n Go, up to 300 live students",
+    "users": "3 admin users, unlimited teachers",
+    "monthly_no_commit": "$129/mo",
+    "annual": "Two months free"
+   }
+  ],
+  "extra_user": "Priced by live students (bands up to 2,000); USD list prices",
+  "card_fee": "unknown",
+  "belt_tracking": "Not applicable (music lessons)",
+  "attendance": "Yes: scheduling, attendance and invoicing (pricing page)",
+  "online_booking": "Yes: online booking (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.teachngo.com/pricing"
+  ],
+  "best_for": "Multi-teacher music schools with group classes and several staff",
+  "starting_price": "$79/mo (up to 100 live students)",
+  "pros": [
+   "Student, parent and teacher portals on every plan",
+   "Unlimited teachers and classes",
+   "14-day free trial, no credit card"
+  ],
+  "cons": [
+   "Highest starting price of the tools we compared",
+   "Payment processing fees not published"
+  ],
+  "last_verified": "2026-10-25",
+  "autopay": "Invoicing and fee tracking (pricing page); automatic recurring card payments unknown",
+  "parent_portal": "Yes: student, parent and teacher portals (pricing page)"
+ },
+ {
+  "slug": "mariana-tek",
+  "name": "Mariana Tek",
+  "website": "https://www.marianatek.com/",
+  "trades": [
+   "yoga"
+  ],
+  "free_trial": "unknown (not published; vendor offers an intro call/demo)",
+  "contract": "unknown (not published)",
+  "plans": [
+   {
+    "name": "Core",
+    "users": "Single locations getting started: platform + custom-branded iOS/Android apps, Biz App, kiosk check-in, waivers and forms",
+    "monthly_no_commit": "unknown (quote only)",
+    "annual": "unknown"
+   },
+   {
+    "name": "Core + Growth (most popular)",
+    "users": "Everything in Core + marketing automation (email/SMS), two-way texting, landing pages and forms",
+    "monthly_no_commit": "unknown (quote only)",
+    "annual": "unknown"
+   },
+   {
+    "name": "Full Growth Bundle",
+    "users": "Everything in Core + Growth + gamification, feedback suite, custom marketing plan",
+    "monthly_no_commit": "unknown (quote only)",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Unlimited class schedule and instructors on every plan; multi-location management from one login (pricing page)",
+  "card_fee": "Stripe processing at Stripe's standard flat rate; Mariana Tek says it adds nothing on top (pricing page FAQ). Exact rate not stated",
+  "belt_tracking": "Not applicable (boutique fitness)",
+  "attendance": "Yes: kiosk check-in; class rosters and waitlists (pricing page, homepage)",
+  "online_booking": "Yes: branded app booking; pick-a-spot with custom floor plans for reformers, megaformers and bikes (homepage)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.marianatek.com/pricing",
+   "https://www.marianatek.com/"
+  ],
+  "best_for": "Boutique fitness studios (pilates, yoga, barre, cycling, HIIT, boxing) wanting a branded app",
+  "starting_price": "Not published (quote only)",
+  "pros": [
+   "Custom-branded iOS and Android apps on every plan, from Core up",
+   "Pick-a-spot with custom floor plans for reformers, megaformers and bikes",
+   "Stripe processing at Stripe's standard rate with no Mariana Tek markup"
+  ],
+  "cons": [
+   "No prices published; you must book an intro call",
+   "Onboarding typically takes five to eight weeks",
+   "Marketing automation and two-way texting need Core + Growth or above"
+  ],
+  "last_verified": "2026-11-04",
+  "who_html": "<p>Mariana Tek describes itself as software for boutique fitness studios that want a high-end, branded customer experience, from single-location studios to global brands and franchises. Its customers run group classes including pilates (Lagree, Megaformer and mat), yoga, barre, indoor cycling, HIIT and boxing. Mariana Tek says typical onboarding takes five to eight weeks with dedicated onboarding specialists and a demo environment. Every plan includes multi-location management, unlimited classes and instructors, intro offers, packs and memberships, CRM, reporting, kiosk check-in, digital waivers and transactional emails.</p>",
+  "compare_html": "<p><a href=\"/tools/mindbody/\">Mindbody</a> publishes an entry price (from $79/mo per location) and lists studios on its consumer app, with a 20% fee (capped at $30) on new clients' first app purchase. Mariana Tek publishes no prices and focuses on your own branded app instead of a marketplace. <a href=\"/tools/zen-planner/\">Zen Planner</a> (from $99/mo) and <a href=\"/tools/gymdesk/\">Gymdesk</a> (from $75/mo) publish prices and suit membership gyms and martial arts schools; Mariana Tek is aimed at boutique class studios with features like pick-a-spot floor plans for reformers and bikes. See also <a href=\"/studios/yoga/\">yoga studio tools</a> and <a href=\"/best-dance-studio-software/\">dance and yoga studio software compared</a>.</p>"
+ },
+ {
+  "slug": "studio-helper",
+  "name": "Studio Helper",
+  "website": "https://studiohelper.com/",
+  "trades": [
+   "music",
+   "dance"
+  ],
+  "free_trial": "30-day free trial (pricing page)",
+  "contract": "unknown (not published)",
+  "plans": [
+   {
+    "name": "Single plan (all features)",
+    "users": "All features included; priced per student",
+    "monthly_no_commit": "USD $50/mo + $0.25 per student",
+    "annual": "unknown (not published)"
+   }
+  ],
+  "extra_user": "$50/mo base + 25 cents per student; teacher/staff pricing not stated separately (pricing page)",
+  "card_fee": "Online invoicing and payments (features page); processor and rates unknown (not published)",
+  "belt_tracking": "Not applicable; instructors can update student skills and alert parents when new skills are mastered (homepage)",
+  "attendance": "Yes: reminders and attendance tracking (homepage, features page)",
+  "online_booking": "Yes: real-time calendar where students, teachers and staff can see and book lessons and events; can integrate into your website to show availability (homepage)",
+  "rating": "unknown",
+  "sources": [
+   "https://studiohelper.com/pricing",
+   "https://studiohelper.com/",
+   "https://studiohelper.com/features"
+  ],
+  "best_for": "Teaching studios with several teachers (music, dance, yoga, martial arts) wanting scheduling, billing and payroll in one",
+  "starting_price": "$50/mo + $0.25 per student",
+  "pros": [
+   "One plan with all features included",
+   "Payroll, expenses and inventory tracking built in",
+   "Room and teacher scheduling with reminders and attendance"
+  ],
+  "cons": [
+   "$50/mo base is higher than the flat price of most music-only tools we list",
+   "Payment processing rates are not published",
+   "Contract and cancellation terms are not published"
+  ],
+  "last_verified": "2026-10-26",
+  "who_html": "<p>Studio Helper describes itself as studio management software for music studios, yoga studios, dance studios, martial arts dojos and other teaching studios (music, dance, fitness, sports, martial arts). The testimonials on its homepage come mostly from music teaching businesses, including a studio with 5 teachers and more than 100 students. Features it lists: a real-time calendar for students, teachers and staff with room and teacher scheduling, reminders and attendance tracking; online invoicing and payments; payroll, expense and inventory tracking; built-in reports for key metrics and tax returns; permissions per role; student skill updates with parent alerts; mass email messaging; to-do assignments; and embedding into your existing website to show availability.</p>",
+  "compare_html": "<p>For a solo music teacher, flat-priced tools cost less on paper: <a href=\"/tools/duet/\">Duet</a> ($9/mo), <a href=\"/tools/my-music-staff/\">My Music Staff</a> ($16.95/mo plus $4.95 per extra teacher) and <a href=\"/tools/fons/\">Fons</a> ($19.95/mo). At Studio Helper's published rate, 40 students works out to $60/mo and 100 students to $75/mo. <a href=\"/tools/teach-n-go/\">Teach 'n Go</a> is $79/mo for up to 100 live students, so the two are close for a mid-size multi-teacher studio; Studio Helper adds payroll, expense and inventory tracking. <a href=\"/tools/mysymphony/\">mySymphony</a> charges $0.25 per booked lesson rather than per student. See <a href=\"/best-music-lesson-studio-software/\">music lesson studio software compared</a>, <a href=\"/studios/music-lessons/\">all music lesson studio tools</a> and <a href=\"/best-dance-studio-software/\">dance studio software</a>.</p>"
+ },
+ {
+  "slug": "pushpress",
+  "name": "PushPress",
+  "website": "https://www.pushpress.com/",
+  "trades": [
+   "martial"
+  ],
+  "free_trial": "unknown (Free plan has no monthly fee)",
+  "contract": "unknown",
+  "plans": [
+   {
+    "name": "Free",
+    "users": "Unlimited members, staff and admins",
+    "monthly_no_commit": "$0 (card 4.99% + $0.30; ACH 2.89% + $0.30)",
+    "annual": "unknown"
+   },
+   {
+    "name": "Pro",
+    "users": "Unlimited members, staff and admins",
+    "monthly_no_commit": "$159/mo (card 2.89% + $0.30; ACH 0.79% + $0.30)",
+    "annual": "unknown"
+   },
+   {
+    "name": "Max",
+    "users": "Unlimited members, staff and admins",
+    "monthly_no_commit": "$229/mo (card 2.75% + $0.30; ACH 0.79% + $0.30)",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Flat plan price; unlimited members and staff on every plan; prices in USD (contact sales for international)",
+  "card_fee": "Free: 4.99% + $0.30 card, 2.89% + $0.30 ACH; Pro: 2.89% + $0.30 card, 0.79% + $0.30 ACH; Max: 2.75% + $0.30 card, 0.79% + $0.30 ACH",
+  "belt_tracking": "Yes: Rank Tracking for martial arts academies (pricing page); which plans include it: unknown",
+  "attendance": "Yes: check-ins, kiosk mode and attendance tracking (pricing page)",
+  "online_booking": "Yes: members app class registration, waitlists, appointments (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.pushpress.com/pricing"
+  ],
+  "best_for": "Small schools that want $0/mo software and accept a higher card rate",
+  "starting_price": "$0/mo (Free plan)",
+  "pros": [
+   "Free plan with no monthly fee",
+   "Unlimited members and staff on every plan",
+   "Rank Tracking and invite-only events for belt tests listed"
+  ],
+  "cons": [
+   "Free plan card rate is 4.99% + $0.30",
+   "Trial and contract terms not published on pricing page"
+  ],
+  "last_verified": "2026-10-26",
+  "autopay": "Yes: pro-rated recurring billing (pricing page)",
+  "parent_portal": "Members app for booking, purchases and profile updates (pricing page)"
+ },
+ {
+  "slug": "recess",
+  "name": "Recess",
+  "website": "https://www.recess.tv/",
+  "trades": [
+   "martial"
+  ],
+  "free_trial": "Not applicable (free; no monthly fee)",
+  "contract": "No setup fee, contract or minimum (features page)",
+  "plans": [
+   {
+    "name": "Recess (one plan)",
+    "users": "Unlimited staff logins",
+    "monthly_no_commit": "$0/mo for the studio",
+    "annual": "Not applicable"
+   }
+  ],
+  "extra_user": "$0 per month per location; members pay a service fee of about 5% at checkout, which covers card and bank processing; cash or cheque payments carry no fee",
+  "card_fee": "Member-paid service fee of about 5% at checkout; processing covered by Recess out of that fee (pricing page)",
+  "belt_tracking": "Yes: belts, stripes and testing on a ladder you define (pricing and martial arts pages)",
+  "attendance": "unknown (not detailed on pricing page)",
+  "online_booking": "Yes: classes, appointments, courses, waitlists; branded app (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.recess.tv/pricing",
+   "https://www.recess.tv/martial-arts-school-software",
+   "https://www.recess.tv/features"
+  ],
+  "best_for": "Schools willing to pass a ~5% checkout fee to families instead of paying a subscription",
+  "starting_price": "$0/mo (members pay ~5% at checkout)",
+  "pros": [
+   "No monthly, setup or add-on fees; one plan",
+   "Belts, stripes, testing and family accounts included",
+   "Branded app and unlimited texting included"
+  ],
+  "cons": [
+   "Members pay about 5% on every checkout payment",
+   "Exact fee is described as 'about 5%', not a fixed published rate"
+  ],
+  "last_verified": "2026-10-26",
+  "autopay": "Yes: memberships with automatic retry of failed payments (pricing page)",
+  "parent_portal": "Family accounts: several children under one payer and one login (pricing page)"
+ },
+ {
+  "slug": "rhinofit",
+  "name": "RhinoFit",
+  "website": "https://www.rhinofit.ca/",
+  "trades": [
+   "martial"
+  ],
+  "free_trial": "30 days, no credit card",
+  "contract": "No contract; cancel anytime by phone (pricing page)",
+  "plans": [
+   {
+    "name": "Start Up",
+    "users": "20 or fewer active users/month; US/Canada also ≤$2,500/mo in payments",
+    "monthly_no_commit": "$0/mo (may restrict communications and payment processing)",
+    "annual": "unknown"
+   },
+   {
+    "name": "Standard",
+    "users": "No member limits",
+    "monthly_no_commit": "$57/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "24/7 Access",
+    "users": "No member limits",
+    "monthly_no_commit": "$99/mo promo (listed $149); door hardware sold separately",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Flat price, no member limits (Standard); Start Up is free only at 20 or fewer active users",
+  "card_fee": "unknown (Automated Payment Processing listed on Standard; rates not published on pricing page)",
+  "belt_tracking": "Yes: Belt & Progression Tracking on all plans (pricing page)",
+  "attendance": "Yes: check-in, reserve and attend; tablet kiosk (pricing page)",
+  "online_booking": "Yes: class and appointment scheduling; mobile app (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.rhinofit.ca/pricing"
+  ],
+  "best_for": "Very small or new schools (20 or fewer active students) and flat-price buyers",
+  "starting_price": "$0/mo (Start Up, ≤20 active users); $57/mo Standard",
+  "pros": [
+   "Free Start Up tier for 20 or fewer active users",
+   "Flat $57/mo Standard with no member limits",
+   "30-day trial with no credit card"
+  ],
+  "cons": [
+   "Free tier may have restricted or no payment processing and communications",
+   "Payment processing rates not published"
+  ],
+  "last_verified": "2026-11-03",
+  "autopay": "Standard: Automated Payment Processing (pricing page)",
+  "parent_portal": "unknown"
+ },
+ {
+  "slug": "wellnessliving",
+  "name": "WellnessLiving",
+  "website": "https://www.wellnessliving.com/",
+  "trades": [
+   "yoga",
+   "dance",
+   "martial"
+  ],
+  "free_trial": "unknown (demo offered)",
+  "contract": "Monthly or annual billing (annual saves 10%); change plans any time; as of Nov 1, 2026 the pricing page shows 80% off the first 2 months of Business and BusinessPro (pricing page)",
+  "plans": [
+   {
+    "name": "Starter",
+    "users": "One staff member; classes and appointments booking, client and staff apps, POS, email/SMS notifications",
+    "monthly_no_commit": "$69/mo",
+    "annual": "$62/mo billed annually"
+   },
+   {
+    "name": "Business",
+    "users": "Unlimited staff; adds rewards, events, email and text marketing, lead management",
+    "monthly_no_commit": "$199/mo",
+    "annual": "$179/mo billed annually"
+   },
+   {
+    "name": "BusinessPro",
+    "users": "Unlimited staff; adds white-label client app",
+    "monthly_no_commit": "$349/mo",
+    "annual": "$314/mo billed annually"
+   },
+   {
+    "name": "Enterprise",
+    "users": "Multi-location: HQ account, cross-location visits, multi-location reporting",
+    "monthly_no_commit": "unknown (call for price)",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Starter is limited to 1 staff member; Business and above include unlimited staff; API access $19/mo on all plans",
+  "card_fee": "unknown (processing included; rates not published on pricing page)",
+  "belt_tracking": "Belt Progress Tracking listed in the pricing page feature comparison",
+  "attendance": "Yes: client self check-in and registration kiosk (pricing page)",
+  "online_booking": "Yes: classes, events and appointments; Reserve with Google, ClassPass and Wellhub integrations (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.wellnessliving.com/pricing/"
+  ],
+  "best_for": "Studios with several staff that want published prices, free data migration and a client app",
+  "starting_price": "$69/mo (Starter, 1 staff); $199/mo for unlimited staff",
+  "pros": [
+   "Prices published for three of four plans",
+   "Free data migration and onboarding",
+   "Annual billing saves 10%"
+  ],
+  "cons": [
+   "Starter plan is limited to one staff member",
+   "Card processing rates not published on the pricing page"
+  ],
+  "last_verified": "2026-11-04",
+  "autopay": "Yes: memberships and auto-pay billing (pricing page)",
+  "parent_portal": "Branded client web portal and Achieve client app (pricing page)"
+ },
+ {
+  "slug": "arketa",
+  "name": "Arketa",
+  "website": "https://www.arketa.com/",
+  "trades": [
+   "yoga",
+   "dance"
+  ],
+  "free_trial": "Yes: free trial on the Individual plan (length not stated); Studio plans by demo",
+  "contract": "No commitment; month to month unless you choose annual (pricing page FAQ)",
+  "plans": [
+   {
+    "name": "Individual",
+    "users": "1 team member login, 1 location",
+    "monthly_no_commit": "unknown",
+    "annual": "$49/mo billed annually (save 17%)"
+   },
+   {
+    "name": "Studio Core",
+    "users": "Unlimited team members, multiple rooms and locations, POS, payroll reporting",
+    "monthly_no_commit": "unknown (custom quote)",
+    "annual": "unknown"
+   },
+   {
+    "name": "Studio Growth",
+    "users": "Core + email/text campaigns, automations, lead pipeline",
+    "monthly_no_commit": "unknown (custom quote)",
+    "annual": "unknown"
+   },
+   {
+    "name": "Studio Suite",
+    "users": "Growth + custom branded iOS/Android app and branded website",
+    "monthly_no_commit": "unknown (custom quote)",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Individual: 1 login; Studio plans: unlimited team members",
+  "card_fee": "Stripe 2.9% + $0.30 (US); Individual plan adds a 3% transaction fee; Studio fees by negotiation",
+  "belt_tracking": "Not applicable (boutique fitness)",
+  "attendance": "Yes: check-in and waitlist management (pricing page)",
+  "online_booking": "Yes: booking app, embeddable widgets, classes, privates, events and on-demand video (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.arketa.com/pricing"
+  ],
+  "best_for": "Solo instructors and boutique yoga/pilates studios that also sell on-demand video",
+  "starting_price": "$49/mo billed annually (Individual)",
+  "pros": [
+   "Unlimited on-demand video storage on every plan",
+   "Month-to-month with no commitment",
+   "Full data export listed on every plan"
+  ],
+  "cons": [
+   "Individual plan charges a 3% transaction fee on top of Stripe",
+   "Studio plan prices are quote only"
+  ],
+  "last_verified": "2026-11-04",
+  "autopay": "Yes: memberships and recurring packages (pricing page)",
+  "parent_portal": "Client booking app (pricing page)"
+ },
+ {
+  "slug": "walla",
+  "name": "Walla",
+  "website": "https://www.hellowalla.com/",
+  "trades": [
+   "yoga",
+   "dance"
+  ],
+  "free_trial": "unknown",
+  "contract": "Several term lengths; price depends on the term chosen (pricing page FAQ)",
+  "plans": [
+   {
+    "name": "Core",
+    "users": "Unlimited users; retention tools, reporting, email/SMS, Book-a-Spot, on-demand video, payroll setup",
+    "monthly_no_commit": "$299/mo per location, billed monthly",
+    "annual": "unknown"
+   },
+   {
+    "name": "Pro",
+    "users": "Core + full marketing suite, branded studio app, two-way texting, lead tools",
+    "monthly_no_commit": "unknown (contact sales)",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Unlimited users on every plan; priced per location",
+  "card_fee": "unknown rate (cards migrate to Stripe); optional Walla Offset adds a 3.9% fee paid by clients; no Walla booking fees",
+  "belt_tracking": "Not applicable (boutique fitness)",
+  "attendance": "unknown",
+  "online_booking": "Yes: website widgets, Walla app, Book-a-Spot and waitlists (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.hellowalla.com/pricing"
+  ],
+  "best_for": "Boutique yoga, pilates and fitness studios with several instructors",
+  "starting_price": "$299/mo per location",
+  "pros": [
+   "Unlimited users on every plan",
+   "Walla says it adds no booking or first-time booking fees",
+   "Card migration to Stripe with paid onboarding tiers"
+  ],
+  "cons": [
+   "Highest published entry price on this page",
+   "Pro plan price not published"
+  ],
+  "last_verified": "2026-11-04",
+  "autopay": "Plans and intro offers with failed-payment reminders (pricing page)",
+  "parent_portal": "Walla client app (pricing page)"
+ },
+ {
+  "slug": "vagaro",
+  "name": "Vagaro",
+  "website": "https://www.vagaro.com/",
+  "trades": [
+   "yoga",
+   "dance"
+  ],
+  "free_trial": "Yes: 30 days (pricing page FAQ)",
+  "contract": "Cancel any time, no cancellation fees (pricing page)",
+  "plans": [
+   {
+    "name": "Base (1 bookable calendar)",
+    "users": "1 calendar; each extra bookable calendar $10/mo up to 7, then more staff at no extra cost",
+    "monthly_no_commit": "$30/mo ($23.99/mo for the first 6 months)",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "$10/mo per extra bookable calendar (US), up to 7 licenses; more employees free after that",
+  "card_fee": "unknown (Vagaro Merchant Services rates not published on pricing page)",
+  "belt_tracking": "unknown",
+  "attendance": "unknown",
+  "online_booking": "Yes: booking widget, plus booking through Google, Apple Maps, Instagram and Facebook (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.vagaro.com/pro/pricing"
+  ],
+  "best_for": "Small appointment-and-class businesses that want a low monthly price",
+  "starting_price": "$30/mo for 1 calendar ($23.99 for first 6 months)",
+  "pros": [
+   "Lowest published entry price on this page",
+   "30-day free trial",
+   "No cancellation fees"
+  ],
+  "cons": [
+   "Price rises $10/mo per bookable calendar up to 7",
+   "Card processing rates not published on pricing page"
+  ],
+  "last_verified": "2026-11-04"
+ },
+ {
+  "slug": "trio",
+  "name": "Trio",
+  "website": "https://www.musicaltrio.com/",
+  "trades": [
+   "music"
+  ],
+  "free_trial": "Free plan, no card required (free forever)",
+  "contract": "unknown",
+  "plans": [
+   {
+    "name": "Free",
+    "users": "1 team member (the owner); up to 10 active students",
+    "monthly_no_commit": "$0",
+    "annual": "$0"
+   },
+   {
+    "name": "Pro",
+    "users": "Owner seat included; no student limit; additional seats $5/mo or $50/yr each",
+    "monthly_no_commit": "$5/mo",
+    "annual": "$50/yr"
+   },
+   {
+    "name": "Max",
+    "users": "Owner seat included; additional seats $5/mo or $50/yr each",
+    "monthly_no_commit": "$20/mo",
+    "annual": "$200/yr"
+   }
+  ],
+  "extra_user": "Free: owner only. Pro and Max: +$5/mo or $50/yr per additional seat (admins, teachers, staff)",
+  "card_fee": "Online payments (card, bank, Apple Pay, Google Pay, Cash App Pay) via Stripe on Pro and Max; Free is cash and check only; rates unknown",
+  "belt_tracking": "Not applicable (music lessons)",
+  "attendance": "unknown",
+  "online_booking": "unknown",
+  "rating": "unknown",
+  "sources": [
+   "https://www.musicaltrio.com/help/teacher/studio-management/trio-plans-and-pricing",
+   "https://www.musicaltrio.com/help/teacher/getting-started/adding-your-first-student"
+  ],
+  "best_for": "Solo teachers with up to 10 students who want a free plan with a parent portal",
+  "starting_price": "Free (up to 10 students); Pro $5/mo or $50/yr",
+  "pros": [
+   "Free forever for up to 10 active students, no card",
+   "Free plan includes scheduling, invoices and the parent portal",
+   "Pro removes the student limit for $5/mo"
+  ],
+  "cons": [
+   "Free plan takes cash and check payments only",
+   "Free plan has no team members beyond the owner"
+  ],
+  "last_verified": "2026-11-02",
+  "autopay": "Pro and Max only (online payments, automatic late fees); not on Free",
+  "parent_portal": "Yes: parent portal on all plans, including Free (help center)"
+ },
+ {
+  "slug": "nova-music",
+  "name": "Nova Music",
+  "website": "https://trynovamusic.com/",
+  "trades": [
+   "music"
+  ],
+  "free_trial": "Free plan (up to 10 students)",
+  "contract": "unknown",
+  "plans": [
+   {
+    "name": "Free",
+    "users": "Up to 10 students",
+    "monthly_no_commit": "$0",
+    "annual": "$0"
+   },
+   {
+    "name": "Pro",
+    "users": "Unlimited students",
+    "monthly_no_commit": "$10/mo",
+    "annual": "$100/yr"
+   }
+  ],
+  "extra_user": "unknown",
+  "card_fee": "unknown",
+  "belt_tracking": "Not applicable (music lessons)",
+  "attendance": "Basic attendance on Free (pricing page)",
+  "online_booking": "unknown",
+  "rating": "unknown",
+  "sources": [
+   "https://trynovamusic.com/pricing"
+  ],
+  "best_for": "Teachers with up to 10 students who want free scheduling, messaging and practice logging",
+  "starting_price": "Free (up to 10 students); Pro $10/mo or $100/yr",
+  "pros": [
+   "Free plan up to 10 students",
+   "Free includes scheduling, messaging, student portal and practice logging",
+   "Pro adds unlimited students and calendar sync"
+  ],
+  "cons": [
+   "Billing tools need Pro ($10/mo)",
+   "Free plan storage is 100 MB"
+  ],
+  "last_verified": "2026-11-02",
+  "autopay": "unknown",
+  "parent_portal": "Student portal on Free (pricing page); parent portal unknown"
+ },
+ {
+  "slug": "tutortally",
+  "name": "TutorTally",
+  "website": "https://tutortally.com/",
+  "trades": [
+   "music"
+  ],
+  "free_trial": "Free for 2 students with every feature, no time limit; monthly and yearly subscriptions start with a 7-day free trial",
+  "contract": "Pay once (lifetime) or subscribe monthly or yearly",
+  "plans": [
+   {
+    "name": "Free",
+    "users": "Up to 2 students, all features",
+    "monthly_no_commit": "$0",
+    "annual": "$0"
+   },
+   {
+    "name": "Pro Monthly / Annual",
+    "users": "More than 2 students",
+    "monthly_no_commit": "$9.99/mo",
+    "annual": "$49.99/yr"
+   },
+   {
+    "name": "Lifetime",
+    "users": "More than 2 students",
+    "monthly_no_commit": "$99.99 one time",
+    "annual": "n/a"
+   }
+  ],
+  "extra_user": "Single-teacher app; no per-student charges after upgrade",
+  "card_fee": "None: TutorTally never handles the money; invoices carry a 'How to pay' block so students pay you directly",
+  "belt_tracking": "Not applicable (music lessons)",
+  "attendance": "Yes: mark lessons done; lesson notes",
+  "online_booking": "unknown",
+  "rating": "unknown",
+  "sources": [
+   "https://tutortally.com/",
+   "https://apps.apple.com/app/id6756996116"
+  ],
+  "best_for": "Solo teachers who want an offline iPhone, iPad and Mac app and a one-time price",
+  "starting_price": "Free (2 students); $9.99/mo, $49.99/yr or $99.99 lifetime",
+  "pros": [
+   "Free for 2 students with every feature, no time limit",
+   "$99.99 one-time lifetime option",
+   "No account needed; data stays on your device (optional iCloud sync)"
+  ],
+  "cons": [
+   "No card processing: families pay you directly",
+   "Apple devices only: iPhone, iPad and Mac (App Store: Mac requires macOS 14.0 or later and a Mac with Apple M1 chip or later)"
+  ],
+  "last_verified": "2026-11-02",
+  "autopay": "No: TutorTally doesn't process payments",
+  "parent_portal": "No parent portal described; student data stays on the teacher's device"
+ },
+ {
+  "slug": "dojo-champ",
+  "name": "Dojo Champ",
+  "website": "https://dojochamp.com/",
+  "trades": [
+   "martial",
+   "bjj"
+  ],
+  "free_trial": "30 days; card required, first charge on day 31 if not cancelled (pricing page)",
+  "contract": "Cancel anytime; no setup fee; no long-term contract stated on pricing page",
+  "plans": [
+   {
+    "name": "All-Inclusive Platform",
+    "users": "Unlimited students; all 60+ features",
+    "monthly_no_commit": "$199/mo",
+    "annual": "No annual plan published"
+   }
+  ],
+  "extra_user": "Flat price; unlimited students; no per-student fees or feature tiers (pricing page)",
+  "card_fee": "Stripe standard rates (e.g. 2.9% + $0.30 card, 0.8% ACH capped at $5); no additional Dojo Champ platform fee (pricing page)",
+  "belt_tracking": "Yes: belt/rank progression tracking and curriculum management (pricing feature list)",
+  "attendance": "Yes: attendance tracking and kiosk mode for check-ins (pricing feature list)",
+  "online_booking": "Yes: online class and event registration; public website/landing pages (pricing feature list)",
+  "rating": "unknown",
+  "sources": [
+   "https://dojochamp.com/pricing",
+   "https://dojochamp.com/",
+   "https://dojochamp.com/martial-arts-school-software",
+   "https://dojochamp.com/mma-gym-software",
+   "https://dojochamp.com/directory/style/krav-maga"
+  ],
+  "best_for": "Martial arts schools that want one flat $199/mo price with unlimited students and AI churn alerts",
+  "starting_price": "$199/mo (unlimited students)",
+  "pros": [
+   "Flat $199/mo with unlimited students and all features on one plan",
+   "30-day free trial with no charge until day 31 if you cancel",
+   "Stripe processing at Stripe rates with no Dojo Champ platform markup"
+  ],
+  "cons": [
+   "Card required to start the trial",
+   "No annual plan published",
+   "Entry price higher than tiered options for very small schools"
+  ],
+  "last_verified": "2026-11-07",
+  "autopay": "Yes: recurring billing, failed-payment recovery, ACH and card via Stripe (pricing feature list)",
+  "parent_portal": "Member-facing public landing pages for calendars, products, memberships and events (homepage); native iOS and Android apps (vendor email Nov 4, 2026)"
+ },
+ {
+  "slug": "dance-business-solutions",
+  "name": "Dance Business Solutions",
+  "website": "https://dancebusinesssolutions.com/dbs",
+  "trades": [
+   "dance"
+  ],
+  "free_trial": "unknown (not stated; the page offers a Backstage Discovery Call demo)",
+  "contract": "unknown (not stated on the pricing page)",
+  "plans": [
+   {
+    "name": "Package",
+    "users": "One studio",
+    "monthly_no_commit": "£90/month",
+    "annual": "No annual plan published"
+   }
+  ],
+  "extra_user": "Single £90/month package; includes $10 monthly credit for SMS, phone and email usage (e.g. 5,000 emails, 1,000 texts or 300 phone minutes per month). WhatsApp incurs additional fees",
+  "card_fee": "unknown (not published)",
+  "belt_tracking": "Not applicable",
+  "attendance": "unknown (not listed)",
+  "online_booking": "Private bookings via calendar with optional pre-payment and reminders; booking-linked landing pages for trials, summer school and events; show ticket sales (sales page)",
+  "rating": "unknown",
+  "sources": [
+   "https://dancebusinesssolutions.com/dbs"
+  ],
+  "best_for": "Dance studios (UK-based vendor) that want done-for-you marketing: enquiry-to-enrolment automation, websites and sales pages",
+  "starting_price": "£90/month",
+  "pros": [
+   "Enquiry-to-enrolment system with pre-built emails and follow-ups",
+   "Two pre-built websites plus 3 sales pages for summer schools, parties or workshops",
+   "Parent community hub and show ticket funnel included"
+  ],
+  "cons": [
+   "Priced in GBP; support hours are UK time (Mon-Fri 6am-6pm)",
+   "WhatsApp messaging costs extra",
+   "Not a class-registration or tuition-billing system on the sales page"
+  ],
+  "who_html": "<p>Dance Business Solutions (DBS) was created by dance business coach Deborah Laws. It focuses on marketing and enquiries rather than class scheduling and tuition billing, so many studios pair it with a studio management tool from our <a href=\"/best-dance-studio-software/\">best dance studio software</a> guide or the <a href=\"/mindbody-alternatives-for-studios/\">Mindbody alternatives</a> list. Everything here comes from <a href=\"https://dancebusinesssolutions.com/dbs\" rel=\"nofollow\">dancebusinesssolutions.com/dbs</a>, checked 2026-11-07.</p><p>The £90/month package lists: enquiry to enrolment system, 2 websites, 3 sales pages, automated review requests, 3 surveys (new students, current students, after your show), all social media and email in one inbox, a parent community hub, a show tickets funnel, a special offer funnel, monthly retention emails, 100+ social templates, newsletter templates, $10 monthly communication credit, weekly Backstage Tour live help sessions and the Rehearsal Room community.</p><p><strong>Disclosure:</strong> we earn a referral fee if a studio joins DBS through our link.</p>",
+  "last_verified": "2026-11-07"
+ },
+ {
+  "slug": "truecoach",
+  "name": "TrueCoach",
+  "website": "https://truecoach.co/",
+  "trades": [],
+  "free_trial": "14-day free trial (pricing page FAQ)",
+  "contract": "Month-to-month by default, cancel anytime; annual plans carry a 90-day money-back guarantee for first-time annual subscribers (pricing page)",
+  "plans": [
+   {
+    "name": "Starter",
+    "users": "Up to 5 active clients",
+    "monthly_no_commit": "$29.98/mo",
+    "annual": "$26.34/mo billed annually"
+   },
+   {
+    "name": "Standard",
+    "users": "Up to 20 active clients",
+    "monthly_no_commit": "$69.98/mo",
+    "annual": "$57.99/mo billed annually"
+   },
+   {
+    "name": "Pro",
+    "users": "Up to 50 active clients",
+    "monthly_no_commit": "$164.98/mo",
+    "annual": "$136.99/mo billed annually"
+   }
+  ],
+  "extra_user": "Priced by active clients (5 / 20 / 50); more clients: custom pricing by email. All prices USD; no extra fees; free for your clients",
+  "card_fee": "TrueCoach Payments powered by Stripe ('Free Automated Payments'); Stripe processing rates not stated on the pricing page",
+  "belt_tracking": "Not applicable",
+  "attendance": "Not applicable (online coaching: workouts, progress and habit tracking)",
+  "online_booking": "Not listed (coaching app, not class booking)",
+  "rating": "unknown",
+  "sources": [
+   "https://truecoach.co/pricing/"
+  ],
+  "best_for": "Personal trainers and online coaches delivering programs to individual clients",
+  "starting_price": "$29.98/mo monthly, or $26.34/mo billed annually (Starter, 5 clients)",
+  "pros": [
+   "Program builder with 3,000+ exercise video library on every plan",
+   "Month-to-month with no extra fees; free for clients",
+   "Wearables integration and custom-branded app on Standard and Pro"
+  ],
+  "cons": [
+   "Starter covers only 5 active clients",
+   "Not built for class scheduling or studio memberships",
+   "Over 50 clients requires custom pricing"
+  ],
+  "who_html": "<p>TrueCoach (part of Xplor) is a coaching app for personal trainers: workout programming, progress and nutrition tracking via MyFitnessPal, and in-app messaging. It is not a class-scheduling or front-desk system; for that, see <a href=\"/mindbody-alternatives-for-studios/\">Mindbody alternatives</a> or model income with the <a href=\"/membership-revenue-calculator/\">membership revenue calculator</a>. Prices come from <a href=\"https://truecoach.co/pricing/\" rel=\"nofollow\">truecoach.co/pricing</a>, checked 2026-11-07, which has a Monthly / Annually toggle; both are shown above. The page lists Zapier automations differently in two places, so we don't state which plans include it.</p><p><strong>Disclosure:</strong> we may earn a referral fee if you become a TrueCoach customer through our link.</p>",
+  "last_verified": "2026-11-07"
+ },
+ {
+  "slug": "virtuagym",
+  "name": "Virtuagym",
+  "website": "https://business.virtuagym.com/",
+  "trades": [],
+  "free_trial": "14-day free trial, no credit card required (pricing page)",
+  "contract": "unknown (not stated on the pricing page)",
+  "plans": [
+   {
+    "name": "Manage",
+    "users": "Per location",
+    "monthly_no_commit": "19 per location/month (currency not shown on the page; unknown)",
+    "annual": "unknown"
+   },
+   {
+    "name": "Coach",
+    "users": "Per location",
+    "monthly_no_commit": "24 per location/month (currency unknown)",
+    "annual": "unknown"
+   },
+   {
+    "name": "All-in-One",
+    "users": "Per location",
+    "monthly_no_commit": "39 per location/month (currency unknown)",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Priced per location per month; the pricing page has a client-count tier selector, and the figures shown are the default view",
+  "add_ons": "Webshop, Point of Sale, Access Control, Lead management, Business Analytics, Multi-Club Support, Custom Mobile App, Engage, Virtuagym Hub, Fitzone, Virtuagym Connect, Video Platform (prices unpublished)",
+  "card_fee": "Card-not-present (Visa, Mastercard) payments 2.75% + .20 per transaction; volume discounts on request (pricing page)",
+  "belt_tracking": "Not listed",
+  "attendance": "Secure QR code check-in and 24/7 access control in Manage (pricing page)",
+  "online_booking": "Flexible scheduling in Manage; Webshop add-on for selling memberships and credits (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://business.virtuagym.com/our-prices/"
+  ],
+  "best_for": "Gyms, studios and personal trainers that want management plus digital coaching (workout and nutrition plans) in one system",
+  "starting_price": "19 per location/month (Manage; currency not shown on the page)",
+  "pros": [
+   "14-day free trial with no credit card",
+   "All-in-One combines Manage and Coach features",
+   "Card-not-present processing rate published (2.75% + .20)"
+  ],
+  "cons": [
+   "Currency and annual terms not shown on the pricing page",
+   "Many features (webshop, lead management, custom app) are add-ons with unpublished prices",
+   "Pricing varies by client-count tier"
+  ],
+  "who_html": "<p>Virtuagym sells business software (Manage), digital coaching (Coach) and a combined All-in-One plan. Plan names, features and figures come from <a href=\"https://business.virtuagym.com/our-prices/\" rel=\"nofollow\">business.virtuagym.com/our-prices</a>, checked 2026-11-07. The page loads prices by region and client tier, and its published text shows the numbers without a currency symbol, so confirm the currency on a demo. Compare it with other studio platforms in <a href=\"/mindbody-alternatives-for-studios/\">Mindbody alternatives</a> and the <a href=\"/software-buying-checklist/\">software buying checklist</a>.</p><p><strong>Disclosure:</strong> we may earn a referral fee if your business signs a Virtuagym contract through our link.</p>",
+  "last_verified": "2026-11-07"
+ }
 ]
