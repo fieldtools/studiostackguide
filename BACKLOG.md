@@ -14,7 +14,7 @@
 | 11 | best-yoga-studio-software (standalone) | best | done (2026-11-04) |
 | 12 | best-mma-gym-software | best | done (2026-11-05) |
 | 13 | best-muay-thai-gym-software | best | done (2026-11-06) |
-| 14 | best-krav-maga-software | best | todo |
+| 14 | best-krav-maga-software | best | done (2026-11-07) |
 | 15 | belt-rank-tracking-software | feature | done (2026-10-30) |
 | 16 | martial-arts-attendance-software (check-in kiosks) | feature | done (2026-10-30) |
 | 17 | martial-arts-billing-software (processing fees compared) | feature | done (2026-10-30) |
