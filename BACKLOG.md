@@ -24,8 +24,8 @@
 | 21 | mindbody-alternatives-for-studios | alternatives | done (2026-10-31) |
 | 22 | zen-planner-alternatives | alternatives | todo |
 | 23 | kicksite-alternatives | alternatives | done (2026-10-30) |
-| 24 | add tools: Jackrabbit Class, DanceStudio-Pro, Glofox, WellnessLiving, Momence, Wodify, PushPress, MyStudio, Ember, Dojo Expert | data | todo |
-| 25 | best-dance-studio-software (dance-only, with Jackrabbit) | best | todo |
+| 24 | add tools (Jackrabbit Class, DanceStudio-Pro/Studio Pro, Akada, Studio Director added 2026-11-08; still to add): Glofox, WellnessLiving, Momence, Wodify, PushPress, MyStudio, Ember, Dojo Expert | data | todo |
+| 25 | best-dance-studio-software (dance-only, with Jackrabbit) | best | done (2026-11-08; live as /dance-studio-software-comparison/, Search Console query "dance studio software comparison") |
 | 26 | best-software-for-new-dojo (startup checklist) | guide | todo |
 | 27 | martial-arts-software-with-branded-app | feature | todo |
 | 28 | gym-software-payment-processing-fees-explained | guide | todo |
@@ -60,3 +60,7 @@
 | 57 | tools/dance-business-solutions | dance business solutions review pricing (UK dance studio marketing/ops suite; £100 after 3 paid months) | done (2026-11-07); affiliate: DBS approved 2026-11-03, link https://dancebusinesssolutions.com/dbs?am_id=jacob9124 (£100 after 3 paid months); UK-focused |
 | 58 | tools/dojo-champ | Dojo Champ review + pricing (flat $199/mo unlimited students, 30-day trial card required) | tool | done (published 2026-11-04, approved by Jacob; logo not placed) |
 | 59 | tools/hexfit (review + pricing; PT/coach/gym client-tracking; Hexfit / Xplor) | tool | todo (affiliate: Hexfit 20% for up to 12 months, form submitted 2026-11-06 unconfirmed; moderate fit) |
+| 60 | jackrabbit-vs-studio-director (tiered-by-student pricing; Studio Director publishes full table, Jackrabbit doesn't) | vs | todo |
+| 61 | studio-pro-vs-akada (flat $49-$165 by plan vs flat $60 all features) | vs | todo |
+| 62 | dance-recital-and-costume-software (recital ticketing, costume sizing compared) | feature | todo |
+| 63 | jackrabbit-alternatives (dance studios) | alternatives | todo |

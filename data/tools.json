@@ -1438,5 +1438,238 @@
   ],
   "who_html": "<p>Virtuagym sells business software (Manage), digital coaching (Coach) and a combined All-in-One plan. Plan names, features and figures come from <a href=\"https://business.virtuagym.com/our-prices/\" rel=\"nofollow\">business.virtuagym.com/our-prices</a>, checked 2026-11-07. The page loads prices by region and client tier, and its published text shows the numbers without a currency symbol, so confirm the currency on a demo. Compare it with other studio platforms in <a href=\"/mindbody-alternatives-for-studios/\">Mindbody alternatives</a> and the <a href=\"/software-buying-checklist/\">software buying checklist</a>.</p><p><strong>Disclosure:</strong> we may earn a referral fee if your business signs a Virtuagym contract through our link.</p>",
   "last_verified": "2026-11-07"
+ },
+ {
+  "slug": "jackrabbit-class",
+  "name": "Jackrabbit Class (Jackrabbit Dance)",
+  "website": "https://www.jackrabbitclass.com/",
+  "trades": [
+   "dance"
+  ],
+  "free_trial": "unknown (no free trial published; pricing page offers a demo)",
+  "contract": "No contracts or setup fees on Jackrabbit Class (pricing page); Jackrabbit Plus adds a one-time, non-refundable $169 setup fee plus app store fees",
+  "plans": [
+   {
+    "name": "Jackrabbit Class",
+    "users": "Tiered by total student count at the end of each month; all core features, Product Coach, unlimited support",
+    "monthly_no_commit": "From $49/mo (higher tiers not published)",
+    "annual": "unknown (not published)"
+   },
+   {
+    "name": "Jackrabbit Plus (Class + branded app)",
+    "users": "Tiered by student count; adds a custom-branded mobile app and app dashboard",
+    "monthly_no_commit": "From $93/mo + $169 one-time setup + app store fees",
+    "annual": "unknown (not published)"
+   },
+   {
+    "name": "Enterprise",
+    "users": "Not based on student count; Enterprise Coach and Business Intelligence Dashboard",
+    "monthly_no_commit": "$245/mo ($331/mo with Jackrabbit Plus app)",
+    "annual": "unknown (not published)"
+   }
+  ],
+  "extra_user": "Priced by total student count at month end; student-count breakpoints above the $49 starting tier are not published (pricing page)",
+  "card_fee": "Integrated ePayments (Jackrabbit Pay) for cards and bank drafts; 'traditional or flat-rate, no monthly fee plans' and an option to pass processing fees to families; rates not published",
+  "belt_tracking": "Not applicable (dance studio tool); no belt ranks listed",
+  "attendance": "unknown (not listed on the pages we checked)",
+  "online_booking": "Yes: online registration and enrollment, class scheduling (pricing page)",
+  "autopay": "Yes: automated tuition billing (jackrabbitdance.com)",
+  "parent_portal": "Parent engagement tools; custom-branded parent app only with Jackrabbit Plus (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.jackrabbitclass.com/pricing/",
+   "https://www.jackrabbitdance.com/",
+   "https://www.jackrabbitclass.com/features/billing-payment-processing/epayments/"
+  ],
+  "best_for": "Larger dance studios and multi-activity youth programs that want recital, costume and tuition tools from a long-running vendor",
+  "starting_price": "$49/mo (tiered by student count)",
+  "pros": [
+   "No contracts or setup fees on the core plan",
+   "Recital planning and costume management listed for dance",
+   "Free data imports and unlimited support on every plan"
+  ],
+  "cons": [
+   "Price tiers above $49/mo are not published",
+   "Branded app costs extra ($93/mo+ plus $169 setup)",
+   "No published free trial or processing rates"
+  ],
+  "last_verified": "2026-11-08",
+  "who_html": "<p>Jackrabbit sells one class-management product to gymnastics gyms, swim schools, cheer programs, music schools and dance studios, and markets a dance edition as Jackrabbit Dance. It says it has served 7,000+ businesses since 2004. Dance features it lists: automated tuition billing, recital planning, costume sizing and ordering, policies and waivers by class or by recreational vs competitive level, parent engagement tools and an integration marketplace.</p>",
+  "compare_html": "<p>Jackrabbit's $49/mo entry price is in the same range as <a href=\"/tools/studio-pro/\">Studio Pro</a> ($49/mo, unlimited students) and <a href=\"/tools/akada/\">Akada</a> ($60/mo flat), but Jackrabbit rises with student count and the higher tiers aren't published. <a href=\"/tools/studio-director/\">The Studio Director</a> publishes its full student-count table. See <a href=\"/dance-studio-software-comparison/\">dance studio software compared</a>.</p>"
+ },
+ {
+  "slug": "studio-pro",
+  "name": "Studio Pro (DanceStudio-Pro)",
+  "website": "https://gostudiopro.com/dance",
+  "trades": [
+   "dance"
+  ],
+  "free_trial": "30-day free trial, no credit card; lead management and payment processing not available during the trial (FAQ)",
+  "contract": "unknown (not published on the pricing page)",
+  "plans": [
+   {
+    "name": "Essentials",
+    "users": "Unlimited students; scheduling and registration, tuition, payments, POS, 1-way texts, parent portal app, Class Manager app, recitals, costumes, ticket sales",
+    "monthly_no_commit": "$49/mo",
+    "annual": "unknown (not published)"
+   },
+   {
+    "name": "Premier",
+    "users": "Essentials + in-app 2-way chat, individual user permissions, Zapier",
+    "monthly_no_commit": "$79/mo",
+    "annual": "unknown (not published)"
+   },
+   {
+    "name": "Elite",
+    "users": "Premier + lead capture, trial-to-enrollment automation, 2-way SMS (US/Canada), 3,000 texts/mo, dedicated studio number",
+    "monthly_no_commit": "$165/mo",
+    "annual": "unknown (not published)"
+   }
+  ],
+  "extra_user": "Flat monthly fee per plan with unlimited students and classes (pricing page)",
+  "card_fee": "Studio Pro Merchant Services (powered by Stripe): from 2.66% + $0.25 for U.S. merchants; third-party processors incur a 1.35% Studio Pro tech fee on top of the processor's fee; optional surcharging up to 3% (payment processing page)",
+  "belt_tracking": "Not applicable (dance studio tool); no belt ranks listed",
+  "attendance": "unknown (not listed on the pricing page)",
+  "online_booking": "Yes: class scheduling and registration on every plan (pricing page)",
+  "autopay": "Yes: tuition management and integrated payment processing on every plan (pricing page)",
+  "parent_portal": "Yes: Parent Portal app on every plan (pricing page)",
+  "add_ons": "Elite texts beyond 3,000/mo are $0.02 per message; additional call and texting fees apply on lower plans",
+  "rating": "unknown",
+  "sources": [
+   "https://gostudiopro.com/pricing",
+   "https://gostudiopro.com/faqs",
+   "https://gostudiopro.com/feature-payment-processing",
+   "https://gostudiopro.com/dance"
+  ],
+  "best_for": "Dance studios that want unlimited students on a flat plan with recital, costume and ticketing tools included",
+  "starting_price": "$49/mo (Essentials, unlimited students)",
+  "pros": [
+   "Unlimited students on every plan",
+   "Recital planning, costume management and ticket sales from the $49 Essentials plan",
+   "30-day free trial with no credit card"
+  ],
+  "cons": [
+   "2-way texting, lead capture and trial automation only on the $165/mo Elite plan",
+   "1.35% tech fee if you use a third-party payment processor",
+   "Contract terms not published"
+  ],
+  "last_verified": "2026-11-08",
+  "who_html": "<p>Studio Pro is the current name of DanceStudio-Pro (dancestudio-pro.com now redirects to gostudiopro.com/dance). It also sells versions for cheer, gymnastics and other class programs and says it serves 7,000+ educators. It offers free data import from a spreadsheet.</p>",
+  "compare_html": "<p>Studio Pro and <a href=\"/tools/akada/\">Akada</a> are both flat-priced with recital and costume tools; Akada is $60/mo with every feature and Studio Pro is $49-$165/mo by plan. See <a href=\"/dance-studio-software-comparison/\">dance studio software compared</a>.</p>"
+ },
+ {
+  "slug": "akada",
+  "name": "Akada Software",
+  "website": "https://www.akadasoftware.com/",
+  "trades": [
+   "dance"
+  ],
+  "free_trial": "unknown (not published; 1:1 demo offered)",
+  "contract": "unknown (not published)",
+  "plans": [
+   {
+    "name": "Single plan (every feature)",
+    "users": "One flat rate; no tiers or locked features",
+    "monthly_no_commit": "$60/mo",
+    "annual": "unknown (not published)"
+   }
+  ],
+  "extra_user": "One flat $60/mo with every feature; no tiers (pricing page)",
+  "card_fee": "Card payments through the parent portal; recurring billing with Stripe enabled (FAQ); processing rates not published",
+  "belt_tracking": "Not applicable (dance studio tool); no belt ranks listed",
+  "attendance": "Yes: instructors take attendance in the Akada Studio app; attendance reports (FAQ, homepage)",
+  "online_booking": "Yes: online registration with admin review and approvals; class scheduling (pricing page, FAQ)",
+  "autopay": "Yes: families can save a card and opt into recurring payments with Stripe enabled (FAQ)",
+  "parent_portal": "Yes: Akada Portal app for families to register, view schedules and pay (FAQ)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.akadasoftware.com/pricing/",
+   "https://www.akadasoftware.com/faq/",
+   "https://www.akadasoftware.com/"
+  ],
+  "best_for": "Small and mid-size dance studios that want every feature at one flat $60/mo price",
+  "starting_price": "$60/mo (flat, all features)",
+  "pros": [
+   "One flat $60/mo price with every feature",
+   "Free texting and 2-way messaging included",
+   "Recital and costume sizing/billing plus staff time tracking"
+  ],
+  "cons": [
+   "No published free trial",
+   "Contract terms not published",
+   "Processing rates not published"
+  ],
+  "last_verified": "2026-11-08",
+  "who_html": "<p>Akada is a family-run company that says it has built dance studio software for over 30 years (one homepage testimonial refers to its older Danceworks product). Features it lists: online registration with approvals, class scheduling with conflict finding, tuition billing and digital payments, staff time tracking, performance and recital scheduling with costume sizing and billing, 200+ reports, free texting and 2-way messaging, and two apps (Akada Portal for families, Akada Studio for instructors).</p>",
+  "compare_html": "<p>Akada's $60/mo flat price sits between <a href=\"/tools/studio-pro/\">Studio Pro</a> Essentials ($49/mo) and Premier ($79/mo). See <a href=\"/dance-studio-software-comparison/\">dance studio software compared</a>.</p>"
+ },
+ {
+  "slug": "studio-director",
+  "name": "The Studio Director",
+  "website": "https://www.thestudiodirector.com/",
+  "trades": [
+   "dance"
+  ],
+  "free_trial": "No free trial published; 30-day money-back guarantee (pricing page)",
+  "contract": "Flexible month-to-month plan; no setup fee (pricing page)",
+  "plans": [
+   {
+    "name": "0-100 students",
+    "users": "All features; customer portal included",
+    "monthly_no_commit": "$65/mo software only; $39/mo with Studio Director payments",
+    "annual": "unknown (not published)"
+   },
+   {
+    "name": "101-250 students",
+    "users": "All features",
+    "monthly_no_commit": "$119/mo; $79/mo with payments",
+    "annual": "unknown (not published)"
+   },
+   {
+    "name": "251-500 students",
+    "users": "All features",
+    "monthly_no_commit": "$169/mo; $119/mo with payments",
+    "annual": "unknown (not published)"
+   },
+   {
+    "name": "501-1000 students",
+    "users": "All features",
+    "monthly_no_commit": "$199/mo; $149/mo with payments",
+    "annual": "unknown (not published)"
+   },
+   {
+    "name": "1001-5000 students",
+    "users": "All features",
+    "monthly_no_commit": "$209-$329/mo; $199-$319/mo with payments (5000+: call)",
+    "annual": "unknown (not published)"
+   }
+  ],
+  "extra_user": "Tiered by student count; a monthly discount applies when you process payments through Studio Director (pricing page)",
+  "card_fee": "Integrated payments (Stripe; Buy Now, Pay Later for Stripe merchants); using them lowers the subscription (e.g. $39 vs $65/mo for 0-100 students); processing rates not published",
+  "belt_tracking": "Not applicable (dance studio tool); no belt ranks listed",
+  "attendance": "Yes: attendance reports (homepage)",
+  "online_booking": "Yes: online enrollment through the parent portal, including trial and makeup class requests (homepage)",
+  "autopay": "Yes: card or bank info kept on file for checkout (homepage)",
+  "parent_portal": "Yes: customer portal for online registration, schedules and payments (pricing page, homepage)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.thestudiodirector.com/pricing/",
+   "https://www.thestudiodirector.com/"
+  ],
+  "best_for": "Dance studios that will use built-in payments and want a fully published price table by student count",
+  "starting_price": "$39/mo with payments, $65/mo software only (0-100 students)",
+  "pros": [
+   "Full price table published by student count",
+   "Month-to-month with no setup fee and a 30-day money-back guarantee",
+   "Costume sizing charts and recital/event ticketing listed"
+  ],
+  "cons": [
+   "Lowest price requires using its payment processing",
+   "No free trial published",
+   "Processing rates not published"
+  ],
+  "last_verified": "2026-11-08",
+  "who_html": "<p>The Studio Director markets itself mainly to dance studios and gymnastics businesses and also lists cheer, fitness, martial arts, music, pilates, yoga and youth sports. Features it lists: texting and email with drip campaigns, virtual class links, events and recitals with ticket sales, stored card and bank payments, online enrollment through a parent portal, reports, and costume management with preloaded vendor size charts.</p>",
+  "compare_html": "<p>For a studio under 100 students using built-in payments, The Studio Director's $39/mo is below <a href=\"/tools/studio-pro/\">Studio Pro</a> ($49/mo) and <a href=\"/tools/akada/\">Akada</a> ($60/mo). See <a href=\"/dance-studio-software-comparison/\">dance studio software compared</a>.</p>"
  }
 ]
