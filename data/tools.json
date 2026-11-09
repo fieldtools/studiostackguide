@@ -207,30 +207,24 @@
   "plans": [
    {
     "name": "Studio",
-    "users": "Staff not charged",
-    "monthly_no_commit": "From $99/mo",
-    "annual": "unknown"
+    "users": "Staff and prospects not charged",
+    "monthly_no_commit": "$99/mo (0-45 active members) up to $289/mo (251+)",
+    "annual": "unknown (annual contract on request)"
    },
    {
     "name": "Essentials (Studio + website)",
-    "users": "Staff not charged",
-    "monthly_no_commit": "$198/mo",
-    "annual": "unknown"
+    "users": "Staff and prospects not charged",
+    "monthly_no_commit": "$198/mo (0-45) up to $388/mo (251+)",
+    "annual": "unknown (annual contract on request)"
    },
    {
-    "name": "Ultimate (Studio + Engage marketing)",
-    "users": "Staff not charged",
-    "monthly_no_commit": "$348/mo",
-    "annual": "unknown"
-   },
-   {
-    "name": "New Business Bundle (Essentials + custom website + branded member app)",
-    "users": "Staff not charged",
-    "monthly_no_commit": "From $199/mo",
-    "annual": "unknown"
+    "name": "Ultimate (Studio + website + Engage)",
+    "users": "Staff and prospects not charged",
+    "monthly_no_commit": "$348/mo (0-45) up to $538/mo (251+)",
+    "annual": "unknown (annual contract on request)"
    }
   ],
-  "extra_user": "Priced by active members (prospects and staff not counted)",
+  "extra_user": "Priced by active members (anyone with a membership or who attended an event in the past month); prospects, staff, alumni and pay-per-session attendees not counted. Published tiers: 0-45, 46-60, 61-75, 76-100, 101-150, 151-200, 201-250, 251+. Multi-location priced by quote",
   "card_fee": "Daxko Payments or preferred processors; rates unknown",
   "belt_tracking": "Yes: belt and skill tracking listed",
   "attendance": "Yes",
@@ -238,25 +232,28 @@
   "rating": "unknown",
   "sources": [
    "https://zenplanner.com/pricing/",
-   "https://www.zenplanner.com/solutions/taekwondo-school-software",
    "https://www.zenplanner.com/pricing/active-member-tiers",
+   "https://www.zenplanner.com/solutions/taekwondo-school-software",
    "https://www.zenplanner.com/features/membership-management-software",
    "https://www.zenplanner.com/solutions/mma-gym-software",
    "https://www.zenplanner.com/solutions/muay-thai-gym-software",
    "https://www.zenplanner.com/solutions/krav-maga-academy-software"
   ],
   "best_for": "Gyms and studios wanting belt tracking plus payroll and member app",
-  "starting_price": "From $99/mo (Studio)",
+  "starting_price": "From $99/mo (Studio, 0-45 active members); up to $289/mo at 251+",
   "pros": [
+   "Every active-member tier is published",
    "Belt and skill tracking listed",
-   "Month-to-month by default",
-   "Staff and member mobile apps included"
+   "Month-to-month by default"
   ],
   "cons": [
-   "Final price depends on active member count (not published)",
-   "Branded app and card readers $39/mo each"
+   "Price rises with active members ($99 to $289/mo on Studio)",
+   "Branded app and card readers $39/mo each",
+   "Payments pricing is custom (not published)"
   ],
-  "last_verified": "2026-11-07"
+  "last_verified": "2026-11-09",
+  "add_ons": "Zen Planner Engage $249/mo, Website $99/mo, Branded app $39/mo, Card reader (Lane 3600) $39/mo; Zen Planner Payments custom pricing. Tools already in your package aren't billed twice. The $199/mo New Business Bundle we listed on Nov 2 is no longer on the pricing page (checked 2026-11-09)",
+  "tiers_html": "<div class=\"tw\" tabindex=\"0\" role=\"region\" aria-label=\"Zen Planner price by active members\"><table><tr><th>Active members</th><th>Studio</th><th>Essentials</th><th>Ultimate</th></tr><tr><td>0-45</td><td>$99/mo</td><td>$198/mo</td><td>$348/mo</td></tr><tr><td>46-60</td><td>$133/mo</td><td>$232/mo</td><td>$382/mo</td></tr><tr><td>61-75</td><td>$155/mo</td><td>$254/mo</td><td>$404/mo</td></tr><tr><td>76-100</td><td>$189/mo</td><td>$288/mo</td><td>$438/mo</td></tr><tr><td>101-150</td><td>$229/mo</td><td>$328/mo</td><td>$478/mo</td></tr><tr><td>151-200</td><td>$239/mo</td><td>$338/mo</td><td>$488/mo</td></tr><tr><td>201-250</td><td>$269/mo</td><td>$368/mo</td><td>$518/mo</td></tr><tr><td>251+</td><td>$289/mo</td><td>$388/mo</td><td>$538/mo</td></tr></table></div><p class=\"note\">From <a href=\"https://www.zenplanner.com/pricing/active-member-tiers\" rel=\"nofollow\">Zen Planner's active-member tiers page</a>, checked 2026-11-09. Essentials includes the website; Ultimate includes the website and Engage. Add-ons: Engage $249/mo, Website $99/mo, Branded app $39/mo, Card reader (Lane 3600) $39/mo.</p>"
  },
  {
   "slug": "spark-membership",
@@ -1686,23 +1683,23 @@
    {
     "name": "Essentials",
     "users": "Unlimited clients and employees; billing, scheduling, client management, waivers, one app for clients and staff",
-    "monthly_no_commit": "$199/mo list; $99/mo with the current book-a-demo offer",
+    "monthly_no_commit": "$199/mo list; $99/mo if you book a demo by Nov 30",
     "annual": "unknown"
    },
    {
     "name": "Accelerate",
     "users": "Adds lead management, insights dashboards, family groups and shared payments, belt/progression tracking, pre-built automations",
-    "monthly_no_commit": "$299/mo list; $199/mo with the current offer",
+    "monthly_no_commit": "$299/mo list; $199/mo if you book a demo by Nov 30",
     "annual": "unknown"
    },
    {
     "name": "Ultimate",
     "users": "Adds Wodify Perform workout tracking, custom website, unlimited automations, 1-day payouts, lowest processing rates",
-    "monthly_no_commit": "$499/mo list; $399/mo with the current offer",
+    "monthly_no_commit": "$499/mo list; $399/mo if you book a demo by Nov 30",
     "annual": "unknown"
    }
   ],
-  "extra_user": "Flat plan price; unlimited clients and employees on every plan. Plan prices are not printed on the visible plan cards; they come from the plan summary embedded in the pricing page source ($100/mo off list for new customers who book a demo; the visible banner says by Nov 30). Confirm on a demo.",
+  "extra_user": "Flat plan price; unlimited clients and employees on every plan. The visible pricing banner says \"Book a demo by Nov. 30 and save $100 every month\" (checked 2026-11-09). List prices aren't printed on the visible plan cards; they come from the plan summary embedded in the page source ($199/$299/$499 list). That embedded summary still says the offer ends October 31, so confirm the deadline and price on a demo.",
   "add_ons": "Branded app, 24/7 access, workout marketplace and heart-rate tracking are add-ons on all plans; Performance Tracking, custom website and unlimited automations are add-ons on Essentials and Accelerate (prices not published)",
   "card_fee": "Wodify Payments: cards as low as 2.7% + 30¢, ACH as low as 1.5% + 30¢, no monthly processing fee; rates vary by plan and country (pricing page FAQ)",
   "belt_tracking": "Yes on Accelerate and Ultimate: Progressions & Belt Tracking for martial arts and Jiu Jitsu (not on Essentials in the plan comparison)",
@@ -1713,7 +1710,7 @@
    "https://www.wodify.com/pricing"
   ],
   "best_for": "CrossFit, functional fitness and Jiu Jitsu gyms that want workout tracking with billing",
-  "starting_price": "$199/mo list (Essentials); $99/mo with the current demo offer",
+  "starting_price": "$199/mo list (Essentials); $99/mo if you book a demo by Nov 30, 2026",
   "pros": [
    "Month-to-month on every tier",
    "Unlimited clients and employees on all plans",
@@ -1722,10 +1719,157 @@
   "cons": [
    "Belt tracking not on the Essentials plan",
    "Onboarding fee amount not published",
-   "Prices not shown on the visible plan cards"
+   "$100/mo-off offer needs a demo booked by Nov 30"
   ],
   "last_verified": "2026-11-09",
   "autopay": "Yes: billing and membership management; add retail purchases to a client's next invoice (pricing page)",
   "parent_portal": "Single app for clients and staff; family groups and shared payments on Accelerate and Ultimate (pricing page)"
+ },
+ {
+  "slug": "maat",
+  "name": "MAAT",
+  "website": "https://maatapp.com/",
+  "trades": [
+   "bjj",
+   "martial"
+  ],
+  "free_trial": "7-day free trial (pricing page; terms say no payment needed during the trial)",
+  "contract": "No contract; renews month to month unless you choose the discounted annual plan; cancel anytime (pricing page FAQ)",
+  "plans": [
+   {
+    "name": "One Unlimited Plan",
+    "users": "Unlimited members; all features; 1-on-1 support",
+    "monthly_no_commit": "$59/mo + 1% transaction fee (plus Stripe fees)",
+    "annual": "$49/mo paid annually (\"save $120\") + 1% transaction fee"
+   }
+  ],
+  "extra_user": "Flat price; unlimited members; 1% MAAT transaction fee on payments plus Stripe fees. Prices are shown in $ on the pricing page; MAAT's terms say prices may display in EUR, GBP or another currency by location and exclude taxes",
+  "card_fee": "1% MAAT transaction fee on payments through the platform, on top of Stripe fees (pricing page; terms Article 10)",
+  "belt_tracking": "Yes: tracks progress and notifies you when students are ready for the next stripe or belt (homepage)",
+  "attendance": "Yes: attendance tracking and class check-ins (homepage, terms)",
+  "online_booking": "Yes: students view schedules and book their spot from their phone (homepage)",
+  "autopay": "Yes: automated payment collection, refunds, invoices and payouts (homepage); cards and SEPA/BACS mandates mentioned in migration FAQ",
+  "parent_portal": "Student app for schedules, bookings and memberships (homepage); parent/family accounts: unknown",
+  "rating": "unknown",
+  "sources": [
+   "https://maatapp.com/pricing",
+   "https://maatapp.com/",
+   "https://maatapp.com/legal/terms-and-conditions"
+  ],
+  "best_for": "BJJ and MMA academies that want one flat price with unlimited members",
+  "starting_price": "$49/mo paid annually or $59/mo monthly, + 1% transaction fee",
+  "pros": [
+   "One plan with all features and unlimited members",
+   "No contract; month to month",
+   "Free data migration (pricing page FAQ)"
+  ],
+  "cons": [
+   "1% transaction fee on top of Stripe fees",
+   "Free trial is 7 days",
+   "Parent/family accounts not described on the pricing page"
+  ],
+  "last_verified": "2026-11-09"
+ },
+ {
+  "slug": "matgoat",
+  "name": "MatGoat",
+  "website": "https://matgoat.com/en/",
+  "trades": [
+   "martial",
+   "bjj"
+  ],
+  "free_trial": "30 days, no credit card (pricing page FAQ); 30-day money-back guarantee",
+  "contract": "Cancel anytime without penalty; access runs to the end of the billing period (pricing page FAQ)",
+  "plans": [
+   {
+    "name": "Basic",
+    "users": "Up to 50 students; payment management not included",
+    "monthly_no_commit": "$40/mo",
+    "annual": "unknown"
+   },
+   {
+    "name": "Professional",
+    "users": "Unlimited students; adds payment management and priority chat support",
+    "monthly_no_commit": "$60/mo",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Priced by plan: Basic up to 50 students, Professional unlimited. USD prices shown; taxes not included",
+  "card_fee": "MatGoat adds no percentage fee to student payments; Stripe's own processing fees apply (pricing page FAQ). Payment management is on Professional only",
+  "belt_tracking": "Yes: graduation history with belt and level tracking per student (both plans)",
+  "attendance": "Yes: kiosk-mode check-in (you supply the device), attendance history and analytics (both plans)",
+  "online_booking": "Yes: class schedules with booking from the app and capacity limits (homepage)",
+  "autopay": "Professional only: fee control, reminders and billing; cash payments can be marked in the app (pricing page, homepage)",
+  "parent_portal": "Free iOS/Android apps for students and parents; parents manage their children's accounts (homepage)",
+  "rating": "unknown",
+  "sources": [
+   "https://matgoat.com/en/pricing/",
+   "https://matgoat.com/en/"
+  ],
+  "best_for": "Small BJJ and martial arts academies that want a low flat price; payments need Professional",
+  "starting_price": "$40/mo (Basic, up to 50 students)",
+  "pros": [
+   "30-day trial with no credit card",
+   "No MatGoat percentage on student payments (Stripe fees only)",
+   "Unlimited classes and events on both plans"
+  ],
+  "cons": [
+   "Basic has no payment management",
+   "Basic is capped at 50 students",
+   "Annual pricing not published"
+  ],
+  "last_verified": "2026-11-09"
+ },
+ {
+  "slug": "matpilot",
+  "name": "MatPilot",
+  "website": "https://matpilot.io/us/",
+  "trades": [
+   "martial",
+   "bjj"
+  ],
+  "free_trial": "Free plan (no card required); no separate trial needed",
+  "contract": "No contract; every plan month to month; cancel from Settings and it ends at the close of the billing month (pricing page FAQ)",
+  "plans": [
+   {
+    "name": "Free",
+    "users": "For small academies (member limit not stated on the pricing page)",
+    "monthly_no_commit": "$0/mo + 2% platform fee on payments",
+    "annual": "unknown"
+   },
+   {
+    "name": "Pro",
+    "users": "Unlimited members; adds AI co-pilot, family billing, Xero and diplomas",
+    "monthly_no_commit": "$79/mo + 0.49% platform fee on payments",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "No per-member or setup fee; flat monthly price. Prices in US dollars",
+  "add_ons": "MatPilot Phone $25/mo per number plus calls (WhatsApp included); MatPilot Store $39/mo with no fee on sales, or $29/mo + 1.5% per sale; website +$25/mo on Pro ($49.90/mo standalone, setup priced on scope); white-label app quoted",
+  "card_fee": "Platform fee 2% (Free) or 0.49% (Pro) on payments taken through MatPilot, plus Stripe's own processing fee on every plan",
+  "belt_tracking": "Yes: belts, stripes and promotion history per art, curriculum and belt tracking; diplomas on Pro (homepage, features page)",
+  "attendance": "Yes: attendance and self check-in kiosk (pricing page)",
+  "online_booking": "Yes: timetable, capacity and waitlists; members book from their phone (homepage)",
+  "autopay": "Yes: payments through Stripe on both plans; family billing on Pro (pricing page)",
+  "parent_portal": "Family billing on Pro (one parent pays once for every child); native iOS/Android apps (homepage, features page)",
+  "rating": "unknown",
+  "sources": [
+   "https://matpilot.io/us/pricing.html",
+   "https://matpilot.io/us/",
+   "https://matpilot.io/us/features.html"
+  ],
+  "best_for": "Small academies that want a $0 start and an unlimited-member plan later",
+  "starting_price": "$0/mo (Free, 2% platform fee); Pro $79/mo + 0.49%",
+  "pros": [
+   "Free plan with no setup fee",
+   "Pro has unlimited members and a 0.49% platform fee",
+   "Month to month, no minimum term"
+  ],
+  "cons": [
+   "Free plan charges 2% on payments",
+   "Free plan member limit not stated",
+   "Family billing and diplomas are Pro only"
+  ],
+  "last_verified": "2026-11-09"
  }
 ]

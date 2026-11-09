@@ -184,5 +184,25 @@
   "url": "https://www.wodify.com/",
   "program": "No affiliate program checked or joined (non-affiliate)",
   "status": "plain"
+ },
+ "maat": {
+  "url": "https://maatapp.com/pricing",
+  "program": "No affiliate program checked or joined; MAAT's page lists a gym-to-gym referral (\"Refer, earn €100\") only; plain link",
+  "status": "plain"
+ },
+ "matgoat": {
+  "url": "https://matgoat.com/en/pricing/",
+  "program": "No affiliate program checked or joined; plain link",
+  "status": "plain"
+ },
+ "bjjlink": {
+  "url": "https://bjjlink.com/pricing",
+  "program": "No affiliate program checked or joined; plain link",
+  "status": "plain"
+ },
+ "gympoint": {
+  "url": "https://gympoint.ai/pricing/",
+  "program": "Pricing page mentions a partner program (contact by message, no application platform); not applied; plain link",
+  "status": "plain"
  }
 }
