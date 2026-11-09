@@ -64,3 +64,4 @@
 | 61 | studio-pro-vs-akada (flat $49-$165 by plan vs flat $60 all features) | vs | todo |
 | 62 | dance-recital-and-costume-software (recital ticketing, costume sizing compared) | feature | todo |
 | 63 | jackrabbit-alternatives (dance studios) | alternatives | todo |
+| 64 | tools/waiverforever (review + pricing; digital waivers for martial arts, gym, yoga and climbing studios; could anchor a best/waiver-software-for-studios page) | tool | todo (affiliate: WaiverForever $50 per paying subscriber + $5 per trial via ShareASale/Awin, needs Jacob (network account); scout 2026-11-09) |
