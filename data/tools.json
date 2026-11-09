@@ -784,7 +784,7 @@
    "Free plan card rate is 4.99% + $0.30",
    "Trial and contract terms not published on pricing page"
   ],
-  "last_verified": "2026-10-26",
+  "last_verified": "2026-11-09",
   "autopay": "Yes: pro-rated recurring billing (pricing page)",
   "parent_portal": "Members app for booking, purchases and profile updates (pricing page)"
  },
@@ -1671,5 +1671,61 @@
   "last_verified": "2026-11-08",
   "who_html": "<p>The Studio Director markets itself mainly to dance studios and gymnastics businesses and also lists cheer, fitness, martial arts, music, pilates, yoga and youth sports. Features it lists: texting and email with drip campaigns, virtual class links, events and recitals with ticket sales, stored card and bank payments, online enrollment through a parent portal, reports, and costume management with preloaded vendor size charts.</p>",
   "compare_html": "<p>For a studio under 100 students using built-in payments, The Studio Director's $39/mo is below <a href=\"/tools/studio-pro/\">Studio Pro</a> ($49/mo) and <a href=\"/tools/akada/\">Akada</a> ($60/mo). See <a href=\"/dance-studio-software-comparison/\">dance studio software compared</a>.</p>"
+ },
+ {
+  "slug": "wodify",
+  "name": "Wodify",
+  "website": "https://www.wodify.com/",
+  "trades": [
+   "bjj",
+   "martial"
+  ],
+  "free_trial": "unknown (demo-led signup; no trial stated on the pricing page)",
+  "contract": "Month-to-month, no long-term contracts on any tier; change plans any time; small onboarding fee (amount not published) (pricing page FAQ)",
+  "plans": [
+   {
+    "name": "Essentials",
+    "users": "Unlimited clients and employees; billing, scheduling, client management, waivers, one app for clients and staff",
+    "monthly_no_commit": "$199/mo list; $99/mo with the current book-a-demo offer",
+    "annual": "unknown"
+   },
+   {
+    "name": "Accelerate",
+    "users": "Adds lead management, insights dashboards, family groups and shared payments, belt/progression tracking, pre-built automations",
+    "monthly_no_commit": "$299/mo list; $199/mo with the current offer",
+    "annual": "unknown"
+   },
+   {
+    "name": "Ultimate",
+    "users": "Adds Wodify Perform workout tracking, custom website, unlimited automations, 1-day payouts, lowest processing rates",
+    "monthly_no_commit": "$499/mo list; $399/mo with the current offer",
+    "annual": "unknown"
+   }
+  ],
+  "extra_user": "Flat plan price; unlimited clients and employees on every plan. Plan prices are not printed on the visible plan cards; they come from the plan summary embedded in the pricing page source ($100/mo off list for new customers who book a demo; the visible banner says by Nov 30). Confirm on a demo.",
+  "add_ons": "Branded app, 24/7 access, workout marketplace and heart-rate tracking are add-ons on all plans; Performance Tracking, custom website and unlimited automations are add-ons on Essentials and Accelerate (prices not published)",
+  "card_fee": "Wodify Payments: cards as low as 2.7% + 30¢, ACH as low as 1.5% + 30¢, no monthly processing fee; rates vary by plan and country (pricing page FAQ)",
+  "belt_tracking": "Yes on Accelerate and Ultimate: Progressions & Belt Tracking for martial arts and Jiu Jitsu (not on Essentials in the plan comparison)",
+  "attendance": "unknown (attendance streaks and Kiosk+ announcements listed; check-in details not on the pricing page)",
+  "online_booking": "Yes: class and appointment scheduling, automated waitlists, online sales of memberships, packs, drop-ins and trials (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.wodify.com/pricing"
+  ],
+  "best_for": "CrossFit, functional fitness and Jiu Jitsu gyms that want workout tracking with billing",
+  "starting_price": "$199/mo list (Essentials); $99/mo with the current demo offer",
+  "pros": [
+   "Month-to-month on every tier",
+   "Unlimited clients and employees on all plans",
+   "Card rates from 2.7% + 30¢ with no monthly processing fee"
+  ],
+  "cons": [
+   "Belt tracking not on the Essentials plan",
+   "Onboarding fee amount not published",
+   "Prices not shown on the visible plan cards"
+  ],
+  "last_verified": "2026-11-09",
+  "autopay": "Yes: billing and membership management; add retail purchases to a client's next invoice (pricing page)",
+  "parent_portal": "Single app for clients and staff; family groups and shared payments on Accelerate and Ultimate (pricing page)"
  }
 ]

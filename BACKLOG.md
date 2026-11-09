@@ -22,9 +22,9 @@
 | 19 | free-martial-arts-software (free tiers/trials) | best | done (2026-10-26) |
 | 20 | martial-arts-software-pricing (cost by student count) | guide | done (2026-10-22) |
 | 21 | mindbody-alternatives-for-studios | alternatives | done (2026-10-31) |
-| 22 | zen-planner-alternatives | alternatives | todo |
+| 22 | zen-planner-alternatives | alternatives | done (2026-11-09; added Wodify tool page; Search Console query "zen planner", Oct 2026) |
 | 23 | kicksite-alternatives | alternatives | done (2026-10-30) |
-| 24 | add tools (Jackrabbit Class, DanceStudio-Pro/Studio Pro, Akada, Studio Director added 2026-11-08; still to add): Glofox, WellnessLiving, Momence, Wodify, PushPress, MyStudio, Ember, Dojo Expert | data | todo |
+| 24 | add tools (Jackrabbit Class, DanceStudio-Pro/Studio Pro, Akada, Studio Director added 2026-11-08; Wodify added 2026-11-09; still to add): Glofox, Momence, MyStudio, Ember, Dojo Expert | data | todo |
 | 25 | best-dance-studio-software (dance-only, with Jackrabbit) | best | done (2026-11-08; live as /dance-studio-software-comparison/, Search Console query "dance studio software comparison") |
 | 26 | best-software-for-new-dojo (startup checklist) | guide | todo |
 | 27 | martial-arts-software-with-branded-app | feature | todo |
