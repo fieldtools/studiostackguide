@@ -6,12 +6,37 @@ R = Path(__file__).parent; D = R/"data"; OUT = R/"dist"
 site = json.loads((D/"site.json").read_text()); aff = json.loads((D/"affiliates.json").read_text())
 tools = {t["slug"]: t for t in json.loads((D/"tools.json").read_text())}
 trades = json.loads((D/"trades.json").read_text())
-pages = [json.loads(p.read_text()) for p in sorted((D/"pages").glob("*.json"))]
+PAGE_FILES = sorted((D/"pages").glob("*.json"))
+pages = [json.loads(p.read_text()) for p in PAGE_FILES]
 BASE, LC = site["base_url"].rstrip("/"), site["last_checked"]
 from urllib.parse import urlparse
 PREFIX = urlparse(BASE).path.rstrip("/")
 e = html.escape
 urls = []
+import subprocess, datetime
+TODAY = datetime.date.today().isoformat()
+LASTMOD = {}  # sitemap path -> YYYY-MM-DD
+def _git(*a):
+    try: return subprocess.run(["git", "-C", str(R), *a], capture_output=True, text=True, timeout=20).stdout.strip()
+    except Exception: return ""
+GIT_OK = _git("rev-parse", "--is-shallow-repository") == "false"  # shallow/no git -> data dates only
+def gitdate(path):
+    """Last commit date of a source file (today if it has uncommitted edits); None if unknown."""
+    if not GIT_OK: return None
+    rel = str(Path(path).resolve().relative_to(R.resolve()))
+    if _git("status", "--porcelain", "--", rel): return TODAY
+    return _git("log", "-1", "--format=%cs", "--", rel) or None
+def lm(path, *dates):
+    ds = [d for d in dates if d]; LASTMOD[path] = max(ds) if ds else LC
+def fit_desc(lead, names, tail, limit=155):
+    """Hub meta description <= limit chars: drop trailing tool names ("and N more") rather than cutting words."""
+    for k in range(len(names), 0, -1):
+        lst = ", ".join(names[:k]) + (f" and {len(names)-k} more" if k < len(names) else "")
+        d = f"{lead}{lst}. {tail}"
+        if len(d) <= limit: return d
+    d = f"{lead}{names[0] if names else ''}. {tail}"
+    return d if len(d) <= limit else d[:limit].rsplit(" ", 1)[0].rstrip(",.:;") + "."
+
 
 ICONS = {  # simple original inline SVG paths (24x24, stroke)
  "martial": '<circle cx="12" cy="4" r="2"/><path d="M12 6v7M12 13l-4 8M12 13l4 8M5 9l7 1 7-3M4 14h16"/>',
@@ -184,14 +209,15 @@ def build():
         rel = "".join(f'<li><a href="/{p["slug"]}/">{e(p["h1"])}</a></li>' for p in pages if t["key"] in p["trades"])
         li = "".join(f'<li><a href="/tools/{x["slug"]}/">{x["name"]}</a>: from {x["plans"][0]["monthly_no_commit"]}</li>' for x in ts)
         path = f"/studios/{t['slug']}/"
-        write(path, layout(path, f"{t['name']} Software: Tools, Prices & Comparisons ({LC[:4]})",
-            f"{t['name']} software compared: {', '.join(x['name'] for x in ts)}. Published prices, trials and features with sources, last checked {LC}.",
+        lm(path, gitdate(D/"trades.json"), *[x.get("last_verified") for x in ts])
+        write(path, layout(path, t.get("seo_title") or f"{t['name']} Software: Tools, Prices & Comparisons ({LC[:4]})",
+            t.get("seo_description") or fit_desc(f"{t['name']} software compared: ", [x['name'] for x in ts], f"Sourced prices and trials, checked {LC}."),
             f"{pic(t['key'])}<div class='ph'>{icon(t['key'],'ic big')}<h1>{t['name']} software</h1></div><p class='lead'>{t['intro']}</p>{trustbar()}<h2>Tools</h2><div class='grid tools-g'>{''.join(toolcard(x) for x in ts)}</div><h2>Side-by-side comparison</h2>{table([x['slug'] for x in ts])}<ul class='sr'>{li}</ul>" + (f"<h2>Guides</h2><ul>{rel}</ul>" if rel else ""),
             [crumbs([("Home","/"),(t["name"],path)])]))
     PIMG = {slug: k for _, slug, k in page_targets()}
     # tools
     for x in tools.values():
-        path = f"/tools/{x['slug']}/"
+        path = f"/tools/{x['slug']}/"; lm(path, x.get("last_verified"))
         plans = "".join(f"<tr><td>{p['name']}</td><td>{p['users']}</td><td>{p['monthly_no_commit']}</td><td>{p['annual']}</td></tr>" for p in x["plans"])
         key = x["slug"] if x["slug"] in aff else x["slug"].replace("-","")
         cta = afflink(key, f"Visit {x['name']}") if key in aff else ""
@@ -199,15 +225,15 @@ def build():
             f"{pic(PIMG['tools/'+x['slug']])}<h1>{x['name']}: pricing and features</h1>{trustbar()}<div class='summary card'><p class='bf'><span class='lbl'>Best for</span> {e(x.get('best_for','unknown'))}</p><p class='price'><span class='lbl'>Starting price</span> {e(x.get('starting_price','unknown'))}</p>{proscons(x)}<div class='actions'>{cta}</div></div><h2>Plans</h2><div class='tw' tabindex='0' role='region' aria-label='Plans table'><table><tr><th>Plan</th><th>Users</th><th>Monthly</th><th>Annual</th></tr>{plans}</table></div>"+(f"<h2>Price by active members</h2>{x['tiers_html']}" if x.get('tiers_html') else "")+(f"<h2>Who it's for</h2>{x['who_html']}" if x.get('who_html') else "")+(f"<h2>How it compares</h2>{x['compare_html']}" if x.get('compare_html') else "")+f"<h2>Key facts</h2><ul class='facts'><li>Trial: {x['free_trial']}</li><li>Contract: {x['contract']}</li><li>Pricing basis: {x['extra_user']}</li>"+(f"<li>Add-ons: {e(x['add_ons'])}</li>" if x.get('add_ons') else "")+f"<li>Belt/rank tracking: {x['belt_tracking']}</li><li>Attendance: {x['attendance']}</li><li>Booking: {x['online_booking']}</li><li>Last verified: {x['last_verified']}</li><li>Payments: {x['card_fee']}</li><li>Rating: {x['rating']}</li></ul><p>Sources: "+" ".join(f'<a href="{s}" rel="nofollow">{s}</a>' for s in x['sources'])+"</p>"+(("<h2>Guides featuring "+x['name']+"</h2><ul>"+"".join(f'<li><a href="/{p["slug"]}/">{e(p["h1"])}</a></li>' for p in pages if x['slug'] in p.get('tools',[]))+"</ul>") if any(x['slug'] in p.get('tools',[]) for p in pages) else "")+f"<div class='actions'>{cta}</div>",
             [crumbs([("Home","/"),(x["name"],path)]),{"@context":"https://schema.org","@type":"SoftwareApplication","name":x["name"],"applicationCategory":"BusinessApplication","url":x["website"]}]))
     # articles
-    for p in pages:
-        path = f"/{p['slug']}/"
+    for pf, p in zip(PAGE_FILES, pages):
+        path = f"/{p['slug']}/"; lm(path, gitdate(pf), p.get("last_verified"))
         faq = "".join(f"<h3>{e(q)}</h3><p>{e(a)}</p>" for q,a in p.get("faq",[]))
         sch = [crumbs([("Home","/"),(p["h1"],path)]),{"@context":"https://schema.org","@type":"Article","headline":p["h1"],"dateModified":LC,"author":{"@type":"Organization","name":site["name"]}}]
         if p.get("faq"): sch.append({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for q,a in p["faq"]]})
         write(path, layout(path, p["title"], p["description"], f"{pic(PIMG[p['slug']])}<h1>{e(p['h1'])}</h1>{trustbar()}{render(p['body'])}" + (f"<h2>FAQ</h2>{faq}" if faq else ""), sch))
     build_404()
     shutil.copytree(R/"static/.well-known", OUT/".well-known"); (OUT/".nojekyll").write_text("")
-    (OUT/"sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + "".join(f"<url><loc>{BASE}{u}</loc><lastmod>{LC}</lastmod></url>" for u in urls) + "</urlset>\n")
+    (OUT/"sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + "".join(f"<url><loc>{BASE}{u}</loc><lastmod>{LASTMOD.get(u) or (max(LASTMOD.values()) if u == '/' and LASTMOD else LC)}</lastmod></url>" for u in urls) + "</urlset>\n")
     (OUT/"CNAME").write_text(urlparse(BASE).netloc + "\n")
     (OUT/"robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n")
     print(f"Built {len(urls)} pages -> {OUT}")
