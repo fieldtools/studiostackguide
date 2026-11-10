@@ -1,0 +1,34 @@
+{
+ "slug": "mariana-tek-vs-mindbody",
+ "title": "Mariana Tek vs Mindbody (2026): Pricing & Branded Apps",
+ "description": "Mariana Tek vs Mindbody for boutique studios: published prices, branded apps, the Mindbody app's new-client fee, pick-a-spot and payment processing.",
+ "h1": "Mariana Tek vs Mindbody for boutique studios",
+ "keyword": "mariana tek vs mindbody",
+ "type": "vs",
+ "tools": [
+  "mariana-tek",
+  "mindbody"
+ ],
+ "trades": [
+  "yoga"
+ ],
+ "body": "<p>Mariana Tek and Mindbody both run class booking, memberships and payments for pilates, yoga, barre, cycling and other boutique studios. They take different approaches. <strong>Mindbody</strong> publishes an entry price (Starter from $79/mo per location) and lists your studio on its consumer app. <strong>Mariana Tek</strong> publishes no prices and builds around your own custom-branded app. Facts below come from <a href=\"https://www.marianatek.com/pricing\" rel=\"nofollow noopener\">Mariana Tek pricing</a> and <a href=\"https://www.mindbodyonline.com/business/pricing\" rel=\"nofollow noopener\">Mindbody pricing</a>, both checked 2026-11-04. Anything a vendor doesn't publish is marked <em>unknown</em>.</p>\n{{table:mariana-tek,mindbody}}\n<h2>Pricing</h2>\n<ul><li><strong>Mindbody:</strong> Starter from $79/mo per location with unlimited users, booking, integrated payments, branded widgets, a website, a Mindbody app listing and basic reporting. Accelerate and Ultimate prices aren't published. There's no onboarding fee on any plan, and contract terms depend on plan, billing terms and any promotion.</li>\n<li><strong>Mariana Tek:</strong> three plans (Core, Core + Growth, and Full Growth Bundle), all quote only, so you need an intro call for a price. Every plan includes unlimited classes and instructors and multi-location management from one login. Trial and contract terms aren't published.</li></ul>\n<h2>Branded app vs marketplace</h2>\n<p>Mariana Tek includes custom-branded iOS and Android apps on every plan, starting with Core, plus a Biz App, kiosk check-in, waivers and forms. Marketing automation (email and SMS), two-way texting and landing pages need Core + Growth or above.</p>\n<p>Mindbody lists your studio on the Mindbody consumer app on Starter. If a client finds you through the app and is new to your studio, Mindbody charges 20% (capped at $30) on that first purchase; later bookings carry no commission (Mindbody pricing page FAQ). Mindbody's branded mobile app isn't available on Starter. It's an add-on on Accelerate and Ultimate, at a price Mindbody doesn't publish.</p>\n<h2>Pick-a-spot and class features</h2>\n<ul><li><strong>Mariana Tek:</strong> pick-a-spot with custom floor plans for reformers, megaformers and bikes, class rosters and waitlists, and kiosk check-in.</li>\n<li><strong>Mindbody:</strong> self-serve booking and branded website widgets on Starter. Pick-a-Spot, room and resource management, advanced reporting and promo codes are on Accelerate. Ultimate adds automated email and text marketing, a lead pipeline and AI Concierge.</li></ul>\n<h2>Payment processing</h2>\n<ul><li><strong>Mariana Tek:</strong> Stripe processing at Stripe's standard flat rate, and Mariana Tek says it adds nothing on top. It doesn't state the exact rate.</li>\n<li><strong>Mindbody:</strong> Mindbody Payments is optional and charges a rate that varies by card type plus $0.10-$0.30 per transaction. Third-party processors are allowed.</li></ul>\n<h2>Onboarding</h2>\n<p>Mariana Tek says typical onboarding takes five to eight weeks, with dedicated onboarding specialists and a demo environment. Mindbody's pricing page says there's no onboarding fee on any plan.</p>\n<h2>Which to pick</h2>\n<ul><li><strong>You want a published price and new clients from a marketplace:</strong> Mindbody, starting at $79/mo per location. Budget for the 20% (capped at $30) fee on first purchases from app-found clients. {{aff:mindbody|See Mindbody plans}}</li>\n<li><strong>You want your own branded app and reformer or bike spot booking from day one:</strong> Mariana Tek, if you're fine getting a quote and allowing five to eight weeks to onboard. {{aff:marianatek|Book a Mariana Tek intro call}}</li></ul>\n<p>More detail: <a href=\"/tools/mariana-tek/\">Mariana Tek overview</a> · <a href=\"/mindbody-pricing/\">Mindbody pricing breakdown</a> · <a href=\"/mindbody-alternatives-for-studios/\">Mindbody alternatives</a> · <a href=\"/best-yoga-studio-software/\">best yoga studio software</a> · <a href=\"/wellnessliving-vs-mindbody/\">WellnessLiving vs Mindbody</a></p>",
+ "faq": [
+  [
+   "How much does Mariana Tek cost?",
+   "Mariana Tek doesn't publish prices. Its Core, Core + Growth and Full Growth Bundle plans are quote only, so you need an intro call (marianatek.com/pricing, checked 2026-11-04)."
+  ],
+  [
+   "Is Mindbody cheaper than Mariana Tek?",
+   "We can't say, because Mariana Tek publishes no prices. Mindbody's Starter plan is from $79/mo per location. Accelerate and Ultimate prices aren't published either."
+  ],
+  [
+   "Does Mariana Tek include a branded app?",
+   "Yes. Custom-branded iOS and Android apps are included on every Mariana Tek plan, starting with Core."
+  ],
+  [
+   "What does Mindbody charge for clients from its app?",
+   "If a client finds you through the Mindbody app and is new to your business, Mindbody charges 20% (capped at $30) on that first purchase. Later bookings are commission-free."
+  ]
+ ]
+}

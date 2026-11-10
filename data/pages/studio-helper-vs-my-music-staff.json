@@ -1,0 +1,35 @@
+{
+ "slug": "studio-helper-vs-my-music-staff",
+ "title": "Studio Helper vs My Music Staff (2026): Pricing Compared",
+ "description": "Studio Helper vs My Music Staff for music studios: per-student vs per-teacher pricing, monthly cost by studio size, trials, payroll and portals.",
+ "h1": "Studio Helper vs My Music Staff for music lesson studios",
+ "keyword": "studio helper vs my music staff",
+ "type": "vs",
+ "image": "music",
+ "tools": [
+  "studio-helper",
+  "my-music-staff"
+ ],
+ "trades": [
+  "music"
+ ],
+ "body": "<p>Studio Helper and My Music Staff both handle scheduling, attendance, invoicing and online payments for music lesson studios. They charge in different ways. <strong>Studio Helper</strong> is $50/mo plus 25 cents per student, with every feature included. <strong>My Music Staff</strong> is $16.95/mo for you, plus $4.95/mo for each additional teacher or staff member, with unlimited students. Sources: <a href=\"https://studiohelper.com/pricing\" rel=\"nofollow noopener\">Studio Helper pricing</a> (checked 2026-11-10) and <a href=\"https://www.mymusicstaff.com/pricing/\" rel=\"nofollow noopener\">My Music Staff pricing</a> (checked 2026-10-25). Anything a vendor doesn't publish is marked <em>unknown</em>.</p>\n{{table:studio-helper,my-music-staff}}\n<h2>Monthly cost by studio size (list prices)</h2>\n<p>Worked out from the published formulas, in USD per month before payment processing. For My Music Staff we count every teacher, including you. Add any office staff, who also cost $4.95/mo each.</p>\n<div class=\"tw\" tabindex=\"0\" role=\"region\" aria-label=\"Studio Helper vs My Music Staff cost by studio size\"><table><tr><th>Studio</th><th>Studio Helper ($50 + $0.25/student)</th><th>My Music Staff ($16.95 + $4.95/extra teacher)</th></tr>\n<tr><td>Solo teacher, 30 students</td><td>$57.50</td><td>$16.95</td></tr>\n<tr><td>3 teachers, 60 students</td><td>$65.00</td><td>$26.85</td></tr>\n<tr><td>5 teachers, 100 students</td><td>$75.00</td><td>$36.75</td></tr>\n<tr><td>10 teachers, 250 students</td><td>$112.50</td><td>$61.50</td></tr></table></div>\n<p>On published list prices, My Music Staff costs less at every size shown. Studio Helper's price follows student count, while My Music Staff's follows headcount, so the gap narrows for studios with many teachers and few students each.</p>\n<h2>What each includes</h2>\n<ul><li><strong>Studio Helper:</strong> one plan with every feature. That covers a real-time calendar that students, teachers and staff can see and book from, room and teacher scheduling, reminders and attendance tracking, and online invoicing and payments. It also has payroll, expense and inventory tracking, reports for key metrics and tax returns, per-role permissions, and student skill updates with parent alerts. You can embed availability on your own website. Processor, card rates and contract terms aren't published.</li>\n<li><strong>My Music Staff:</strong> one plan with every feature. That covers attendance tracking, lesson reminders, rescheduling and cancellations, automatic invoicing with online payments and late-fee automation, a student portal with self-service scheduling, lesson notes and payment history, and multi-teacher roles and payroll tracking. Unlimited students and SMS reminders are included, plus a website builder with free hosting. Payments run through Stripe or PayPal integrations; processing rates aren't published.</li></ul>\n<h2>Trials and terms</h2>\n<ul><li><strong>Studio Helper:</strong> 30-day free trial. Contract and cancellation terms aren't published.</li>\n<li><strong>My Music Staff:</strong> 30-day free trial with full access and no credit card, a 90-day money-back guarantee, no contracts, and cancel anytime.</li></ul>\n<h2>Which to pick</h2>\n<ul><li><strong>Solo teacher or small studio watching cost:</strong> My Music Staff. $16.95/mo with unlimited students.</li>\n<li><strong>Multi-teacher studio that also wants expense and inventory tracking:</strong> Studio Helper lists both, and its published price is per student, with no separate per-teacher charge listed. {{aff:studio-helper|Try Studio Helper free for 30 days}}</li></ul>\n<p>More detail: <a href=\"/tools/studio-helper/\">Studio Helper overview</a> · <a href=\"/tools/my-music-staff/\">My Music Staff overview</a> · <a href=\"/best-music-lesson-studio-software/\">music lesson studio software compared</a> · <a href=\"/free-music-lesson-software/\">free music lesson software</a> · <a href=\"/studios/music-lessons/\">all music lesson studio tools</a></p>",
+ "faq": [
+  [
+   "Is Studio Helper or My Music Staff cheaper?",
+   "On published list prices, My Music Staff: $16.95/mo plus $4.95 per extra teacher or staff member, versus Studio Helper's $50/mo plus $0.25 per student. A solo teacher with 30 students pays $16.95 vs $57.50 a month."
+  ],
+  [
+   "Does My Music Staff charge per student?",
+   "No. My Music Staff includes unlimited students and charges $4.95/mo per additional teacher or staff member (mymusicstaff.com/pricing, checked 2026-10-25)."
+  ],
+  [
+   "Do Studio Helper and My Music Staff have free trials?",
+   "Yes, both offer 30 days. My Music Staff says no credit card is needed and adds a 90-day money-back guarantee."
+  ],
+  [
+   "Which one includes payroll?",
+   "Both list it. Studio Helper lists payroll, expense and inventory tracking. My Music Staff lists payroll tracking and per-teacher roles and permissions for multi-teacher studios (pricing page, checked 2026-11-10)."
+  ]
+ ]
+}

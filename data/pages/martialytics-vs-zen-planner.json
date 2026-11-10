@@ -1,0 +1,35 @@
+{
+ "slug": "martialytics-vs-zen-planner",
+ "title": "Martialytics vs Zen Planner (2026): Pricing by Student Count",
+ "description": "Martialytics vs Zen Planner for martial arts schools: published price at your student count, belt tracking, add-ons, payments, trials and contracts.",
+ "h1": "Martialytics vs Zen Planner",
+ "keyword": "martialytics vs zen planner",
+ "type": "vs",
+ "tools": [
+  "martialytics",
+  "zen-planner"
+ ],
+ "trades": [
+  "martial",
+  "bjj"
+ ],
+ "body": "<p>Martialytics and Zen Planner both run belt tracking, attendance, booking and billing for martial arts schools, and both price by how many active students or members you have. <strong>Martialytics</strong> is built only for martial arts schools and includes every feature on every tier. <strong>Zen Planner</strong> also serves gyms and studios, and sells its website, Engage marketing, branded app and card reader as add-ons or bundles. Sources: <a href=\"https://www.martialytics.com/pricing\" rel=\"nofollow noopener\">Martialytics pricing</a> (checked 2026-11-07) and <a href=\"https://www.zenplanner.com/pricing/active-member-tiers\" rel=\"nofollow noopener\">Zen Planner active-member tiers</a> (checked 2026-11-09). Anything a vendor doesn't publish is marked <em>unknown</em>.</p>\n{{table:martialytics,zen-planner}}\n<h2>Price at your headcount (published, USD/month)</h2>\n<div class=\"tw\" tabindex=\"0\" role=\"region\" aria-label=\"Martialytics vs Zen Planner price by headcount\"><table><tr><th>Active students / members</th><th>Martialytics</th><th>Zen Planner Studio</th></tr>\n<tr><td>40</td><td>$69 (0-50)</td><td>$99 (0-45)</td></tr>\n<tr><td>75</td><td>$99 (51-100)</td><td>$155 (61-75)</td></tr>\n<tr><td>100</td><td>$99 (51-100)</td><td>$189 (76-100)</td></tr>\n<tr><td>150</td><td>$129 (101-200)</td><td>$229 (101-150)</td></tr>\n<tr><td>200</td><td>$129 (101-200)</td><td>$239 (151-200)</td></tr>\n<tr><td>260</td><td>$199 (200+)</td><td>$289 (251+)</td></tr></table></div>\n<p>At every headcount shown, Martialytics' published price is lower than Zen Planner Studio: $30/mo less at 40 students and $110/mo less at 200. The two count heads differently. Martialytics counts active students and doesn't charge for leads or inactive students. Zen Planner counts anyone with a membership or who attended in the past month, and doesn't count prospects, staff, alumni or pay-per-session attendees. Neither publishes annual pricing; Zen Planner offers an annual contract on request.</p>\n<h2>What costs extra on Zen Planner</h2>\n<p>Zen Planner Studio is the base plan. Essentials adds a website ($198-$388/mo) and Ultimate adds the website plus Engage marketing ($348-$538/mo). Add-ons are Engage $249/mo, Website $99/mo, a branded app $39/mo and a card reader (Lane 3600) $39/mo. Martialytics includes every feature on every plan, with unlimited users, locations and emails.</p>\n<h2>Belts, attendance and booking</h2>\n<ul><li><strong>Martialytics:</strong> grading-readiness tracking, a student app with lessons sectioned by rank, engagement tracking with automatic absence follow-up, a Kiosk Mode check-in app, and bookings and events with a calendar and capacity limits.</li>\n<li><strong>Zen Planner:</strong> belt and skill tracking, attendance, and online class scheduling with waitlists, capacity limits and automatic reminders. Members book online or from the app.</li></ul>\n<h2>Payments, trials and contracts</h2>\n<ul><li><strong>Martialytics:</strong> standard Stripe rates with no markup or revenue percentage, a 30-day free trial with no credit card, and no lock-in contracts.</li>\n<li><strong>Zen Planner:</strong> Daxko Payments or preferred processors, with rates not published (Zen Planner Payments is custom-priced). Free trial: unknown. Month-to-month, with an annual contract on request.</li></ul>\n<h2>Which to pick</h2>\n<ul><li><strong>Martial arts school that wants every feature at one published price:</strong> Martialytics. {{aff:martialytics|See Martialytics plans}}</li>\n<li><strong>Mixed gym or studio that also wants Zen Planner's website, Engage marketing or branded app:</strong> Zen Planner. Compare the Essentials and Ultimate bundles with the add-on prices first. {{aff:zenplanner|See Zen Planner pricing}}</li></ul>\n<p>More detail: <a href=\"/tools/martialytics/\">Martialytics overview</a> · <a href=\"/tools/zen-planner/\">Zen Planner tier table</a> · <a href=\"/zen-planner-alternatives/\">Zen Planner alternatives</a> · <a href=\"/martialytics-vs-gymdesk/\">Martialytics vs Gymdesk</a> · <a href=\"/gymdesk-vs-zen-planner/\">Gymdesk vs Zen Planner</a> · <a href=\"/martial-arts-software-pricing/\">martial arts software pricing</a></p>",
+ "faq": [
+  [
+   "Is Martialytics cheaper than Zen Planner?",
+   "On published prices, yes, at every headcount we compared. At 40 students it's $69 vs $99/mo (Zen Planner Studio), at 100 it's $99 vs $189, and at 200 it's $129 vs $239 (martialytics.com/pricing checked 2026-11-07, Zen Planner active-member tiers checked 2026-11-09)."
+  ],
+  [
+   "Do Martialytics and Zen Planner track belts?",
+   "Yes. Martialytics tracks grading readiness, and its student app sections lessons by rank. Zen Planner lists belt and skill tracking."
+  ],
+  [
+   "Does Zen Planner charge for a website or branded app?",
+   "Yes. The website is $99/mo on its own or comes in Essentials, a branded app is $39/mo, and a card reader is $39/mo. Engage marketing is $249/mo or included in Ultimate."
+  ],
+  [
+   "Do Martialytics or Zen Planner require a contract?",
+   "Martialytics says there are no lock-in contracts. Zen Planner is month-to-month by default, with an annual contract on request."
+  ]
+ ]
+}
