@@ -88,7 +88,7 @@ def page_img(slug, text="", topics=(), explicit=None):
     if explicit in IMG: return explicit
     if slug in PAGE_IMG: return PAGE_IMG[slug]
     hay = f"{slug} {text}".lower()
-    if "music" in topics or re.search(r"music|piano|voice teacher", hay): return "none"  # no music photo yet: render without header image
+    if "music" in topics or re.search(r"music|piano|voice teacher", hay): return "none"  # no in-page header; share_img maps this to the piano photo
     topic = next((k for k, rx in TOPIC_WORDS if re.search(rx, hay)), None)
     topic = topic or next((t for t in topics if t in TOPIC_POOL), None)
     pool = TOPIC_POOL.get(topic, DEFAULT_POOL)
@@ -183,8 +183,11 @@ def build_404():
 EXCLUDE_SIMILAR = {"truecoach"}  # kept off content pages (not suggested as a similar tool)
 SIGNUP = '<form action="https://buttondown.com/api/emails/embed-subscribe/stackguide" method="post" class="embeddable-buttondown-form sub noprint"><h2>Get updates</h2><p>Occasional emails when software prices change or we publish a new guide. Unsubscribe anytime.</p><div class="row"><label for="bd-email" class="lbl">Email address</label><input type="email" name="email" id="bd-email" required placeholder="you@example.com" autocomplete="email"><input type="hidden" name="tag" value="studiostackguide"><button type="submit">Get updates</button></div></form>'
 OG = {}  # path -> IMG key (filled in build())
+def share_img(key):
+    """IMG key for og:image / JSON-LD. Music pages without a header photo use the piano photo, not the BJJ hero."""
+    return key if key in IMG else ("music" if key == "none" else "hero")
 def og_tags(path, title, desc):
-    k = OG.get(path, "hero"); k = k if k in IMG else "hero"; f, w, h, alt = IMG[k][:4]
+    k = share_img(OG.get(path, "hero")); f, w, h, alt = IMG[k][:4]
     return (f'<meta property="og:site_name" content="{e(site["name"])}"><meta property="og:type" content="{"website" if path == "/" else "article"}">'
             f'<meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}"><meta property="og:url" content="{BASE}{path}">'
             f'<meta property="og:image" content="{BASE}/img/{f}"><meta property="og:image:width" content="{w}"><meta property="og:image:height" content="{h}">'
@@ -290,7 +293,7 @@ def build():
     for pf, p in zip(PAGE_FILES, pages):
         path = f"/{p['slug']}/"; lm(path, gitdate(pf), p.get("last_verified"))
         faq = "".join(f"<h3>{e(q)}</h3><p>{e(a)}</p>" for q,a in p.get("faq",[]))
-        sch = [crumbs([("Home","/"),(p["h1"],path)]),{"@context":"https://schema.org","@type":"Article","headline":p["h1"],"dateModified":page_date(p) or LC,"datePublished":first_commit(pf) or TODAY,"image":f"{BASE}/img/{IMG.get(PIMG[p['slug']], IMG['hero'])[0]}","author":{"@type":"Organization","name":site["name"]},"publisher":{"@type":"Organization","name":site["name"],"url":BASE+"/"}}]
+        sch = [crumbs([("Home","/"),(p["h1"],path)]),{"@context":"https://schema.org","@type":"Article","headline":p["h1"],"dateModified":page_date(p) or LC,"datePublished":first_commit(pf) or TODAY,"image":f"{BASE}/img/{IMG[share_img(PIMG[p['slug']])][0]}","author":{"@type":"Organization","name":site["name"]},"publisher":{"@type":"Organization","name":site["name"],"url":BASE+"/"}}]
         if p.get("faq"): sch.append({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for q,a in p["faq"]]})
         write(path, layout(path, p["title"], p["description"], f"{pic(PIMG[p['slug']])}<h1>{e(p['h1'])}</h1>{trustbar(page_date(p))}{render(p['body'])}" + related(p) + (f"<h2>FAQ</h2>{faq}" if faq else "") + ("" if "buttondown" in json.dumps(p) else SIGNUP), sch))
     build_404()
