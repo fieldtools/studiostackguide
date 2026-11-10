@@ -24,7 +24,7 @@
 | 21 | mindbody-alternatives-for-studios | alternatives | done (2026-10-31) |
 | 22 | zen-planner-alternatives | alternatives | done (2026-11-09; added Wodify tool page; Search Console query "zen planner", Oct 2026) |
 | 23 | kicksite-alternatives | alternatives | done (2026-10-30) |
-| 24 | add tools (Jackrabbit Class, DanceStudio-Pro/Studio Pro, Akada, Studio Director added 2026-11-08; Wodify added 2026-11-09; still to add): Glofox, Momence, MyStudio, Ember, Dojo Expert | data | todo |
+| 24 | add tools (Jackrabbit Class, DanceStudio-Pro/Studio Pro, Akada, Studio Director added 2026-11-08; Wodify added 2026-11-09; iClassPro added 2026-11-10; still to add; Momence pricing page publishes no prices as of 2026-11-10): Glofox, Momence, MyStudio, Ember, Dojo Expert | data | todo |
 | 25 | best-dance-studio-software (dance-only, with Jackrabbit) | best | done (2026-11-08; live as /dance-studio-software-comparison/, Search Console query "dance studio software comparison") |
 | 26 | best-software-for-new-dojo (startup checklist) | guide | todo |
 | 27 | martial-arts-software-with-branded-app | feature | todo |
@@ -63,5 +63,7 @@
 | 60 | jackrabbit-vs-studio-director (tiered-by-student pricing; Studio Director publishes full table, Jackrabbit doesn't) | vs | todo |
 | 61 | studio-pro-vs-akada (flat $49-$165 by plan vs flat $60 all features) | vs | todo |
 | 62 | dance-recital-and-costume-software (recital ticketing, costume sizing compared) | feature | todo |
-| 63 | jackrabbit-alternatives (dance studios) | alternatives | todo |
+| 63 | jackrabbit-alternatives (dance studios) | alternatives | done (2026-11-10; added iClassPro tool page) |
 | 64 | tools/waiverforever (review + pricing; digital waivers for martial arts, gym, yoga and climbing studios; could anchor a best/waiver-software-for-studios page) | tool | todo (affiliate: WaiverForever $50 per paying subscriber + $5 per trial via ShareASale/Awin, needs Jacob (network account); scout 2026-11-09) |
+| 65 | iclasspro-vs-jackrabbit (per-location $139-$299 vs per-student tiers from $49; gymnastics/swim/cheer/dance) | vs | todo |
+| 66 | studio-director-vs-studio-pro (tiered by student count vs flat unlimited students) | vs | todo |

@@ -204,5 +204,10 @@
   "url": "https://gympoint.ai/pricing/",
   "program": "Pricing page mentions a partner program (contact by message, no application platform); not applied; plain link",
   "status": "plain"
+ },
+ "iclasspro": {
+  "url": "https://www.iclasspro.com/",
+  "program": "Affiliate program not checked or joined; plain link (added 2026-11-10)",
+  "status": "plain"
  }
 }

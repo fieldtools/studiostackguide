@@ -123,7 +123,7 @@
    "$25/mo more without Gymdesk Payments",
    "Door access ($100/mo) and branded app ($100/mo) are add-ons"
   ],
-  "last_verified": "2026-11-07"
+  "last_verified": "2026-11-10"
  },
  {
   "slug": "kicksite",
@@ -728,7 +728,7 @@
    "Payment processing rates are not published",
    "Contract and cancellation terms are not published"
   ],
-  "last_verified": "2026-10-26",
+  "last_verified": "2026-11-10",
   "who_html": "<p>Studio Helper describes itself as studio management software for music studios, yoga studios, dance studios, martial arts dojos and other teaching studios (music, dance, fitness, sports, martial arts). The testimonials on its homepage come mostly from music teaching businesses, including a studio with 5 teachers and more than 100 students. Features it lists: a real-time calendar for students, teachers and staff with room and teacher scheduling, reminders and attendance tracking; online invoicing and payments; payroll, expense and inventory tracking; built-in reports for key metrics and tax returns; permissions per role; student skill updates with parent alerts; mass email messaging; to-do assignments; and embedding into your existing website to show availability.</p>",
   "compare_html": "<p>For a solo music teacher, flat-priced tools cost less on paper: <a href=\"/tools/duet/\">Duet</a> ($9/mo), <a href=\"/tools/my-music-staff/\">My Music Staff</a> ($16.95/mo plus $4.95 per extra teacher) and <a href=\"/tools/fons/\">Fons</a> ($19.95/mo). At Studio Helper's published rate, 40 students works out to $60/mo and 100 students to $75/mo. <a href=\"/tools/teach-n-go/\">Teach 'n Go</a> is $79/mo for up to 100 live students, so the two are close for a mid-size multi-teacher studio; Studio Helper adds payroll, expense and inventory tracking. <a href=\"/tools/mysymphony/\">mySymphony</a> charges $0.25 per booked lesson rather than per student. See <a href=\"/best-music-lesson-studio-software/\">music lesson studio software compared</a>, <a href=\"/studios/music-lessons/\">all music lesson studio tools</a> and <a href=\"/best-dance-studio-software/\">dance studio software</a>.</p>"
  },
@@ -1490,7 +1490,7 @@
    "Branded app costs extra ($93/mo+ plus $169 setup)",
    "No published free trial or processing rates"
   ],
-  "last_verified": "2026-11-08",
+  "last_verified": "2026-11-10",
   "who_html": "<p>Jackrabbit sells one class-management product to gymnastics gyms, swim schools, cheer programs, music schools and dance studios, and markets a dance edition as Jackrabbit Dance. It says it has served 7,000+ businesses since 2004. Dance features it lists: automated tuition billing, recital planning, costume sizing and ordering, policies and waivers by class or by recreational vs competitive level, parent engagement tools and an integration marketplace.</p>",
   "compare_html": "<p>Jackrabbit's $49/mo entry price is in the same range as <a href=\"/tools/studio-pro/\">Studio Pro</a> ($49/mo, unlimited students) and <a href=\"/tools/akada/\">Akada</a> ($60/mo flat), but Jackrabbit rises with student count and the higher tiers aren't published. <a href=\"/tools/studio-director/\">The Studio Director</a> publishes its full student-count table. See <a href=\"/dance-studio-software-comparison/\">dance studio software compared</a>.</p>"
  },
@@ -1550,7 +1550,7 @@
    "1.35% tech fee if you use a third-party payment processor",
    "Contract terms not published"
   ],
-  "last_verified": "2026-11-08",
+  "last_verified": "2026-11-10",
   "who_html": "<p>Studio Pro is the current name of DanceStudio-Pro (dancestudio-pro.com now redirects to gostudiopro.com/dance). It also sells versions for cheer, gymnastics and other class programs and says it serves 7,000+ educators. It offers free data import from a spreadsheet.</p>",
   "compare_html": "<p>Studio Pro and <a href=\"/tools/akada/\">Akada</a> are both flat-priced with recital and costume tools; Akada is $60/mo with every feature and Studio Pro is $49-$165/mo by plan. See <a href=\"/dance-studio-software-comparison/\">dance studio software compared</a>.</p>"
  },
@@ -1596,7 +1596,7 @@
    "Contract terms not published",
    "Processing rates not published"
   ],
-  "last_verified": "2026-11-08",
+  "last_verified": "2026-11-10",
   "who_html": "<p>Akada is a family-run company that says it has built dance studio software for over 30 years (one homepage testimonial refers to its older Danceworks product). Features it lists: online registration with approvals, class scheduling with conflict finding, tuition billing and digital payments, staff time tracking, performance and recital scheduling with costume sizing and billing, 200+ reports, free texting and 2-way messaging, and two apps (Akada Portal for families, Akada Studio for instructors).</p>",
   "compare_html": "<p>Akada's $60/mo flat price sits between <a href=\"/tools/studio-pro/\">Studio Pro</a> Essentials ($49/mo) and Premier ($79/mo). See <a href=\"/dance-studio-software-comparison/\">dance studio software compared</a>.</p>"
  },
@@ -1665,7 +1665,7 @@
    "No free trial published",
    "Processing rates not published"
   ],
-  "last_verified": "2026-11-08",
+  "last_verified": "2026-11-10",
   "who_html": "<p>The Studio Director markets itself mainly to dance studios and gymnastics businesses and also lists cheer, fitness, martial arts, music, pilates, yoga and youth sports. Features it lists: texting and email with drip campaigns, virtual class links, events and recitals with ticket sales, stored card and bank payments, online enrollment through a parent portal, reports, and costume management with preloaded vendor size charts.</p>",
   "compare_html": "<p>For a studio under 100 students using built-in payments, The Studio Director's $39/mo is below <a href=\"/tools/studio-pro/\">Studio Pro</a> ($49/mo) and <a href=\"/tools/akada/\">Akada</a> ($60/mo). See <a href=\"/dance-studio-software-comparison/\">dance studio software compared</a>.</p>"
  },
@@ -1871,5 +1871,67 @@
    "Family billing and diplomas are Pro only"
   ],
   "last_verified": "2026-11-09"
+ },
+ {
+  "slug": "iclasspro",
+  "name": "iClassPro",
+  "website": "https://www.iclasspro.com/",
+  "trades": [
+   "dance"
+  ],
+  "free_trial": "unknown (not published on the pricing page)",
+  "contract": "Signature and Elite: no commitment; Premium: 12-month commitment (pricing page)",
+  "plans": [
+   {
+    "name": "Signature",
+    "users": "Per location; class/event booking, POS, payments, iClassPro app, skill tracking, check-in kiosk, waivers, make-up tokens, attendance, staff time clock",
+    "monthly_no_commit": "$139/mo per location",
+    "annual": "unknown (not published)"
+   },
+   {
+    "name": "Elite",
+    "users": "Per location; which extra features Elite adds over Signature isn't clear from the page text",
+    "monthly_no_commit": "$199/mo per location",
+    "annual": "unknown (not published)"
+   },
+   {
+    "name": "Premium",
+    "users": "Per location; includes 1 Pro Insights seat ($19/mo per extra seat)",
+    "monthly_no_commit": "$299/mo per location (12-month commitment)",
+    "annual": "$299/mo per location on a 12-month commitment"
+   },
+   {
+    "name": "Enterprise",
+    "users": "Multi-location and key accounts",
+    "monthly_no_commit": "unknown (contact sales)",
+    "annual": "unknown (contact sales)"
+   }
+  ],
+  "extra_user": "Priced per location, not per student (pricing page)",
+  "card_fee": "Payment Services included; Next-Day Funding for card transactions (US only); processing rates not published",
+  "belt_tracking": "Not belt ranks; Skill Tracking & Student Evaluations listed (pricing page)",
+  "attendance": "Yes: attendance tracking and check-in kiosk mode (pricing page)",
+  "online_booking": "Yes: class/event booking and management, appointments and private lessons, party booking (pricing page)",
+  "parent_portal": "iClassPro app on every plan; branded app optional at $499 setup + $150/mo (pricing page)",
+  "add_ons": "Branded App $499 setup + $150/mo; Growth Engine (CRM/leads) $59/mo; outbound texts $0.03 per credit in US/Canada (inbound free); website Kickstart Package from $899 (pricing page)",
+  "rating": "unknown",
+  "sources": [
+   "https://www.iclasspro.com/pricing"
+  ],
+  "best_for": "Gymnastics, cheer, swim and dance schools that want per-location pricing with no student-count tiers",
+  "starting_price": "$139/mo per location (Signature, no commitment)",
+  "pros": [
+   "Priced per location, not by student count",
+   "Skill tracking, check-in kiosk, waivers and make-up tokens listed on every plan",
+   "Signature and Elite have no commitment"
+  ],
+  "cons": [
+   "$139/mo entry price is higher than most dance-only tools we list",
+   "Premium requires a 12-month commitment",
+   "Processing rates and free trial not published"
+  ],
+  "last_verified": "2026-11-10",
+  "who_html": "<p>iClassPro's pricing page says its plans suit gymnastics, cheer, swim and dance schools of every size. Features it lists on its plans: class and event booking, point of sale with inventory, reporting dashboard, payment services with next-day funding (US), the iClassPro app, skill tracking and student evaluations, staff management and time clock, check-in kiosk mode, online waivers and policies, make-up tokens, punch passes, marketing communications with 2-way texting, Autopilot automations, QuickBooks sync, party booking, appointments and private lessons, and one DIY website per location.</p>",
+  "compare_html": "<p>iClassPro starts at $139/mo per location. Dance-focused tools publish lower entry prices: <a href=\"/tools/studio-director/\">The Studio Director</a> ($39-$65/mo for 0-100 students), <a href=\"/tools/studio-pro/\">Studio Pro</a> ($49/mo, unlimited students), <a href=\"/tools/jackrabbit-class/\">Jackrabbit Class</a> (from $49/mo) and <a href=\"/tools/akada/\">Akada</a> ($60/mo flat). See <a href=\"/jackrabbit-alternatives/\">Jackrabbit alternatives</a> and <a href=\"/dance-studio-software-comparison/\">dance studio software compared</a>.</p>"
  }
 ]
