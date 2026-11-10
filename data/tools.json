@@ -43,7 +43,7 @@
   "rating": "unknown",
   "sources": [
    "https://www.martialytics.com/pricing",
-   "https://www.martialytics.com/features",
+   "https://www.martialytics.com/benefits",
    "https://www.martialytics.com/best-software-for-martial-arts/taekwondo-dojangs",
    "https://www.martialytics.com/best-software-for-martial-arts/mma-gyms"
   ],
@@ -173,7 +173,7 @@
    "https://kicksite.com/faq/",
    "https://kicksite.com/martial-arts-attendance-tracking-software/",
    "https://kicksite.com/switch/",
-   "https://kicksite.com/terms/",
+   "https://kicksite.com/terms-of-service/",
    "https://kicksite.com/taekwondo-school-software/",
    "https://kicksite.com/mma-gym-software/",
    "https://kicksite.com/krav-maga-gym-software/",
@@ -348,7 +348,7 @@
  {
   "slug": "mindbody",
   "name": "Mindbody",
-  "website": "https://www.mindbodyonline.com/business",
+  "website": "https://www.mindbodyonline.com/",
   "trades": [
    "yoga",
    "dance",
@@ -385,7 +385,7 @@
   "sources": [
    "https://www.mindbodyonline.com/business/pricing",
    "https://www.mindbodyonline.com/business/payments",
-   "https://www.mindbodyonline.com/business/marketplace"
+   "https://www.mindbodyonline.com/business/mindbody-app"
   ],
   "best_for": "Yoga, dance and fitness studios wanting a consumer marketplace",
   "starting_price": "From $79/mo per location (Starter)",
@@ -615,7 +615,7 @@
   "online_booking": "Yes: online booking (pricing page)",
   "rating": "unknown",
   "sources": [
-   "https://www.teachngo.com/pricing"
+   "https://www.teachngo.com/pages/pricing"
   ],
   "best_for": "Multi-teacher music schools with group classes and several staff",
   "starting_price": "$79/mo (up to 100 live students)",
@@ -1581,7 +1581,7 @@
   "rating": "unknown",
   "sources": [
    "https://www.akadasoftware.com/pricing/",
-   "https://www.akadasoftware.com/faq/",
+   "https://www.akadasoftware.com/faqs/",
    "https://www.akadasoftware.com/"
   ],
   "best_for": "Small and mid-size dance studios that want every feature at one flat $60/mo price",
@@ -1916,7 +1916,7 @@
   "add_ons": "Branded App $499 setup + $150/mo; Growth Engine (CRM/leads) $59/mo; outbound texts $0.03 per credit in US/Canada (inbound free); website Kickstart Package from $899 (pricing page)",
   "rating": "unknown",
   "sources": [
-   "https://www.iclasspro.com/pricing"
+   "https://www.iclasspro.com/iclasspro-pricing"
   ],
   "best_for": "Gymnastics, cheer, swim and dance schools that want per-location pricing with no student-count tiers",
   "starting_price": "$139/mo per location (Signature, no commitment)",
