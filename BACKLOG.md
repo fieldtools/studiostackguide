@@ -18,7 +18,7 @@
 | 15 | belt-rank-tracking-software | feature | done (2026-10-30) |
 | 16 | martial-arts-attendance-software (check-in kiosks) | feature | done (2026-10-30) |
 | 17 | martial-arts-billing-software (processing fees compared) | feature | done (2026-10-30) |
-| 18 | class-booking-software-for-studios | feature | todo |
+| 18 | class-booking-software-for-studios | feature | done (2026-11-11; 8 tools: Vagaro, Arketa, WellnessLiving, Gymdesk, Mindbody, Zen Planner, Walla, Mariana Tek; Walla now lists Core/Pro/Scale) |
 | 19 | free-martial-arts-software (free tiers/trials) | best | done (2026-10-26) |
 | 20 | martial-arts-software-pricing (cost by student count) | guide | done (2026-10-22) |
 | 21 | mindbody-alternatives-for-studios | alternatives | done (2026-10-31) |
@@ -67,3 +67,5 @@
 | 64 | tools/waiverforever (review + pricing; digital waivers for martial arts, gym, yoga and climbing studios; could anchor a best/waiver-software-for-studios page) | tool | todo (affiliate: WaiverForever $50 per paying subscriber + $5 per trial via ShareASale/Awin, needs Jacob (network account); scout 2026-11-09) |
 | 65 | iclasspro-vs-jackrabbit (per-location $139-$299 vs per-student tiers from $49; gymnastics/swim/cheer/dance) | vs | todo |
 | 66 | studio-director-vs-studio-pro (tiered by student count vs flat unlimited students) | vs | todo |
+| 67 | studio-waitlist-software (waitlists, auto-promote, late-cancel fees compared) | feature | todo |
+| 68 | walla-vs-mindbody (per-location $299 vs from $79; booking fees) | vs | todo |

@@ -123,7 +123,7 @@
    "$25/mo more without Gymdesk Payments",
    "Door access ($100/mo) and branded app ($100/mo) are add-ons"
   ],
-  "last_verified": "2026-11-10"
+  "last_verified": "2026-11-11"
  },
  {
   "slug": "kicksite",
@@ -251,7 +251,7 @@
    "Branded app and card readers $39/mo each",
    "Payments pricing is custom (not published)"
   ],
-  "last_verified": "2026-11-09",
+  "last_verified": "2026-11-11",
   "add_ons": "Zen Planner Engage $249/mo, Website $99/mo, Branded app $39/mo, Card reader (Lane 3600) $39/mo; Zen Planner Payments custom pricing. Tools already in your package aren't billed twice. The $199/mo New Business Bundle we listed on Nov 2 is no longer on the pricing page (checked 2026-11-09)",
   "tiers_html": "<div class=\"tw\" tabindex=\"0\" role=\"region\" aria-label=\"Zen Planner price by active members\"><table><tr><th>Active members</th><th>Studio</th><th>Essentials</th><th>Ultimate</th></tr><tr><td>0-45</td><td>$99/mo</td><td>$198/mo</td><td>$348/mo</td></tr><tr><td>46-60</td><td>$133/mo</td><td>$232/mo</td><td>$382/mo</td></tr><tr><td>61-75</td><td>$155/mo</td><td>$254/mo</td><td>$404/mo</td></tr><tr><td>76-100</td><td>$189/mo</td><td>$288/mo</td><td>$438/mo</td></tr><tr><td>101-150</td><td>$229/mo</td><td>$328/mo</td><td>$478/mo</td></tr><tr><td>151-200</td><td>$239/mo</td><td>$338/mo</td><td>$488/mo</td></tr><tr><td>201-250</td><td>$269/mo</td><td>$368/mo</td><td>$518/mo</td></tr><tr><td>251+</td><td>$289/mo</td><td>$388/mo</td><td>$538/mo</td></tr></table></div><p class=\"note\">From <a href=\"https://www.zenplanner.com/pricing/active-member-tiers\" rel=\"nofollow\">Zen Planner's active-member tiers page</a>, checked 2026-11-09. Essentials includes the website; Ultimate includes the website and Engage. Add-ons: Engage $249/mo, Website $99/mo, Branded app $39/mo, Card reader (Lane 3600) $39/mo.</p>"
  },
@@ -398,7 +398,7 @@
    "Only the entry price is published",
    "App bookings from new clients carry a 20% fee (capped $30)"
   ],
-  "last_verified": "2026-11-04"
+  "last_verified": "2026-11-11"
  },
  {
   "slug": "my-music-staff",
@@ -683,7 +683,7 @@
    "Onboarding typically takes five to eight weeks",
    "Marketing automation and two-way texting need Core + Growth or above"
   ],
-  "last_verified": "2026-11-04",
+  "last_verified": "2026-11-11",
   "who_html": "<p>Mariana Tek describes itself as software for boutique fitness studios that want a high-end, branded customer experience, from single-location studios to global brands and franchises. Its customers run group classes including pilates (Lagree, Megaformer and mat), yoga, barre, indoor cycling, HIIT and boxing. Mariana Tek says typical onboarding takes five to eight weeks with dedicated onboarding specialists and a demo environment. Every plan includes multi-location management, unlimited classes and instructors, intro offers, packs and memberships, CRM, reporting, kiosk check-in, digital waivers and transactional emails.</p>",
   "compare_html": "<p><a href=\"/tools/mindbody/\">Mindbody</a> publishes an entry price (from $79/mo per location) and lists studios on its consumer app, with a 20% fee (capped at $30) on new clients' first app purchase. Mariana Tek publishes no prices and focuses on your own branded app instead of a marketplace. <a href=\"/tools/zen-planner/\">Zen Planner</a> (from $99/mo) and <a href=\"/tools/gymdesk/\">Gymdesk</a> (from $75/mo) publish prices and suit membership gyms and martial arts schools; Mariana Tek is aimed at boutique class studios with features like pick-a-spot floor plans for reformers and bikes. See also <a href=\"/studios/yoga/\">yoga studio tools</a> and <a href=\"/best-dance-studio-software/\">dance and yoga studio software compared</a>.</p>"
  },
@@ -938,7 +938,7 @@
    "Starter plan is limited to one staff member",
    "Card processing rates not published on the pricing page"
   ],
-  "last_verified": "2026-11-04",
+  "last_verified": "2026-11-11",
   "autopay": "Yes: memberships and auto-pay billing (pricing page)",
   "parent_portal": "Branded client web portal and Achieve client app (pricing page)"
  },
@@ -998,7 +998,7 @@
    "Individual plan charges a 3% transaction fee on top of Stripe",
    "Studio plan prices are quote only"
   ],
-  "last_verified": "2026-11-04",
+  "last_verified": "2026-11-11",
   "autopay": "Yes: memberships and recurring packages (pricing page)",
   "parent_portal": "Client booking app (pricing page)"
  },
@@ -1011,26 +1011,32 @@
    "dance"
   ],
   "free_trial": "unknown",
-  "contract": "Several term lengths; price depends on the term chosen (pricing page FAQ)",
+  "contract": "unknown (the billing-term FAQ we saw on Nov 4 is no longer on the pricing page, checked 2026-11-11)",
   "plans": [
    {
     "name": "Core",
-    "users": "Unlimited users; retention tools, reporting, email/SMS, Book-a-Spot, on-demand video, payroll setup",
-    "monthly_no_commit": "$299/mo per location, billed monthly",
+    "users": "Unlimited users; classes, appointments and Book-a-Spot, payments, payroll and pay rates, email, Walla app",
+    "monthly_no_commit": "$299/mo per location (\"plans start at\")",
     "annual": "unknown"
    },
    {
     "name": "Pro",
-    "users": "Core + full marketing suite, branded studio app, two-way texting, lead tools",
+    "users": "Core + Marketing Suite and custom automations, two-way texting, branded studio app, video on-demand courses, AI dashboards",
+    "monthly_no_commit": "unknown (contact sales)",
+    "annual": "unknown"
+   },
+   {
+    "name": "Scale",
+    "users": "Pro + Retention Suite, Concierge Agent, Walla Voice, sub management, 10,000 texts a month",
     "monthly_no_commit": "unknown (contact sales)",
     "annual": "unknown"
    }
   ],
   "extra_user": "Unlimited users on every plan; priced per location",
-  "card_fee": "unknown rate (cards migrate to Stripe); optional Walla Offset adds a 3.9% fee paid by clients; no Walla booking fees",
+  "card_fee": "unknown rate; pricing page says no booking fees for your clients (checked 2026-11-11)",
   "belt_tracking": "Not applicable (boutique fitness)",
   "attendance": "unknown",
-  "online_booking": "Yes: website widgets, Walla app, Book-a-Spot and waitlists (pricing page)",
+  "online_booking": "Yes: classes, appointments and enrollments; Book-a-Spot and waitlists with notifications; website widgets and the Walla app (pricing page, all three plans)",
   "rating": "unknown",
   "sources": [
    "https://www.hellowalla.com/pricing"
@@ -1039,14 +1045,14 @@
   "starting_price": "$299/mo per location",
   "pros": [
    "Unlimited users on every plan",
-   "Walla says it adds no booking or first-time booking fees",
-   "Card migration to Stripe with paid onboarding tiers"
+   "Pricing page says no booking fees for your clients",
+   "Book-a-Spot and waitlists on every plan"
   ],
   "cons": [
    "Highest published entry price on this page",
-   "Pro plan price not published"
+   "Pro and Scale prices not published"
   ],
-  "last_verified": "2026-11-04",
+  "last_verified": "2026-11-11",
   "autopay": "Plans and intro offers with failed-payment reminders (pricing page)",
   "parent_portal": "Walla client app (pricing page)"
  },
@@ -1088,7 +1094,7 @@
    "Price rises $10/mo per bookable calendar up to 7",
    "Card processing rates not published on pricing page"
   ],
-  "last_verified": "2026-11-04"
+  "last_verified": "2026-11-11"
  },
  {
   "slug": "trio",
