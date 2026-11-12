@@ -37,7 +37,7 @@
 | 34 | tools/simplybook (review + pricing; class booking for yoga/dance studios) | tool | todo (affiliate: SimplyBook.me 25% first payment + 15% for 24 months, own panel signup with password, needs Jacob) |
 | 35 | best-music-lesson-studio-software (music lesson studios section hub /studios/music-lessons/) | best | done (2026-10-25) |
 | 36 | duet-vs-mysymphony (flat $9/mo vs $0.25 per booked lesson) | vs | todo |
-| 37 | my-music-staff-alternatives | alternatives | todo |
+| 37 | my-music-staff-alternatives | alternatives | done (2026-11-12; 8 alternatives: MakeMusic Studio, Duet, mySymphony, Trio, Nova Music, Studio Helper, Teach 'n Go, TutorTally; music prices re-verified, unchanged) |
 | 38 | free-music-teacher-software (free plans/trials for music teachers) | best | done (2026-11-03; live as /free-music-lesson-software/) |
 | 39 | best-piano-teacher-software | best | todo |
 | 40 | best-voice-teacher-software (private voice/instrument teachers) | best | todo |
@@ -69,3 +69,5 @@
 | 66 | studio-director-vs-studio-pro (tiered by student count vs flat unlimited students) | vs | todo |
 | 67 | studio-waitlist-software (waitlists, auto-promote, late-cancel fees compared) | feature | todo |
 | 68 | walla-vs-mindbody (per-location $299 vs from $79; booking fees) | vs | todo |
+| 69 | trio-vs-nova-music (both free up to 10 students; Pro $5 vs $10/mo) | vs | todo |
+| 70 | music-teacher-software-for-multiple-teachers (per-teacher vs per-student vs flat pricing) | best | todo |

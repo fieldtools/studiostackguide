@@ -437,7 +437,7 @@
    "Each extra teacher or staff member adds $4.95/mo",
    "Annual price not published"
   ],
-  "last_verified": "2026-10-25",
+  "last_verified": "2026-11-12",
   "autopay": "Yes: automatic invoicing, online payments, late fee automation (pricing page)",
   "parent_portal": "Yes: student portal with self-service scheduling, lesson notes, payment history (pricing page)"
  },
@@ -478,7 +478,7 @@
    "Each additional staff member adds $4.95/mo",
    "Annual price and parent portal details not published"
   ],
-  "last_verified": "2026-11-02",
+  "last_verified": "2026-11-12",
   "autopay": "Yes: automatic payments with flexible billing (pricing page)",
   "parent_portal": "unknown"
  },
@@ -521,7 +521,7 @@
    "Card payments also carry 2.9% processing",
    "Pricing page promos and copyright date are from 2024; we couldn't confirm the product is still actively updated"
   ],
-  "last_verified": "2026-11-02",
+  "last_verified": "2026-11-12",
   "autopay": "Yes: tracks what families owe; statements sent by text link; direct deposit (pricing page)",
   "parent_portal": "No login needed: statements by text link; students self-schedule from their phones (pricing page). Full portal unknown"
  },
@@ -568,7 +568,7 @@
    "Solo Plan capped at 100 active students and 50 SMS/mo",
    "Add-on prices (Grid View, Practice Dashboard, AI Front Desk) not published"
   ],
-  "last_verified": "2026-11-02",
+  "last_verified": "2026-11-12",
   "autopay": "Yes: automated invoicing and billing (pricing page)",
   "parent_portal": "Yes: basic student dashboard (pricing page)",
   "add_ons": "Grid View, Student Practice Dashboard (metronome, tuner, practice tracking), AI Front Desk (AI call answering, prepaid minute packs); month to month, prices not published (unknown)"
@@ -628,7 +628,7 @@
    "Highest starting price of the tools we compared",
    "Payment processing fees not published"
   ],
-  "last_verified": "2026-10-25",
+  "last_verified": "2026-11-12",
   "autopay": "Invoicing and fee tracking (pricing page); automatic recurring card payments unknown",
   "parent_portal": "Yes: student, parent and teacher portals (pricing page)"
  },
@@ -728,7 +728,7 @@
    "Payment processing rates are not published",
    "Contract and cancellation terms are not published"
   ],
-  "last_verified": "2026-11-10",
+  "last_verified": "2026-11-12",
   "who_html": "<p>Studio Helper describes itself as studio management software for music studios, yoga studios, dance studios, martial arts dojos and other teaching studios (music, dance, fitness, sports, martial arts). The testimonials on its homepage come mostly from music teaching businesses, including a studio with 5 teachers and more than 100 students. Features it lists: a real-time calendar for students, teachers and staff with room and teacher scheduling, reminders and attendance tracking; online invoicing and payments; payroll, expense and inventory tracking; built-in reports for key metrics and tax returns; permissions per role; student skill updates with parent alerts; mass email messaging; to-do assignments; and embedding into your existing website to show availability.</p>",
   "compare_html": "<p>For a solo music teacher, flat-priced tools cost less on paper: <a href=\"/tools/duet/\">Duet</a> ($9/mo), <a href=\"/tools/my-music-staff/\">My Music Staff</a> ($16.95/mo plus $4.95 per extra teacher) and <a href=\"/tools/fons/\">Fons</a> ($19.95/mo). At Studio Helper's published rate, 40 students works out to $60/mo and 100 students to $75/mo. <a href=\"/tools/teach-n-go/\">Teach 'n Go</a> is $79/mo for up to 100 live students, so the two are close for a mid-size multi-teacher studio; Studio Helper adds payroll, expense and inventory tracking. <a href=\"/tools/mysymphony/\">mySymphony</a> charges $0.25 per booked lesson rather than per student. See <a href=\"/best-music-lesson-studio-software/\">music lesson studio software compared</a>, <a href=\"/studios/music-lessons/\">all music lesson studio tools</a> and <a href=\"/best-dance-studio-software/\">dance studio software</a>.</p>"
  },
@@ -1146,7 +1146,7 @@
    "Free plan takes cash and check payments only",
    "Free plan has no team members beyond the owner"
   ],
-  "last_verified": "2026-11-02",
+  "last_verified": "2026-11-12",
   "autopay": "Pro and Max only (online payments, automatic late fees); not on Free",
   "parent_portal": "Yes: parent portal on all plans, including Free (help center)"
  },
@@ -1158,7 +1158,7 @@
    "music"
   ],
   "free_trial": "Free plan (up to 10 students)",
-  "contract": "unknown",
+  "contract": "Cancel anytime; data stays accessible until the end of the billing period (pricing FAQ)",
   "plans": [
    {
     "name": "Free",
@@ -1193,7 +1193,7 @@
    "Billing tools need Pro ($10/mo)",
    "Free plan storage is 100 MB"
   ],
-  "last_verified": "2026-11-02",
+  "last_verified": "2026-11-12",
   "autopay": "unknown",
   "parent_portal": "Student portal on Free (pricing page); parent portal unknown"
  },
@@ -1247,7 +1247,7 @@
    "No card processing: families pay you directly",
    "Apple devices only: iPhone, iPad and Mac (App Store: Mac requires macOS 14.0 or later and a Mac with Apple M1 chip or later)"
   ],
-  "last_verified": "2026-11-02",
+  "last_verified": "2026-11-12",
   "autopay": "No: TutorTally doesn't process payments",
   "parent_portal": "No parent portal described; student data stays on the teacher's device"
  },
