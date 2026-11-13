@@ -58,7 +58,7 @@
    "Price steps up with active student count",
    "Annual pricing not published"
   ],
-  "last_verified": "2026-11-07"
+  "last_verified": "2026-11-13"
  },
  {
   "slug": "gymdesk",
@@ -123,7 +123,8 @@
    "$25/mo more without Gymdesk Payments",
    "Door access ($100/mo) and branded app ($100/mo) are add-ons"
   ],
-  "last_verified": "2026-11-11"
+  "last_verified": "2026-11-13",
+  "add_ons": "Branded member app (your gym's own App Store and Google Play listing) $100/mo, first month free; door access $100/mo for up to 3 doors, then $29 per extra door (pricing page, checked 2026-11-13)"
  },
  {
   "slug": "kicksite",
@@ -190,7 +191,7 @@
    "Annual pricing not published (ask for discount at demo)",
    "Basys flat rate adds $29/mo on top of per-transaction fees"
   ],
-  "last_verified": "2026-11-07"
+  "last_verified": "2026-11-13"
  },
  {
   "slug": "zen-planner",
@@ -251,7 +252,7 @@
    "Branded app and card readers $39/mo each",
    "Payments pricing is custom (not published)"
   ],
-  "last_verified": "2026-11-11",
+  "last_verified": "2026-11-13",
   "add_ons": "Zen Planner Engage $249/mo, Website $99/mo, Branded app $39/mo, Card reader (Lane 3600) $39/mo; Zen Planner Payments custom pricing. Tools already in your package aren't billed twice. The $199/mo New Business Bundle we listed on Nov 2 is no longer on the pricing page (checked 2026-11-09)",
   "tiers_html": "<div class=\"tw\" tabindex=\"0\" role=\"region\" aria-label=\"Zen Planner price by active members\"><table><tr><th>Active members</th><th>Studio</th><th>Essentials</th><th>Ultimate</th></tr><tr><td>0-45</td><td>$99/mo</td><td>$198/mo</td><td>$348/mo</td></tr><tr><td>46-60</td><td>$133/mo</td><td>$232/mo</td><td>$382/mo</td></tr><tr><td>61-75</td><td>$155/mo</td><td>$254/mo</td><td>$404/mo</td></tr><tr><td>76-100</td><td>$189/mo</td><td>$288/mo</td><td>$438/mo</td></tr><tr><td>101-150</td><td>$229/mo</td><td>$328/mo</td><td>$478/mo</td></tr><tr><td>151-200</td><td>$239/mo</td><td>$338/mo</td><td>$488/mo</td></tr><tr><td>201-250</td><td>$269/mo</td><td>$368/mo</td><td>$518/mo</td></tr><tr><td>251+</td><td>$289/mo</td><td>$388/mo</td><td>$538/mo</td></tr></table></div><p class=\"note\">From <a href=\"https://www.zenplanner.com/pricing/active-member-tiers\" rel=\"nofollow\">Zen Planner's active-member tiers page</a>, checked 2026-11-09. Essentials includes the website; Ultimate includes the website and Engage. Add-ons: Engage $249/mo, Website $99/mo, Branded app $39/mo, Card reader (Lane 3600) $39/mo.</p>"
  },
@@ -302,7 +303,9 @@
    "No cancelling for convenience mid-term; auto-renews unless 30 days' notice",
    "Spark Payments rates not published"
   ],
-  "last_verified": "2026-11-07"
+  "last_verified": "2026-11-13",
+  "parent_portal": "Spark Member App: members book, pay and message; owners can add logo, images, brand colours and content; fully white-labeled version for an extra cost (price not published) (sparkmembership.com/app FAQ)",
+  "add_ons": "Fully white-labeled member app available for a \"small additional cost\" (price not published; ask your account rep) (sparkmembership.com/app FAQ, checked 2026-11-13)"
  },
  {
   "slug": "mass",
@@ -781,9 +784,10 @@
    "Free plan card rate is 4.99% + $0.30",
    "Trial and contract terms not published on pricing page"
   ],
-  "last_verified": "2026-11-09",
+  "last_verified": "2026-11-13",
   "autopay": "Yes: pro-rated recurring billing (pricing page)",
-  "parent_portal": "Members app for booking, purchases and profile updates (pricing page)"
+  "parent_portal": "Members app for booking, purchases and profile updates (pricing page)",
+  "add_ons": "Branded App (white-labeled member app with your branding and logo, check-ins, class booking, workout tracking, push notifications) $97/mo; Train $79/mo; Grow $329/mo (pricing page FAQ, checked 2026-11-13). Black Friday: 30% off any PushPress product incl. Branded App for the first 6 months, sign up by Dec 11, 2026"
  },
  {
   "slug": "recess",
@@ -1294,7 +1298,7 @@
    "No annual plan published",
    "Entry price higher than tiered options for very small schools"
   ],
-  "last_verified": "2026-11-07",
+  "last_verified": "2026-11-13",
   "autopay": "Yes: recurring billing, failed-payment recovery, ACH and card via Stripe (pricing feature list)",
   "parent_portal": "Member-facing public landing pages for calendars, products, memberships and events (homepage); native iOS and Android apps (vendor email Nov 4, 2026)"
  },
@@ -1774,7 +1778,7 @@
    "Free trial is 7 days",
    "Parent/family accounts not described on the pricing page"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-13"
  },
  {
   "slug": "matgoat",
@@ -1824,7 +1828,7 @@
    "Basic is capped at 50 students",
    "Annual pricing not published"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-13"
  },
  {
   "slug": "matpilot",
@@ -1876,7 +1880,7 @@
    "Free plan member limit not stated",
    "Family billing and diplomas are Pro only"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-13"
  },
  {
   "slug": "iclasspro",

@@ -27,7 +27,7 @@
 | 24 | add tools (Jackrabbit Class, DanceStudio-Pro/Studio Pro, Akada, Studio Director added 2026-11-08; Wodify added 2026-11-09; iClassPro added 2026-11-10; still to add; Momence pricing page publishes no prices as of 2026-11-10): Glofox, Momence, MyStudio, Ember, Dojo Expert | data | todo |
 | 25 | best-dance-studio-software (dance-only, with Jackrabbit) | best | done (2026-11-08; live as /dance-studio-software-comparison/, Search Console query "dance studio software comparison") |
 | 26 | best-software-for-new-dojo (startup checklist) | guide | todo |
-| 27 | martial-arts-software-with-branded-app | feature | todo |
+| 27 | martial-arts-software-with-branded-app | feature | done (2026-11-13; branded app add-ons: Zen Planner $39/mo, PushPress $97/mo, Gymdesk $100/mo; Spark/Wodify/MatPilot unpublished; 9 tools re-verified, prices unchanged) |
 | 28 | gym-software-payment-processing-fees-explained | guide | todo |
 | 29 | best-software-for-kids-martial-arts (family accounts) | best | todo |
 | 30 | switching-martial-arts-software (data export/migration) | guide | todo |
@@ -71,3 +71,5 @@
 | 68 | walla-vs-mindbody (per-location $299 vs from $79; booking fees) | vs | todo |
 | 69 | trio-vs-nova-music (both free up to 10 students; Pro $5 vs $10/mo) | vs | todo |
 | 70 | music-teacher-software-for-multiple-teachers (per-teacher vs per-student vs flat pricing) | best | todo |
+| 71 | pushpress-vs-gymdesk (free plan + 4.99% vs from $75/mo; branded app $97 vs $100) | vs | todo |
+| 72 | martial-arts-software-with-website-included (Gymdesk website included vs Zen Planner $99/mo add-on vs MatPilot +$25/mo vs Kicksite websites) | feature | todo |
