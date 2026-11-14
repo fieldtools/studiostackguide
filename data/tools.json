@@ -401,7 +401,7 @@
    "Only the entry price is published",
    "App bookings from new clients carry a 20% fee (capped $30)"
   ],
-  "last_verified": "2026-11-11"
+  "last_verified": "2026-11-14"
  },
  {
   "slug": "my-music-staff",
@@ -686,7 +686,7 @@
    "Onboarding typically takes five to eight weeks",
    "Marketing automation and two-way texting need Core + Growth or above"
   ],
-  "last_verified": "2026-11-11",
+  "last_verified": "2026-11-14",
   "who_html": "<p>Mariana Tek describes itself as software for boutique fitness studios that want a high-end, branded customer experience, from single-location studios to global brands and franchises. Its customers run group classes including pilates (Lagree, Megaformer and mat), yoga, barre, indoor cycling, HIIT and boxing. Mariana Tek says typical onboarding takes five to eight weeks with dedicated onboarding specialists and a demo environment. Every plan includes multi-location management, unlimited classes and instructors, intro offers, packs and memberships, CRM, reporting, kiosk check-in, digital waivers and transactional emails.</p>",
   "compare_html": "<p><a href=\"/tools/mindbody/\">Mindbody</a> publishes an entry price (from $79/mo per location) and lists studios on its consumer app, with a 20% fee (capped at $30) on new clients' first app purchase. Mariana Tek publishes no prices and focuses on your own branded app instead of a marketplace. <a href=\"/tools/zen-planner/\">Zen Planner</a> (from $99/mo) and <a href=\"/tools/gymdesk/\">Gymdesk</a> (from $75/mo) publish prices and suit membership gyms and martial arts schools; Mariana Tek is aimed at boutique class studios with features like pick-a-spot floor plans for reformers and bikes. See also <a href=\"/studios/yoga/\">yoga studio tools</a> and <a href=\"/best-dance-studio-software/\">dance and yoga studio software compared</a>.</p>"
  },
@@ -895,7 +895,7 @@
    "martial"
   ],
   "free_trial": "unknown (demo offered)",
-  "contract": "Monthly or annual billing (annual saves 10%); change plans any time; as of Nov 1, 2026 the pricing page shows 80% off the first 2 months of Business and BusinessPro (pricing page)",
+  "contract": "Monthly or annual billing (annual saves 10%); change plans any time; as of Nov 14, 2026 the pricing page shows 80% off the first 2 months of Business and BusinessPro (pricing page)",
   "plans": [
    {
     "name": "Starter",
@@ -929,7 +929,8 @@
   "online_booking": "Yes: classes, events and appointments; Reserve with Google, ClassPass and Wellhub integrations (pricing page)",
   "rating": "unknown",
   "sources": [
-   "https://www.wellnessliving.com/pricing/"
+   "https://www.wellnessliving.com/pricing/",
+   "https://www.wellnessliving.com/pilates/software/"
   ],
   "best_for": "Studios with several staff that want published prices, free data migration and a client app",
   "starting_price": "$69/mo (Starter, 1 staff); $199/mo for unlimited staff",
@@ -942,7 +943,7 @@
    "Starter plan is limited to one staff member",
    "Card processing rates not published on the pricing page"
   ],
-  "last_verified": "2026-11-11",
+  "last_verified": "2026-11-14",
   "autopay": "Yes: memberships and auto-pay billing (pricing page)",
   "parent_portal": "Branded client web portal and Achieve client app (pricing page)"
  },
@@ -955,7 +956,7 @@
    "dance"
   ],
   "free_trial": "Yes: free trial on the Individual plan (length not stated); Studio plans by demo",
-  "contract": "No commitment; month to month unless you choose annual (pricing page FAQ)",
+  "contract": "Individual renews month to month unless you choose annual; Studio plans renew annually (pricing page FAQ, checked 2026-11-14)",
   "plans": [
    {
     "name": "Individual",
@@ -986,23 +987,24 @@
   "card_fee": "Stripe 2.9% + $0.30 (US); Individual plan adds a 3% transaction fee; Studio fees by negotiation",
   "belt_tracking": "Not applicable (boutique fitness)",
   "attendance": "Yes: check-in and waitlist management (pricing page)",
-  "online_booking": "Yes: booking app, embeddable widgets, classes, privates, events and on-demand video (pricing page)",
+  "online_booking": "Yes: booking app, embeddable widgets, classes, privates, duets, events and on-demand video; spot booking lets clients pick their reformer or megaformer (pricing page, Pilates + Lagree page)",
   "rating": "unknown",
   "sources": [
-   "https://www.arketa.com/pricing"
+   "https://www.arketa.com/pricing",
+   "https://www.arketa.com/business-type/pilates-lagree"
   ],
   "best_for": "Solo instructors and boutique yoga/pilates studios that also sell on-demand video",
   "starting_price": "$49/mo billed annually (Individual)",
   "pros": [
    "Unlimited on-demand video storage on every plan",
-   "Month-to-month with no commitment",
+   "Individual plan is month to month unless you choose annual",
    "Full data export listed on every plan"
   ],
   "cons": [
    "Individual plan charges a 3% transaction fee on top of Stripe",
    "Studio plan prices are quote only"
   ],
-  "last_verified": "2026-11-11",
+  "last_verified": "2026-11-14",
   "autopay": "Yes: memberships and recurring packages (pricing page)",
   "parent_portal": "Client booking app (pricing page)"
  },
@@ -1015,7 +1017,7 @@
    "dance"
   ],
   "free_trial": "unknown",
-  "contract": "unknown (the billing-term FAQ we saw on Nov 4 is no longer on the pricing page, checked 2026-11-11)",
+  "contract": "unknown (the billing-term FAQ we saw on Nov 4 is no longer on the pricing page, checked 2026-11-14)",
   "plans": [
    {
     "name": "Core",
@@ -1037,13 +1039,14 @@
    }
   ],
   "extra_user": "Unlimited users on every plan; priced per location",
-  "card_fee": "unknown rate; pricing page says no booking fees for your clients (checked 2026-11-11)",
+  "card_fee": "unknown rate; pricing page says no booking fees for your clients (checked 2026-11-14)",
   "belt_tracking": "Not applicable (boutique fitness)",
   "attendance": "unknown",
   "online_booking": "Yes: classes, appointments and enrollments; Book-a-Spot and waitlists with notifications; website widgets and the Walla app (pricing page, all three plans)",
   "rating": "unknown",
   "sources": [
-   "https://www.hellowalla.com/pricing"
+   "https://www.hellowalla.com/pricing",
+   "https://www.hellowalla.com/made-for/pilates"
   ],
   "best_for": "Boutique yoga, pilates and fitness studios with several instructors",
   "starting_price": "$299/mo per location",
@@ -1056,7 +1059,7 @@
    "Highest published entry price on this page",
    "Pro and Scale prices not published"
   ],
-  "last_verified": "2026-11-11",
+  "last_verified": "2026-11-14",
   "autopay": "Plans and intro offers with failed-payment reminders (pricing page)",
   "parent_portal": "Walla client app (pricing page)"
  },
@@ -1085,7 +1088,8 @@
   "online_booking": "Yes: booking widget, plus booking through Google, Apple Maps, Instagram and Facebook (pricing page)",
   "rating": "unknown",
   "sources": [
-   "https://www.vagaro.com/pro/pricing"
+   "https://www.vagaro.com/pro/pricing",
+   "https://www.vagaro.com/pro/pilates"
   ],
   "best_for": "Small appointment-and-class businesses that want a low monthly price",
   "starting_price": "$30/mo for 1 calendar ($23.99 for first 6 months)",
@@ -1098,7 +1102,7 @@
    "Price rises $10/mo per bookable calendar up to 7",
    "Card processing rates not published on pricing page"
   ],
-  "last_verified": "2026-11-11"
+  "last_verified": "2026-11-14"
  },
  {
   "slug": "trio",

@@ -31,7 +31,7 @@
 | 28 | gym-software-payment-processing-fees-explained | guide | todo |
 | 29 | best-software-for-kids-martial-arts (family accounts) | best | todo |
 | 30 | switching-martial-arts-software (data export/migration) | guide | todo |
-| 31 | best-pilates-studio-software | best | todo |
+| 31 | best-pilates-studio-software | best | done (2026-11-14; reformer spot booking compared: Arketa, Walla, WellnessLiving, Mariana Tek, Mindbody (Pick-a-Spot on Accelerate), Vagaro (not found); 6 tools re-verified, prices unchanged; Arketa Studio plans now renew annually) |
 | 32 | martial-arts-software-multi-location | best | todo |
 | 33 | tools/momence (review + pricing) | tool | todo (affiliate: Momence $500 one-time via PartnerStack, needs Jacob to sign up) |
 | 34 | tools/simplybook (review + pricing; class booking for yoga/dance studios) | tool | todo (affiliate: SimplyBook.me 25% first payment + 15% for 24 months, own panel signup with password, needs Jacob) |
@@ -73,3 +73,5 @@
 | 70 | music-teacher-software-for-multiple-teachers (per-teacher vs per-student vs flat pricing) | best | todo |
 | 71 | pushpress-vs-gymdesk (free plan + 4.99% vs from $75/mo; branded app $97 vs $100) | vs | todo |
 | 72 | martial-arts-software-with-website-included (Gymdesk website included vs Zen Planner $99/mo add-on vs MatPilot +$25/mo vs Kicksite websites) | feature | todo |
+| 73 | arketa-vs-walla (Individual $49/mo billed annually + 3% vs $299/mo per location; both list reformer spot booking) | vs | todo |
+| 74 | barre-studio-software (barre/boutique class studios; spot booking, class packs) | best | todo |
