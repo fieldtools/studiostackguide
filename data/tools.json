@@ -58,7 +58,7 @@
    "Price steps up with active student count",
    "Annual pricing not published"
   ],
-  "last_verified": "2026-11-13"
+  "last_verified": "2026-11-15"
  },
  {
   "slug": "gymdesk",
@@ -123,7 +123,7 @@
    "$25/mo more without Gymdesk Payments",
    "Door access ($100/mo) and branded app ($100/mo) are add-ons"
   ],
-  "last_verified": "2026-11-13",
+  "last_verified": "2026-11-15",
   "add_ons": "Branded member app (your gym's own App Store and Google Play listing) $100/mo, first month free; door access $100/mo for up to 3 doors, then $29 per extra door (pricing page, checked 2026-11-13)"
  },
  {
@@ -191,7 +191,7 @@
    "Annual pricing not published (ask for discount at demo)",
    "Basys flat rate adds $29/mo on top of per-transaction fees"
   ],
-  "last_verified": "2026-11-13"
+  "last_verified": "2026-11-15"
  },
  {
   "slug": "zen-planner",
@@ -303,7 +303,7 @@
    "No cancelling for convenience mid-term; auto-renews unless 30 days' notice",
    "Spark Payments rates not published"
   ],
-  "last_verified": "2026-11-13",
+  "last_verified": "2026-11-15",
   "parent_portal": "Spark Member App: members book, pay and message; owners can add logo, images, brand colours and content; fully white-labeled version for an extra cost (price not published) (sparkmembership.com/app FAQ)",
   "add_ons": "Fully white-labeled member app available for a \"small additional cost\" (price not published; ask your account rep) (sparkmembership.com/app FAQ, checked 2026-11-13)"
  },
@@ -766,12 +766,13 @@
   ],
   "extra_user": "Flat plan price; unlimited members and staff on every plan; prices in USD (contact sales for international)",
   "card_fee": "Free: 4.99% + $0.30 card, 2.89% + $0.30 ACH; Pro: 2.89% + $0.30 card, 0.79% + $0.30 ACH; Max: 2.75% + $0.30 card, 0.79% + $0.30 ACH",
-  "belt_tracking": "Yes: Rank Tracking for martial arts academies (pricing page); which plans include it: unknown",
+  "belt_tracking": "Yes: Rank Tracking on Pro and Max only (belt ranks, promotion criteria, who's ready to test); not on Free (karate/taekwondo page)",
   "attendance": "Yes: check-ins, kiosk mode and attendance tracking (pricing page)",
   "online_booking": "Yes: members app class registration, waitlists, appointments (pricing page)",
   "rating": "unknown",
   "sources": [
-   "https://www.pushpress.com/pricing"
+   "https://www.pushpress.com/pricing",
+   "https://www.pushpress.com/fitness-business-software/karate-taekwondo"
   ],
   "best_for": "Small schools that want $0/mo software and accept a higher card rate",
   "starting_price": "$0/mo (Free plan)",
@@ -784,7 +785,7 @@
    "Free plan card rate is 4.99% + $0.30",
    "Trial and contract terms not published on pricing page"
   ],
-  "last_verified": "2026-11-13",
+  "last_verified": "2026-11-15",
   "autopay": "Yes: pro-rated recurring billing (pricing page)",
   "parent_portal": "Members app for booking, purchases and profile updates (pricing page)",
   "add_ons": "Branded App (white-labeled member app with your branding and logo, check-ins, class booking, workout tracking, push notifications) $97/mo; Train $79/mo; Grow $329/mo (pricing page FAQ, checked 2026-11-13). Black Friday: 30% off any PushPress product incl. Branded App for the first 6 months, sign up by Dec 11, 2026"
@@ -1832,7 +1833,7 @@
    "Basic is capped at 50 students",
    "Annual pricing not published"
   ],
-  "last_verified": "2026-11-13"
+  "last_verified": "2026-11-15"
  },
  {
   "slug": "matpilot",

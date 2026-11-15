@@ -29,7 +29,7 @@
 | 26 | best-software-for-new-dojo (startup checklist) | guide | todo |
 | 27 | martial-arts-software-with-branded-app | feature | done (2026-11-13; branded app add-ons: Zen Planner $39/mo, PushPress $97/mo, Gymdesk $100/mo; Spark/Wodify/MatPilot unpublished; 9 tools re-verified, prices unchanged) |
 | 28 | gym-software-payment-processing-fees-explained | guide | todo |
-| 29 | best-software-for-kids-martial-arts (family accounts) | best | todo |
+| 29 | best-software-for-kids-martial-arts (family accounts) | best | done (2026-11-15; live as /kids-martial-arts-software/; 7 tools compared on parent login, family billing/sibling pricing, guardian waiver signatures; PushPress belt tracking confirmed Pro/Max only) |
 | 30 | switching-martial-arts-software (data export/migration) | guide | todo |
 | 31 | best-pilates-studio-software | best | done (2026-11-14; reformer spot booking compared: Arketa, Walla, WellnessLiving, Mariana Tek, Mindbody (Pick-a-Spot on Accelerate), Vagaro (not found); 6 tools re-verified, prices unchanged; Arketa Studio plans now renew annually) |
 | 32 | martial-arts-software-multi-location | best | todo |
@@ -75,3 +75,5 @@
 | 72 | martial-arts-software-with-website-included (Gymdesk website included vs Zen Planner $99/mo add-on vs MatPilot +$25/mo vs Kicksite websites) | feature | todo |
 | 73 | arketa-vs-walla (Individual $49/mo billed annually + 3% vs $299/mo per location; both list reformer spot booking) | vs | todo |
 | 74 | barre-studio-software (barre/boutique class studios; spot booking, class packs) | best | todo |
+| 75 | martial-arts-birthday-party-and-camp-software (events, camps, parents night out; PushPress lists all as events) | feature | todo |
+| 76 | martial-arts-waiver-software (guardian signatures for minors compared: Gymdesk, Zen Planner, PushPress, Spark) | feature | todo |
