@@ -99,7 +99,7 @@
    }
   ],
   "extra_user": "Priced by active members; extra location $50/mo (Gymdesk Payments) or $100/mo (own processor)",
-  "card_fee": "Gymdesk Payments (US/Canada) rate: unknown",
+  "card_fee": "Gymdesk Payments rate: unknown (not published). Other supported processors: Stripe, Square, Authorize.net, GoCardless, Ezypay (payment-processors page, checked 2026-11-16)",
   "belt_tracking": "Yes: per-program rank progression; flags who's ready to promote (homepage FAQ)",
   "attendance": "Yes: check-in by kiosk, name search, barcode or phone",
   "online_booking": "Yes: members book classes from their phone",
@@ -110,7 +110,9 @@
    "https://gymdesk.com/features/members",
    "https://gymdesk.com/blog/best-mma-gym-software",
    "https://gymdesk.com/software/martial-arts",
-   "https://gymdesk.com/blog/different-types-of-martial-arts"
+   "https://gymdesk.com/blog/different-types-of-martial-arts",
+   "https://gymdesk.com/features/gymdesk-payments",
+   "https://gymdesk.com/features/payment-processors"
   ],
   "best_for": "Gyms and dojos that want a website included and can use Gymdesk Payments",
   "starting_price": "$75/mo with Gymdesk Payments (≤50 members); $100/mo otherwise",
@@ -123,7 +125,7 @@
    "$25/mo more without Gymdesk Payments",
    "Door access ($100/mo) and branded app ($100/mo) are add-ons"
   ],
-  "last_verified": "2026-11-15",
+  "last_verified": "2026-11-16",
   "add_ons": "Branded member app (your gym's own App Store and Google Play listing) $100/mo, first month free; door access $100/mo for up to 3 doors, then $29 per extra door (pricing page, checked 2026-11-13)"
  },
  {
@@ -785,7 +787,7 @@
    "Free plan card rate is 4.99% + $0.30",
    "Trial and contract terms not published on pricing page"
   ],
-  "last_verified": "2026-11-15",
+  "last_verified": "2026-11-16",
   "autopay": "Yes: pro-rated recurring billing (pricing page)",
   "parent_portal": "Members app for booking, purchases and profile updates (pricing page)",
   "add_ons": "Branded App (white-labeled member app with your branding and logo, check-ins, class booking, workout tracking, push notifications) $97/mo; Train $79/mo; Grow $329/mo (pricing page FAQ, checked 2026-11-13). Black Friday: 30% off any PushPress product incl. Branded App for the first 6 months, sign up by Dec 11, 2026"

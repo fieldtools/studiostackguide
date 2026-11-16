@@ -71,9 +71,10 @@
 | 68 | walla-vs-mindbody (per-location $299 vs from $79; booking fees) | vs | todo |
 | 69 | trio-vs-nova-music (both free up to 10 students; Pro $5 vs $10/mo) | vs | todo |
 | 70 | music-teacher-software-for-multiple-teachers (per-teacher vs per-student vs flat pricing) | best | todo |
-| 71 | pushpress-vs-gymdesk (free plan + 4.99% vs from $75/mo; branded app $97 vs $100) | vs | todo |
+| 71 | pushpress-vs-gymdesk (free plan + 4.99% vs from $75/mo; branded app $97 vs $100) | vs | done (2026-11-16; Free-vs-Pro break-even ~$7,571/mo card volume; Gymdesk Payments rate unpublished; Gymdesk pricing page says US+Canada but payments FAQ says US only; Gymdesk now merged with Smoothcomp) |
 | 72 | martial-arts-software-with-website-included (Gymdesk website included vs Zen Planner $99/mo add-on vs MatPilot +$25/mo vs Kicksite websites) | feature | todo |
 | 73 | arketa-vs-walla (Individual $49/mo billed annually + 3% vs $299/mo per location; both list reformer spot booking) | vs | todo |
 | 74 | barre-studio-software (barre/boutique class studios; spot booking, class packs) | best | todo |
 | 75 | martial-arts-birthday-party-and-camp-software (events, camps, parents night out; PushPress lists all as events) | feature | todo |
 | 76 | martial-arts-waiver-software (guardian signatures for minors compared: Gymdesk, Zen Planner, PushPress, Spark) | feature | todo |
+| 77 | bjj-competition-management-software (Gymdesk + Smoothcomp tournament registration/records vs others) | feature | todo |
