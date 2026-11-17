@@ -72,9 +72,11 @@
 | 69 | trio-vs-nova-music (both free up to 10 students; Pro $5 vs $10/mo) | vs | todo |
 | 70 | music-teacher-software-for-multiple-teachers (per-teacher vs per-student vs flat pricing) | best | todo |
 | 71 | pushpress-vs-gymdesk (free plan + 4.99% vs from $75/mo; branded app $97 vs $100) | vs | done (2026-11-16; Free-vs-Pro break-even ~$7,571/mo card volume; Gymdesk Payments rate unpublished; Gymdesk pricing page says US+Canada but payments FAQ says US only; Gymdesk now merged with Smoothcomp) |
-| 72 | martial-arts-software-with-website-included (Gymdesk website included vs Zen Planner $99/mo add-on vs MatPilot +$25/mo vs Kicksite websites) | feature | todo |
+| 72 | martial-arts-software-with-website-included (Gymdesk website included vs Zen Planner $99/mo add-on vs MatPilot +$25/mo vs Kicksite websites) | feature | done (2026-11-17; 9 tools: Gymdesk included, MatPilot +$25/mo on Pro, Zen Planner $99/mo / Essentials $198, Dojo Champ School Website $199/mo, PushPress Grow $329/mo, Wodify Ultimate only, Kicksite prices unpublished, Spark landing pages only, Martialytics none) |
 | 73 | arketa-vs-walla (Individual $49/mo billed annually + 3% vs $299/mo per location; both list reformer spot booking) | vs | todo |
 | 74 | barre-studio-software (barre/boutique class studios; spot booking, class packs) | best | todo |
 | 75 | martial-arts-birthday-party-and-camp-software (events, camps, parents night out; PushPress lists all as events) | feature | todo |
 | 76 | martial-arts-waiver-software (guardian signatures for minors compared: Gymdesk, Zen Planner, PushPress, Spark) | feature | todo |
 | 77 | bjj-competition-management-software (Gymdesk + Smoothcomp tournament registration/records vs others) | feature | todo |
+| 78 | martial-arts-seo-and-google-business-profile-help (Kicksite Premium local search/listings vs DIY; which school software includes local SEO) | guide | todo |
+| 79 | zen-planner-essentials-vs-gymdesk (Studio + $99 website vs website included; total cost by active members) | vs | todo |
