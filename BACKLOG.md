@@ -26,7 +26,7 @@
 | 23 | kicksite-alternatives | alternatives | done (2026-10-30) |
 | 24 | add tools (Jackrabbit Class, DanceStudio-Pro/Studio Pro, Akada, Studio Director added 2026-11-08; Wodify added 2026-11-09; iClassPro added 2026-11-10; still to add; Momence pricing page publishes no prices as of 2026-11-10): Glofox, Momence, MyStudio, Ember, Dojo Expert | data | todo |
 | 25 | best-dance-studio-software (dance-only, with Jackrabbit) | best | done (2026-11-08; live as /dance-studio-software-comparison/, Search Console query "dance studio software comparison") |
-| 26 | best-software-for-new-dojo (startup checklist) | guide | todo |
+| 26 | best-software-for-new-dojo (startup checklist) | guide | done (2026-11-18; 10 tools: MatPilot, RhinoFit, MatGoat, MAAT, Martialytics, Gymdesk, Kicksite, PushPress, Zen Planner, Spark; 20-student worked example; Zen Planner branded app $39 on tiers page vs $99 on main pricing page) |
 | 27 | martial-arts-software-with-branded-app | feature | done (2026-11-13; branded app add-ons: Zen Planner $39/mo, PushPress $97/mo, Gymdesk $100/mo; Spark/Wodify/MatPilot unpublished; 9 tools re-verified, prices unchanged) |
 | 28 | gym-software-payment-processing-fees-explained | guide | todo |
 | 29 | best-software-for-kids-martial-arts (family accounts) | best | done (2026-11-15; live as /kids-martial-arts-software/; 7 tools compared on parent login, family billing/sibling pricing, guardian waiver signatures; PushPress belt tracking confirmed Pro/Max only) |
@@ -80,3 +80,4 @@
 | 77 | bjj-competition-management-software (Gymdesk + Smoothcomp tournament registration/records vs others) | feature | todo |
 | 78 | martial-arts-seo-and-google-business-profile-help (Kicksite Premium local search/listings vs DIY; which school software includes local SEO) | guide | todo |
 | 79 | zen-planner-essentials-vs-gymdesk (Studio + $99 website vs website included; total cost by active members) | vs | todo |
+| 80 | martial-arts-software-free-trial-lengths (MAAT 7 days, Gymdesk/Martialytics/MatGoat/RhinoFit 30 days, Spark 8 weeks, free plans; card required or not) | feature | todo |
