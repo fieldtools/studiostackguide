@@ -39,7 +39,7 @@
 | 36 | duet-vs-mysymphony (flat $9/mo vs $0.25 per booked lesson) | vs | todo |
 | 37 | my-music-staff-alternatives | alternatives | done (2026-11-12; 8 alternatives: MakeMusic Studio, Duet, mySymphony, Trio, Nova Music, Studio Helper, Teach 'n Go, TutorTally; music prices re-verified, unchanged) |
 | 38 | free-music-teacher-software (free plans/trials for music teachers) | best | done (2026-11-03; live as /free-music-lesson-software/) |
-| 39 | best-piano-teacher-software | best | todo |
+| 39 | best-piano-teacher-software | best | done (2026-11-19; 7 tools: Trio, Nova Music, TutorTally, Duet, mySymphony, My Music Staff, MakeMusic Studio; practice/repertoire/makeup/recital/sheet-music feature table; TutorTally prices dropped to $4.99/mo, $29.99/yr, $59.99 lifetime (updated 2 pages); mySymphony add-ons now published: Grid View and Practice Dashboard $20/mo each) |
 | 40 | best-voice-teacher-software (private voice/instrument teachers) | best | todo |
 | 41 | my-music-staff-vs-fons | vs | todo |
 | 42 | tools/wellnessliving (review + pricing; gyms, yoga, martial arts, dance) | tool | done (2026-10-31; /tools/wellnessliving/ published with mindbody-alternatives; affiliate: WellnessLiving $1,500 per signup via Wise, plain form, apply-ready per scout 2026-10-25, not applied) |
@@ -81,3 +81,5 @@
 | 78 | martial-arts-seo-and-google-business-profile-help (Kicksite Premium local search/listings vs DIY; which school software includes local SEO) | guide | todo |
 | 79 | zen-planner-essentials-vs-gymdesk (Studio + $99 website vs website included; total cost by active members) | vs | todo |
 | 80 | martial-arts-software-free-trial-lengths (MAAT 7 days, Gymdesk/Martialytics/MatGoat/RhinoFit 30 days, Spark 8 weeks, free plans; card required or not) | feature | todo |
+| 81 | makemusic-studio-vs-my-music-staff ($19.95 + built-in Suzuki/Alfred catalog vs $16.95 + repertoire library and website builder; both +$4.95 per teacher) | vs | todo |
+| 82 | music-practice-tracking-apps-for-teachers (Trio assignments/streaks/video, Nova practice logging, mySymphony $20/mo Practice Dashboard, MakeMusic play-along) | feature | todo |
