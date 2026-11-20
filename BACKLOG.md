@@ -32,7 +32,7 @@
 | 29 | best-software-for-kids-martial-arts (family accounts) | best | done (2026-11-15; live as /kids-martial-arts-software/; 7 tools compared on parent login, family billing/sibling pricing, guardian waiver signatures; PushPress belt tracking confirmed Pro/Max only) |
 | 30 | switching-martial-arts-software (data export/migration) | guide | todo |
 | 31 | best-pilates-studio-software | best | done (2026-11-14; reformer spot booking compared: Arketa, Walla, WellnessLiving, Mariana Tek, Mindbody (Pick-a-Spot on Accelerate), Vagaro (not found); 6 tools re-verified, prices unchanged; Arketa Studio plans now renew annually) |
-| 32 | martial-arts-software-multi-location | best | todo |
+| 32 | martial-arts-software-multi-location | best | done (2026-11-20; 10 tools: Dojo Champ and Martialytics no extra-location fee, Gymdesk +$50/+$100 per location, PushPress per location with 17% off extras, Wodify per location, Mindbody from $79/location; Spark, Kicksite, Zen Planner, WellnessLiving Enterprise unpublished; 2 schools x 120 students worked example) |
 | 33 | tools/momence (review + pricing) | tool | todo (affiliate: Momence $500 one-time via PartnerStack, needs Jacob to sign up) |
 | 34 | tools/simplybook (review + pricing; class booking for yoga/dance studios) | tool | todo (affiliate: SimplyBook.me 25% first payment + 15% for 24 months, own panel signup with password, needs Jacob) |
 | 35 | best-music-lesson-studio-software (music lesson studios section hub /studios/music-lessons/) | best | done (2026-10-25) |
@@ -83,3 +83,5 @@
 | 80 | martial-arts-software-free-trial-lengths (MAAT 7 days, Gymdesk/Martialytics/MatGoat/RhinoFit 30 days, Spark 8 weeks, free plans; card required or not) | feature | todo |
 | 81 | makemusic-studio-vs-my-music-staff ($19.95 + built-in Suzuki/Alfred catalog vs $16.95 + repertoire library and website builder; both +$4.95 per teacher) | vs | todo |
 | 82 | music-practice-tracking-apps-for-teachers (Trio assignments/streaks/video, Nova practice logging, mySymphony $20/mo Practice Dashboard, MakeMusic play-along) | feature | todo |
+| 83 | martial-arts-franchise-software (royalty billing, HQ reporting: WellnessLiving Enterprise royalties and fees, Martialytics franchise page, Mindbody Enterprise) | feature | todo |
+| 84 | wodify-vs-pushpress (both priced per location; Wodify $199 list/$99 offer vs PushPress $0/$159/$229 with 17% off extra locations) | vs | todo |
