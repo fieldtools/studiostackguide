@@ -28,7 +28,7 @@
 | 25 | best-dance-studio-software (dance-only, with Jackrabbit) | best | done (2026-11-08; live as /dance-studio-software-comparison/, Search Console query "dance studio software comparison") |
 | 26 | best-software-for-new-dojo (startup checklist) | guide | done (2026-11-18; 10 tools: MatPilot, RhinoFit, MatGoat, MAAT, Martialytics, Gymdesk, Kicksite, PushPress, Zen Planner, Spark; 20-student worked example; Zen Planner branded app $39 on tiers page vs $99 on main pricing page) |
 | 27 | martial-arts-software-with-branded-app | feature | done (2026-11-13; branded app add-ons: Zen Planner $39/mo, PushPress $97/mo, Gymdesk $100/mo; Spark/Wodify/MatPilot unpublished; 9 tools re-verified, prices unchanged) |
-| 28 | gym-software-payment-processing-fees-explained | guide | todo |
+| 28 | gym-software-payment-processing-fees-explained | guide | done (2026-11-21; studio-wide guide, 6 fee models: Stripe pass-through, platform %, bundled rates, monthly processing fee, subscription discount for in-house payments, member-paid/surcharging; $10,000/mo worked example across 15+ tools; break-evens PushPress Free/Pro ~$7,571, MatPilot Free/Pro ~$5,232, Kicksite $29 fee 580 payments; MASS terms v2026-11-06: trial needs no payment method, 2% standard rate) |
 | 29 | best-software-for-kids-martial-arts (family accounts) | best | done (2026-11-15; live as /kids-martial-arts-software/; 7 tools compared on parent login, family billing/sibling pricing, guardian waiver signatures; PushPress belt tracking confirmed Pro/Max only) |
 | 30 | switching-martial-arts-software (data export/migration) | guide | todo |
 | 31 | best-pilates-studio-software | best | done (2026-11-14; reformer spot booking compared: Arketa, Walla, WellnessLiving, Mariana Tek, Mindbody (Pick-a-Spot on Accelerate), Vagaro (not found); 6 tools re-verified, prices unchanged; Arketa Studio plans now renew annually) |
@@ -85,3 +85,5 @@
 | 82 | music-practice-tracking-apps-for-teachers (Trio assignments/streaks/video, Nova practice logging, mySymphony $20/mo Practice Dashboard, MakeMusic play-along) | feature | todo |
 | 83 | martial-arts-franchise-software (royalty billing, HQ reporting: WellnessLiving Enterprise royalties and fees, Martialytics franchise page, Mindbody Enterprise) | feature | todo |
 | 84 | wodify-vs-pushpress (both priced per location; Wodify $199 list/$99 offer vs PushPress $0/$159/$229 with 17% off extra locations) | vs | todo |
+| 85 | ach-vs-card-tuition-autopay (moving families to ACH: Stripe 0.8% capped $5 vs 2.9% + 30¢; PushPress ACH 0.79% + $0.30 on Pro, Kicksite $0.30/ACH, Wodify ACH from 1.5% + 30¢, MakeMusic 1.8%) | guide | todo |
+| 86 | studio-software-surcharging-dual-pricing (Spark surcharging capped at actual rate or dual pricing, Studio Pro up to 3%, Mindbody surcharging where permitted, Jackrabbit pass-fees option) | feature | todo |

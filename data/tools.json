@@ -59,7 +59,7 @@
    "Price steps up with active student count",
    "Annual pricing not published"
   ],
-  "last_verified": "2026-11-20"
+  "last_verified": "2026-11-21"
  },
  {
   "slug": "gymdesk",
@@ -127,7 +127,7 @@
    "$25/mo more without Gymdesk Payments",
    "Door access ($100/mo) and branded app ($100/mo) are add-ons"
   ],
-  "last_verified": "2026-11-20",
+  "last_verified": "2026-11-21",
   "add_ons": "Branded member app (your gym's own App Store and Google Play listing) $100/mo, first month free; door access $100/mo for up to 3 doors, then $29 per extra door (pricing page, checked 2026-11-13)"
  },
  {
@@ -197,7 +197,7 @@
    "Annual pricing not published (ask for discount at demo)",
    "Basys flat rate adds $29/mo on top of per-transaction fees"
   ],
-  "last_verified": "2026-11-20",
+  "last_verified": "2026-11-21",
   "add_ons": "Martial arts websites (Basic 1-3 pages, Advanced, Premium with local search, Multi-Location) for software customers; prices not published"
  },
  {
@@ -311,7 +311,7 @@
    "No cancelling for convenience mid-term; auto-renews unless 30 days' notice",
    "Spark Payments rates not published"
   ],
-  "last_verified": "2026-11-20",
+  "last_verified": "2026-11-21",
   "parent_portal": "Spark Member App: members book, pay and message; owners can add logo, images, brand colours and content; fully white-labeled version for an extra cost (price not published) (sparkmembership.com/app FAQ)",
   "add_ons": "Fully white-labeled member app available for a \"small additional cost\" (price not published; ask your account rep) (sparkmembership.com/app FAQ, checked 2026-11-13)"
  },
@@ -323,7 +323,7 @@
    "martial",
    "bjj"
   ],
-  "free_trial": "14 days, no credit card (homepage); terms say payment method required",
+  "free_trial": "14 days, no payment method required (Terms 3.2, version 2026-11-06)",
   "contract": "No contracts, monthly or annual",
   "plans": [
    {
@@ -334,7 +334,7 @@
    }
   ],
   "extra_user": "Priced by active students",
-  "card_fee": "2% platform fee on student payments processed through MASS (Terms 3.7), plus Stripe",
+  "card_fee": "2% platform fee (standard rate; negotiated rates shown on the club's billing pages) on student membership payments processed through MASS, deducted via Stripe (Terms 3.7, version 2026-11-06), plus Stripe",
   "belt_tracking": "Yes: grading readiness score per student; one-click grading certificates (homepage)",
   "attendance": "Yes: attendance tracking (Terms)",
   "online_booking": "Class scheduling (Terms)",
@@ -354,7 +354,7 @@
    "Prices not public",
    "2% platform fee on processed payments"
   ],
-  "last_verified": "2026-10-22"
+  "last_verified": "2026-11-21"
  },
  {
   "slug": "mindbody",
@@ -409,7 +409,7 @@
    "Only the entry price is published",
    "App bookings from new clients carry a 20% fee (capped $30)"
   ],
-  "last_verified": "2026-11-20"
+  "last_verified": "2026-11-21"
  },
  {
   "slug": "my-music-staff",
@@ -489,7 +489,7 @@
    "Each additional staff member adds $4.95/mo",
    "Annual price and parent portal details not published"
   ],
-  "last_verified": "2026-11-19",
+  "last_verified": "2026-11-21",
   "autopay": "Yes: automatic payments with flexible billing (pricing page)",
   "parent_portal": "unknown"
  },
@@ -532,7 +532,7 @@
    "Card payments also carry 2.9% processing",
    "Pricing page promos and copyright date are from 2024; we couldn't confirm the product is still actively updated"
   ],
-  "last_verified": "2026-11-19",
+  "last_verified": "2026-11-21",
   "autopay": "Yes: tracks what families owe; statements sent by text link; direct deposit (pricing page)",
   "parent_portal": "No login needed: statements by text link; students self-schedule from their phones (pricing page). Full portal unknown"
  },
@@ -694,7 +694,7 @@
    "Onboarding typically takes five to eight weeks",
    "Marketing automation and two-way texting need Core + Growth or above"
   ],
-  "last_verified": "2026-11-14",
+  "last_verified": "2026-11-21",
   "who_html": "<p>Mariana Tek describes itself as software for boutique fitness studios that want a high-end, branded customer experience, from single-location studios to global brands and franchises. Its customers run group classes including pilates (Lagree, Megaformer and mat), yoga, barre, indoor cycling, HIIT and boxing. Mariana Tek says typical onboarding takes five to eight weeks with dedicated onboarding specialists and a demo environment. Every plan includes multi-location management, unlimited classes and instructors, intro offers, packs and memberships, CRM, reporting, kiosk check-in, digital waivers and transactional emails.</p>",
   "compare_html": "<p><a href=\"/tools/mindbody/\">Mindbody</a> publishes an entry price (from $79/mo per location) and lists studios on its consumer app, with a 20% fee (capped at $30) on new clients' first app purchase. Mariana Tek publishes no prices and focuses on your own branded app instead of a marketplace. <a href=\"/tools/zen-planner/\">Zen Planner</a> (from $99/mo) and <a href=\"/tools/gymdesk/\">Gymdesk</a> (from $75/mo) publish prices and suit membership gyms and martial arts schools; Mariana Tek is aimed at boutique class studios with features like pick-a-spot floor plans for reformers and bikes. See also <a href=\"/studios/yoga/\">yoga studio tools</a> and <a href=\"/best-dance-studio-software/\">dance and yoga studio software compared</a>.</p>"
  },
@@ -794,7 +794,7 @@
    "Free plan card rate is 4.99% + $0.30",
    "Trial and contract terms not published on pricing page"
   ],
-  "last_verified": "2026-11-20",
+  "last_verified": "2026-11-21",
   "autopay": "Yes: pro-rated recurring billing (pricing page)",
   "parent_portal": "Members app for booking, purchases and profile updates (pricing page)",
   "add_ons": "Branded App (white-labeled member app with your branding and logo, check-ins, class booking, workout tracking, push notifications) $97/mo; Train $79/mo; Grow $329/mo (pricing page FAQ, checked 2026-11-13). Black Friday: 30% off any PushPress product incl. Branded App for the first 6 months, sign up by Dec 11, 2026"
@@ -838,7 +838,7 @@
    "Members pay about 5% on every checkout payment",
    "Exact fee is described as 'about 5%', not a fixed published rate"
   ],
-  "last_verified": "2026-10-26",
+  "last_verified": "2026-11-21",
   "autopay": "Yes: memberships with automatic retry of failed payments (pricing page)",
   "parent_portal": "Family accounts: several children under one payer and one login (pricing page)"
  },
@@ -1016,7 +1016,7 @@
    "Individual plan charges a 3% transaction fee on top of Stripe",
    "Studio plan prices are quote only"
   ],
-  "last_verified": "2026-11-14",
+  "last_verified": "2026-11-21",
   "autopay": "Yes: memberships and recurring packages (pricing page)",
   "parent_portal": "Client booking app (pricing page)"
  },
@@ -1314,7 +1314,7 @@
    "No annual plan published",
    "Entry price higher than tiered options for very small schools"
   ],
-  "last_verified": "2026-11-20",
+  "last_verified": "2026-11-21",
   "autopay": "Yes: recurring billing, failed-payment recovery, ACH and card via Stripe (pricing feature list)",
   "parent_portal": "Member-facing public landing pages for calendars, products, memberships and events (homepage); native iOS and Android apps (vendor email Nov 4, 2026)",
   "add_ons": "School Website add-on $199/mo (custom built, synced with schedule, trial booking and forms; apply on homepage)"
@@ -1461,7 +1461,7 @@
    "Pricing varies by client-count tier"
   ],
   "who_html": "<p>Virtuagym sells business software (Manage), digital coaching (Coach) and a combined All-in-One plan. Plan names, features and figures come from <a href=\"https://business.virtuagym.com/our-prices/\" rel=\"nofollow\">business.virtuagym.com/our-prices</a>, checked 2026-11-07. The page loads prices by region and client tier, and its published text shows the numbers without a currency symbol, so confirm the currency on a demo. Compare it with other studio platforms in <a href=\"/mindbody-alternatives-for-studios/\">Mindbody alternatives</a> and the <a href=\"/software-buying-checklist/\">software buying checklist</a>.</p><p><strong>Disclosure:</strong> we may earn a referral fee if your business signs a Virtuagym contract through our link.</p>",
-  "last_verified": "2026-11-07"
+  "last_verified": "2026-11-21"
  },
  {
   "slug": "jackrabbit-class",
@@ -1577,7 +1577,7 @@
    "1.35% tech fee if you use a third-party payment processor",
    "Contract terms not published"
   ],
-  "last_verified": "2026-11-10",
+  "last_verified": "2026-11-21",
   "who_html": "<p>Studio Pro is the current name of DanceStudio-Pro (dancestudio-pro.com now redirects to gostudiopro.com/dance). It also sells versions for cheer, gymnastics and other class programs and says it serves 7,000+ educators. It offers free data import from a spreadsheet.</p>",
   "compare_html": "<p>Studio Pro and <a href=\"/tools/akada/\">Akada</a> are both flat-priced with recital and costume tools; Akada is $60/mo with every feature and Studio Pro is $49-$165/mo by plan. See <a href=\"/dance-studio-software-comparison/\">dance studio software compared</a>.</p>"
  },
@@ -1692,7 +1692,7 @@
    "No free trial published",
    "Processing rates not published"
   ],
-  "last_verified": "2026-11-10",
+  "last_verified": "2026-11-21",
   "who_html": "<p>The Studio Director markets itself mainly to dance studios and gymnastics businesses and also lists cheer, fitness, martial arts, music, pilates, yoga and youth sports. Features it lists: texting and email with drip campaigns, virtual class links, events and recitals with ticket sales, stored card and bank payments, online enrollment through a parent portal, reports, and costume management with preloaded vendor size charts.</p>",
   "compare_html": "<p>For a studio under 100 students using built-in payments, The Studio Director's $39/mo is below <a href=\"/tools/studio-pro/\">Studio Pro</a> ($49/mo) and <a href=\"/tools/akada/\">Akada</a> ($60/mo). See <a href=\"/dance-studio-software-comparison/\">dance studio software compared</a>.</p>"
  },
@@ -1797,7 +1797,7 @@
    "Free trial is 7 days",
    "Parent/family accounts not described on the pricing page"
   ],
-  "last_verified": "2026-11-18"
+  "last_verified": "2026-11-21"
  },
  {
   "slug": "matgoat",
@@ -1847,7 +1847,7 @@
    "Basic is capped at 50 students",
    "Annual pricing not published"
   ],
-  "last_verified": "2026-11-18"
+  "last_verified": "2026-11-21"
  },
  {
   "slug": "matpilot",
@@ -1899,7 +1899,7 @@
    "Free plan member limit not stated",
    "Family billing and diplomas are Pro only"
   ],
-  "last_verified": "2026-11-18"
+  "last_verified": "2026-11-21"
  },
  {
   "slug": "iclasspro",
