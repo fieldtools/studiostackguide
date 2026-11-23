@@ -452,7 +452,7 @@
    "Each extra teacher or staff member adds $4.95/mo",
    "Annual price not published"
   ],
-  "last_verified": "2026-11-19",
+  "last_verified": "2026-11-23",
   "autopay": "Yes: automatic invoicing, online payments, late fee automation (pricing page)",
   "parent_portal": "Yes: student portal with self-service scheduling, lesson notes, payment history (pricing page)"
  },
@@ -493,7 +493,7 @@
    "Each additional staff member adds $4.95/mo",
    "Annual price and parent portal details not published"
   ],
-  "last_verified": "2026-11-21",
+  "last_verified": "2026-11-23",
   "autopay": "Yes: automatic payments with flexible billing (pricing page)",
   "parent_portal": "unknown"
  },
@@ -536,7 +536,7 @@
    "Card payments also carry 2.9% processing",
    "Pricing page promos and copyright date are from 2024; we couldn't confirm the product is still actively updated"
   ],
-  "last_verified": "2026-11-21",
+  "last_verified": "2026-11-23",
   "autopay": "Yes: tracks what families owe; statements sent by text link; direct deposit (pricing page)",
   "parent_portal": "No login needed: statements by text link; students self-schedule from their phones (pricing page). Full portal unknown"
  },
@@ -583,7 +583,7 @@
    "Solo Plan capped at 100 active students and 50 SMS/mo",
    "Practice Dashboard (metronome, tuner, practice tracking) and Grid View are $20/mo add-ons each"
   ],
-  "last_verified": "2026-11-19",
+  "last_verified": "2026-11-23",
   "autopay": "Yes: automated invoicing and billing (pricing page)",
   "parent_portal": "Yes: basic student dashboard (pricing page)",
   "add_ons": "Grid View $20/mo; Student Practice Dashboard (metronome, tuner, practice tracking) $20/mo; AI Front Desk (coming soon) prepaid minute packs $25/60 min, $50/150 min, $150/500 min, $0.40/min overage (pricing page, checked 2026-11-19)"
@@ -1171,7 +1171,7 @@
    "Free plan takes cash and check payments only",
    "Free plan has no team members beyond the owner"
   ],
-  "last_verified": "2026-11-19",
+  "last_verified": "2026-11-23",
   "autopay": "Pro and Max only (online payments, automatic late fees); not on Free",
   "parent_portal": "Yes: parent portal on all plans, including Free (help center)"
  },
@@ -1218,7 +1218,7 @@
    "Billing tools need Pro ($10/mo)",
    "Free plan storage is 100 MB"
   ],
-  "last_verified": "2026-11-19",
+  "last_verified": "2026-11-23",
   "autopay": "unknown",
   "parent_portal": "Student portal on Free (pricing page); parent portal unknown"
  },
@@ -1272,7 +1272,7 @@
    "No card processing: families pay you directly",
    "Apple devices only: iPhone, iPad and Mac (App Store: Mac requires macOS 14.0 or later and a Mac with Apple M1 chip or later)"
   ],
-  "last_verified": "2026-11-19",
+  "last_verified": "2026-11-23",
   "autopay": "No: TutorTally doesn't process payments",
   "parent_portal": "No parent portal described; student data stays on the teacher's device"
  },
