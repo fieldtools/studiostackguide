@@ -1,4 +1,26 @@
 # Backlog (status: todo / done (date))
+
+## Priority queue: keyword plan 2026-11-24 (work these first, top to bottom)
+Source: Search Console, Aug 24 to Nov 23 2026 (research/keyword_coverage_2026-11-24.md). Ranked by impressions in each uncovered cluster. Rows marked "promoted existing row" point to an item further down; build that item and mark both rows done. Each page must target its own intent, use only vendor-sourced facts, and must not be a near-duplicate or doorway page (no per-city or synonym pages). Approved by Jacob 2026-11-24 ("Add the new page ideas to the nightly queue").
+
+| Priority | # | Page | Target queries (GSC impressions) | Distinct intent | Don't duplicate | Status |
+|---|---|---|---|---|---|---|
+| P1 | 92 | software-for-independent-martial-arts-instructors | mma instructor software 43 (pos 53), mma instructor business software 16 (pos 51), karate instructor business software 12, judo instructor business software 9, kung fu instructor business software 6, karate instructor software 5 (94 impr) | Instructors without their own gym (rented mats, Ys, schools): light booking + payments, low/no monthly fee | Don't duplicate best-software-for-new-dojo (opening a school) or free-martial-arts-software | todo |
+| P2 | 93 | martial-arts-trial-class-booking-software | online booking software for mma gym 18 (pos 49), martial arts booking system 15, martial arts studio booking software 12, karate trial booking software 10 (pos 43), krav maga gym booking software 7, mma trial booking software 3 (pos 20) (87 impr) | Online intro/trial-class booking and lead follow-up for schools | Don't duplicate bjj-class-scheduling-software, class-booking-software-for-studios (yoga/pilates tools) or #80 (vendor free-trial lengths) | todo |
+| P3 | 94 | martial-arts-private-lesson-booking-software | martial arts appointment software 63 (pos 81) | Private lessons/appointments: 1:1 sessions, instructor calendars, lesson packages | Don't duplicate #93 (group trial classes) | todo |
+| P4 | 95 | best-boxing-kickboxing-gym-software | best boxing studio software 14, kickboxing studio software 9, boxing and martial arts software 8, kickboxing gym membership software 7, kickboxing gym software 4 (38 impr) | Boxing/kickboxing gyms: class packs, drop-ins, memberships | Don't duplicate best-mma-gym-software or best-muay-thai-gym-software; if the tool set/angle is the same, add a section there instead | todo |
+| P5 | 96 | martial-arts-curriculum-software | martial arts training software 25 (pos 86), martial arts curriculum software for small karate schools 3 (pos 9) (28 impr) | Curriculum and video libraries for students (techniques per rank, at-home video) | Don't duplicate belt-rank-tracking-software (rank records) | todo |
+| P6 | 97 | yoga-studio-software-cost | how much does yoga studio software cost 8, yoga studio app cost/pricing/price 13, yoga studio software price 3 (25 impr) | What yoga studio software costs per month across vendors | Don't duplicate mindbody-pricing (one vendor) or best-yoga-studio-software | todo |
+| P7 | 98 | free-dance-studio-software | best free dance studio software 22 (pos 81) | Free plans and trials for dance studios | Don't duplicate dance-studio-software-comparison or free-music-lesson-software | todo |
+| P8 | 99 | martial-arts-marketing-software | martial arts marketing software 6, best marketing tools for martial arts studios 5, mma gym management software with booking billing marketing 5, best ai marketing software for martial arts school owners 3 (21 impr) | Email/SMS/lead automation built into school software | Don't duplicate #78 (local SEO/Google Business Profile); may absorb #91 (texting costs) | todo |
+| P9 | 99a | (existing #76) martial-arts-waiver-software | pro waiver kiosk app for martial arts studios 19 | see #76 | Don't duplicate martial-arts-attendance-software (kiosk check-in) | todo (promoted existing row #76) |
+| P10 | 99b | (existing #49) tools/bjjlink | bjjlink admin vs zen planner for martial arts member engagement 11, spark membership vs bjj link 6 | see #49 |  | todo (promoted existing row #49; affiliate needs Jacob) |
+| P11 | 99c | (existing #74) barre-studio-software | lagree studio software 8, best lagree studio software 1 | see #74; can cover Lagree studios | Don't duplicate best-pilates-studio-software | todo (promoted existing row #74) |
+| P12 | 99d | (existing #24) add MyStudio tool | mystudio martial arts software 2, mystudio martial arts 1, mystudio alternative 1 | see #24 |  | todo (promoted existing row #24) |
+
+Rejected (don't build): one page per style (tang soo do, judo, hapkido, kung fu; doorway risk, add a short sourced section to best-karate-school-software instead); a general "martial arts class scheduling" page (repeats bjj-class-scheduling-software); separate Spark/Kicksite/Zen Planner pricing pages (would cannibalize the tool pages, as Mindbody's tool page does); a "dance studio software reviews" page; a new "student tracking" page (retitle belt-rank-tracking-software instead, see quick-fix preview 2026-11-24).
+
+## Full backlog
 | # | Page | Type | Status |
 |---|------|------|--------|
 | 1 | best-martial-arts-school-software | compare | done (2026-10-22) |
@@ -24,7 +46,7 @@
 | 21 | mindbody-alternatives-for-studios | alternatives | done (2026-10-31) |
 | 22 | zen-planner-alternatives | alternatives | done (2026-11-09; added Wodify tool page; Search Console query "zen planner", Oct 2026) |
 | 23 | kicksite-alternatives | alternatives | done (2026-10-30) |
-| 24 | add tools (Jackrabbit Class, DanceStudio-Pro/Studio Pro, Akada, Studio Director added 2026-11-08; Wodify added 2026-11-09; iClassPro added 2026-11-10; still to add; Momence pricing page publishes no prices as of 2026-11-10): Glofox, Momence, MyStudio, Ember, Dojo Expert | data | todo |
+| 24 | add tools (Jackrabbit Class, DanceStudio-Pro/Studio Pro, Akada, Studio Director added 2026-11-08; Wodify added 2026-11-09; iClassPro added 2026-11-10; still to add; Momence pricing page publishes no prices as of 2026-11-10): Glofox, Momence, MyStudio, Ember, Dojo Expert | data | todo **PRIORITY P12 (GSC 2026-11-24, see priority queue)** |
 | 25 | best-dance-studio-software (dance-only, with Jackrabbit) | best | done (2026-11-08; live as /dance-studio-software-comparison/, Search Console query "dance studio software comparison") |
 | 26 | best-software-for-new-dojo (startup checklist) | guide | done (2026-11-18; 10 tools: MatPilot, RhinoFit, MatGoat, MAAT, Martialytics, Gymdesk, Kicksite, PushPress, Zen Planner, Spark; 20-student worked example; Zen Planner branded app $39 on tiers page vs $99 on main pricing page) |
 | 27 | martial-arts-software-with-branded-app | feature | done (2026-11-13; branded app add-ons: Zen Planner $39/mo, PushPress $97/mo, Gymdesk $100/mo; Spark/Wodify/MatPilot unpublished; 9 tools re-verified, prices unchanged) |
@@ -49,7 +71,7 @@
 | 46 | tools/virtuagym (review + pricing; gyms, studios, martial arts, PT) | tool | done (2026-11-07); (affiliate: Virtuagym referral $300 studio / $500 gym / $150 PT, Referral Rock form, apply-ready per scout 2026-10-26) |
 | 47 | tools/offeringtree (review + pricing; yoga/pilates/dance studio website + booking) | tool | todo (affiliate: OfferingTree Ambassador $10-$80/mo for 1 year via PayPal; requires an OfferingTree account, needs Jacob) |
 | 48 | tools/upper-hand (review + pricing; sports-business management with martial arts, dance and gymnastics pages, from $79/mo) | tool | todo (affiliate: Upper Hand UPX Ambassador, $300+ per new customer + $400 bonus every 3 sales, HubSpot form, apply-ready per scout 2026-10-30) |
-| 49 | tools/bjjlink (review + pricing; BJJ academy management, Admin+ Black/Coral) | tool | todo (affiliate: BJJLINK referral $49 or $149/mo for up to 3 months via PayPal; requires a CONNECT account, needs Jacob) |
+| 49 | tools/bjjlink (review + pricing; BJJ academy management, Admin+ Black/Coral) | tool | todo (affiliate: BJJLINK referral $49 or $149/mo for up to 3 months via PayPal; requires a CONNECT account, needs Jacob) **PRIORITY P10 (GSC 2026-11-24, see priority queue)** |
 | 50 | tools/marvelous (review + pricing; yoga teacher/studio course, membership and booking platform) | tool | todo (affiliate: Marvelous 30% for 24 months via PayPal; app signup, needs Jacob; moderate fit) |
 | 51 | wellnessliving-vs-mindbody (published prices vs from-$79 Starter; staff limits) | vs | done (2026-11-01) |
 | 52 | bjj-class-scheduling-software (Search Console query "brazilian jiu jitsu class scheduling software", Oct 2026) | feature | done (2026-11-03) |
@@ -74,9 +96,9 @@
 | 71 | pushpress-vs-gymdesk (free plan + 4.99% vs from $75/mo; branded app $97 vs $100) | vs | done (2026-11-16; Free-vs-Pro break-even ~$7,571/mo card volume; Gymdesk Payments rate unpublished; Gymdesk pricing page says US+Canada but payments FAQ says US only; Gymdesk now merged with Smoothcomp) |
 | 72 | martial-arts-software-with-website-included (Gymdesk website included vs Zen Planner $99/mo add-on vs MatPilot +$25/mo vs Kicksite websites) | feature | done (2026-11-17; 9 tools: Gymdesk included, MatPilot +$25/mo on Pro, Zen Planner $99/mo / Essentials $198, Dojo Champ School Website $199/mo, PushPress Grow $329/mo, Wodify Ultimate only, Kicksite prices unpublished, Spark landing pages only, Martialytics none) |
 | 73 | arketa-vs-walla (Individual $49/mo billed annually + 3% vs $299/mo per location; both list reformer spot booking) | vs | todo |
-| 74 | barre-studio-software (barre/boutique class studios; spot booking, class packs) | best | todo |
+| 74 | barre-studio-software (barre/boutique class studios; spot booking, class packs) | best | todo **PRIORITY P11 (GSC 2026-11-24, see priority queue)** |
 | 75 | martial-arts-birthday-party-and-camp-software (events, camps, parents night out; PushPress lists all as events) | feature | todo |
-| 76 | martial-arts-waiver-software (guardian signatures for minors compared: Gymdesk, Zen Planner, PushPress, Spark) | feature | todo |
+| 76 | martial-arts-waiver-software (guardian signatures for minors compared: Gymdesk, Zen Planner, PushPress, Spark) | feature | todo **PRIORITY P9 (GSC 2026-11-24, see priority queue)** |
 | 77 | bjj-competition-management-software (Gymdesk + Smoothcomp tournament registration/records vs others) | feature | todo |
 | 78 | martial-arts-seo-and-google-business-profile-help (Kicksite Premium local search/listings vs DIY; which school software includes local SEO) | guide | todo |
 | 79 | zen-planner-essentials-vs-gymdesk (Studio + $99 website vs website included; total cost by active members) | vs | todo |
