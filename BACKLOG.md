@@ -20,6 +20,16 @@ Source: Search Console, Aug 24 to Nov 23 2026 (research/keyword_coverage_2026-11
 
 Rejected (don't build): one page per style (tang soo do, judo, hapkido, kung fu; doorway risk, add a short sourced section to best-karate-school-software instead); a general "martial arts class scheduling" page (repeats bjj-class-scheduling-software); separate Spark/Kicksite/Zen Planner pricing pages (would cannibalize the tool pages, as Mindbody's tool page does); a "dance studio software reviews" page; a new "student tracking" page (retitle belt-rank-tracking-software instead, see quick-fix preview 2026-11-24).
 
+## Priority queue 2: keyword-target new ideas (approved by Jacob 2026-11-24)
+Source: research/keyword_targets_2026-11-24.csv (Search Console Aug 24 to Nov 23 2026 plus Google autocomplete, 2026-11-24). Approved in Jacob's words: "Yes, add the new page ideas to the nightly queue". Work these AFTER the priority queue above. Rows with Search Console impressions come first; autocomplete-only rows have no known search volume. Overlapping intents are consolidated into one page each (no per-trade copies, no doorway pages). Vendor-sourced facts only. No affiliate link or CTA for a vendor unless data/affiliates.json shows an active program, and any new affiliate link needs Jacob's preview first.
+
+| Priority | # | Slug | Target keywords (source) | Distinct intent | Don't duplicate / notes | Status |
+|---|---|---|---|---|---|---|
+| Q1 | 100 | tools/glofox | Autocomplete only (26): glofox pricing, glofox cost, glofox cost per month, glofox pricing per month, glofox pricing plans, how much does glofox cost, abc glofox cost, abc glofox pricing, glofox reviews, glofox software reviews, glofox reviews complaints, glofox reviews trustpilot, abc glofox reviews, glofox app reviews, glofox features, glofox alternatives, glofox vs momence, glofox vs hapana, abc glofox vs ignite, glofox app, glofox app cost, glofox app pricing, glofox pro app, glofox app android, glofox app download, glofox app download free | Glofox (ABC Glofox) tool page: plans, published prices, features, alternatives | Glofox is already listed in #24 (tools still to add): build it as that #24 tool and mark both rows done. No Glofox affiliate program in data/affiliates.json, so no link or CTA; a new affiliate link needs Jacob's preview first. Use only vendor-published prices; if none are published, say so. | todo |
+| Q2 | 101 | (section) /class-booking-software-for-studios/ | Autocomplete only: gym management software price, free studio management software | What studio/gym software costs, including free plans: add a short sourced section, NOT a new page | Section only. Don't duplicate /martial-arts-software-pricing/, /free-martial-arts-software/, /free-music-lesson-software/ or #97 (yoga cost). | todo (section, no new page) |
+
+Merged: Glofox is folded into the existing #24 tool-add list (#100 tracks the keywords); gym/studio price and free studio software are a section (#101), not a new page.
+
 ## Full backlog
 | # | Page | Type | Status |
 |---|------|------|--------|
@@ -46,7 +56,7 @@ Rejected (don't build): one page per style (tang soo do, judo, hapkido, kung fu;
 | 21 | mindbody-alternatives-for-studios | alternatives | done (2026-10-31) |
 | 22 | zen-planner-alternatives | alternatives | done (2026-11-09; added Wodify tool page; Search Console query "zen planner", Oct 2026) |
 | 23 | kicksite-alternatives | alternatives | done (2026-10-30) |
-| 24 | add tools (Jackrabbit Class, DanceStudio-Pro/Studio Pro, Akada, Studio Director added 2026-11-08; Wodify added 2026-11-09; iClassPro added 2026-11-10; still to add; Momence pricing page publishes no prices as of 2026-11-10): Glofox, Momence, MyStudio, Ember, Dojo Expert | data | todo **PRIORITY P12 (GSC 2026-11-24, see priority queue)** |
+| 24 | add tools (Jackrabbit Class, DanceStudio-Pro/Studio Pro, Akada, Studio Director added 2026-11-08; Wodify added 2026-11-09; iClassPro added 2026-11-10; still to add; Momence pricing page publishes no prices as of 2026-11-10): Glofox, Momence, MyStudio, Ember, Dojo Expert | data | todo **PRIORITY P12 (GSC 2026-11-24, see priority queue)** (Glofox keywords: see #100, 2026-11-24) |
 | 25 | best-dance-studio-software (dance-only, with Jackrabbit) | best | done (2026-11-08; live as /dance-studio-software-comparison/, Search Console query "dance studio software comparison") |
 | 26 | best-software-for-new-dojo (startup checklist) | guide | done (2026-11-18; 10 tools: MatPilot, RhinoFit, MatGoat, MAAT, Martialytics, Gymdesk, Kicksite, PushPress, Zen Planner, Spark; 20-student worked example; Zen Planner branded app $39 on tiers page vs $99 on main pricing page) |
 | 27 | martial-arts-software-with-branded-app | feature | done (2026-11-13; branded app add-ons: Zen Planner $39/mo, PushPress $97/mo, Gymdesk $100/mo; Spark/Wodify/MatPilot unpublished; 9 tools re-verified, prices unchanged) |
