@@ -115,7 +115,9 @@
    "https://gymdesk.com/blog/different-types-of-martial-arts",
    "https://gymdesk.com/features/gymdesk-payments",
    "https://gymdesk.com/features/payment-processors",
-   "https://gymdesk.com/features/website"
+   "https://gymdesk.com/features/website",
+   "https://gymdesk.com/features/sms",
+   "https://gymdesk.com/features/mobile-app"
   ],
   "best_for": "Gyms and dojos that want a website included and can use Gymdesk Payments",
   "starting_price": "$75/mo with Gymdesk Payments (≤50 members); $100/mo otherwise",
@@ -128,8 +130,8 @@
    "$25/mo more without Gymdesk Payments",
    "Door access ($100/mo) and branded app ($100/mo) are add-ons"
   ],
-  "last_verified": "2026-11-22",
-  "add_ons": "Branded member app (your gym's own App Store and Google Play listing) $100/mo, first month free; door access $100/mo for up to 3 doors, then $29 per extra door (pricing page, checked 2026-11-13)"
+  "last_verified": "2026-11-24",
+  "add_ons": "Branded member app (your gym's own App Store and Google Play listing) $100/mo, first month free; door access $100/mo for up to 3 doors, then $29 per extra door (pricing page, checked 2026-11-13); SMS is a usage-based add-on (monthly fee for a texting number plus a per-message rate, varies by region; amounts not published). Email and push notifications included (SMS page, checked 2026-11-24)"
  },
  {
   "slug": "kicksite",
@@ -140,7 +142,7 @@
    "bjj"
   ],
   "free_trial": "First 30 days free (pricing and switch pages)",
-  "contract": "Recurring charges until you cancel; annual plans auto-renew every 12 months and aren't refunded if cancelled early (terms of use); discounted annual pricing on request",
+  "contract": "Recurring charges until you cancel; 30-day written cancellation notice via the in-app form; purchases non-refundable; free trial converts to paid unless cancelled before its last day; annual plans auto-renew every 12 months and aren't refunded if cancelled early (terms of use, checked 2026-11-24); discounted annual pricing on request",
   "plans": [
    {
     "name": "0-25 students",
@@ -199,7 +201,7 @@
    "Annual pricing not published (ask for discount at demo)",
    "Basys flat rate adds $29/mo on top of per-transaction fees"
   ],
-  "last_verified": "2026-11-22",
+  "last_verified": "2026-11-24",
   "add_ons": "Martial arts websites (Basic 1-3 pages, Advanced, Premium with local search, Multi-Location) for software customers; prices not published"
  },
  {
