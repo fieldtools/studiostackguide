@@ -148,7 +148,7 @@ def write(path, content):
     f.parent.mkdir(parents=True, exist_ok=True); f.write_text(re.sub(r'(href|src)="/(?!/)', lambda m: f'{m.group(1)}="{PREFIX}/', content)); urls.append(path)
 
 def afflink(key, text):
-    a = aff[key]; rel = "nofollow noopener" if a.get("status") == "plain" else "sponsored nofollow noopener"
+    a = aff[key]; rel = "nofollow noopener" if a.get("status") in ("plain", "paused") else "sponsored nofollow noopener"
     return f'<a class="cta" href="{e(a["url"])}" rel="{rel}" target="_blank">{e(text)}</a>'
 
 def table(slugs):
