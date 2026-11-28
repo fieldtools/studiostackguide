@@ -209,5 +209,10 @@
   "url": "https://www.iclasspro.com/",
   "program": "Affiliate program not checked or joined; plain link (added 2026-11-10)",
   "status": "plain"
+ },
+ "teamup": {
+  "url": "https://goteamup.com/",
+  "program": "No affiliate program checked or joined (non-affiliate)",
+  "status": "plain"
  }
 }
